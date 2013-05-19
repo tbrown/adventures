@@ -1,4 +1,3 @@
 name: Thornton Burgess
 pygments: true
-baseurl: /burgess/
-permalink: :title
+permalink: /burgess/:title
