@@ -1,3 +1,4 @@
 name: Thornton Burgess
 pygments: true
+baseurl: /burgess/
 permalink: :title
