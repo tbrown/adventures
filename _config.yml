@@ -1,3 +1,4 @@
 name: Thornton Burgess
 pygments: true
-permalink: /burgess/:title
+permalink: /:title
+baseurl: "http://tbrown.github.io/burgess"
