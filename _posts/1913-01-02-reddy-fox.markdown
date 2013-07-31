@@ -60,7 +60,7 @@ through the Green Forest, and over to the railroad track. Reddy had
 never been there before and he didn&#8217;t know just what to make of it.
 Granny trotted ahead until they came to a long bridge. Then she stopped.
 
-<p class="q">&#8220;Come here, Reddy, and look down,&#8221; she commanded.</p>
+"Come here, Reddy, and look down," she commanded.
 
 Reddy did as he was told, but a glance down made him giddy, so giddy
 that he nearly fell. Granny Fox grinned.
@@ -98,7 +98,7 @@ And this time Reddy did.
 
 
 
-<h2 id="ch1"><span>II</span> Granny Shows Reddy a Trick</h2>
+<h2 id="ch2"><span>II</span> Granny Shows Reddy a Trick</h2>
 
 Every day Granny Fox led Reddy Fox over to the long railroad bridge
 and made him run back and forth across it until he had no fear of it
@@ -156,7 +156,7 @@ beside Reddy.
 
 
 
-<h2 id="ch1"><span>III</span> Bowser the Hound Isn&#8217;t Fooled</h2>
+<h2 id="ch3"><span>III</span> Bowser the Hound Isn&#8217;t Fooled</h2>
 
 Reddy Fox had been taught so much by Granny Fox that he began to feel
 very wise and very important. Reddy is naturally smart and he had been
@@ -224,7 +224,7 @@ It was Blacky the Crow.
 
 
 
-IV. Reddy Fox Grows Bold
+<h2 id="ch4"><span>IV</span> Reddy Fox Grows Bold</h2>
 
 Reddy Fox was growing bold. Everybody said so, and what everybody says
 must be so. Reddy Fox had always been very sly and not bold at all. The
@@ -278,7 +278,7 @@ Farmer Brown&#8217;s boy, Ol&#8217; Mr. Trouble was right at his heels.
 
 
 
-V. Reddy Grows Careless
+<h2 id="ch1"><span>V</span> Reddy Grows Careless</h2>
 
 Ol&#8217; Mistah Buzzard was right. Trouble was right at the heels of Reddy
 Fox, although Reddy wouldn&#8217;t have believed it if he had been told. He
@@ -353,7 +353,7 @@ right smart soon," muttered Ol&#8217; Mistah Buzzard.
 
 
 
-VI. Drummer the Woodpecker Drums in Vain
+<h2 id="ch1"><span>VI</span> Drummer the Woodpecker Drums in Vain</h2>
 
 Once upon a time, before he had grown to think himself so very, very
 smart, Reddy Fox would never, never have thought of running without
@@ -405,7 +405,7 @@ right on, rat-a-tat-tat-tat, rat-a-tat-tat-tat, rat-a-tat-tat-tat!
 
 
 
-VII. Too Late Reddy Fox Hears
+<h2 id="ch1"><span>VII</span> Too Late Reddy Fox Hears</h2>
 
 Drummer the Woodpecker was pounding out his danger signal so fast and
 so hard that his red head flew back and forth almost too fast to see.
@@ -474,7 +474,7 @@ missed and he growled to himself:
 
 
 
-VIII. Granny Fox Takes Care of Reddy
+<h2 id="ch8"><span>VIII</span> Granny Fox Takes Care of Reddy</h2>
 
 Reddy Fox was so sore and lame that he could hardly hobble. He had had
 the hardest kind of work to get far enough ahead of Bowser the Hound to
@@ -547,7 +547,7 @@ Reddy Fox grew very red in the face, but he never said a word.
 
 
 
-IX. Peter Rabbit Hears the News
+<h2 id="ch9"><span>IX</span> Peter Rabbit Hears the News</h2>
 
 Johnny Chuck came running up to the edge of the Old Briarpatch quite
 out of breath. You see, he is so round and fat and roly-poly that to run
@@ -627,7 +627,7 @@ doesn&#8217;t it?&#8217;&#8217;
 
 
 
-X. Poor Reddy Fox
+<h2 id="ch1"><span>X</span> Poor Reddy Fox</h2>
 
 Peter Rabbit and Johnny Chuck stole up the hill toward the home of Reddy
 Fox. As they drew near, they crept from one bunch of grass to another
@@ -685,7 +685,7 @@ trick him. He forgot all about how mean Reddy had been.
 
 
 
-XI. Granny Fox Returns
+<h2 id="ch1"><span>XI</span> Granny Fox Returns</h2>
 
 Up over the hill trotted old Granny Fox. She was on her way home with
 a tender young chicken for Reddy Fox. Poor Reddy! Of course, it was his
@@ -754,7 +754,7 @@ sailed up into the blue, blue sky.
 
 
 
-XII. The Lost Chicken
+<h2 id="ch12"><span>XII</span> The Lost Chicken</h2>
 
 When old Granny Fox had laid down the chicken she was bringing home to
 Reddy Fox to try to catch Peter Rabbit, she had meant to go right back
@@ -817,7 +817,7 @@ before.
 
 
 
-XIII. Granny Fox Calls Jimmy Skunk Names
+<h2 id="ch13"><span>XIII</span> Granny Fox Calls Jimmy Skunk Names</h2>
 
 Granny Fox couldn&#8217;t believe her own eyes. No, Sir, she couldn&#8217;t believe
 her own eyes, and she rubbed them two or three times to make sure that
@@ -884,7 +884,7 @@ names."
 
 
 
-XIV. Granny Fox Finds What Became of the Chicken
+<h2 id="ch14"><span>XIV</span> Granny Fox Finds What Became of the Chicken</h2>
 
 Old Granny Fox was in a terrible temper. Dear, dear, it certainly was
 a dreadful temper! Jimmy Skunk laughed at her, and that made it worse.
@@ -941,7 +941,7 @@ feathers, and settled himself for a comfortable nap.
 
 
 
-XV. Reddy Fox Has a Visitor
+<h2 id="ch15"><span>XV</span> Reddy Fox Has a Visitor</h2>
 
 Hardly was old Granny Fox out of sight on her way to hunt for the
 chicken she had left on the hill, when Unc&#8217; Billy Possum came strolling
@@ -1009,7 +1009,7 @@ can do. Ah cert&#8217;nly will."
 
 
 
-XVI. Unc&#8217; Billy Possum Visits the Smiling Pool
+<h2 id="ch16"><span>XVI</span> Unc&#8217; Billy Possum Visits the Smiling Pool</h2>
 
 Joe Otter and Billy Mink were sitting on the Big Rock in the Smiling
 Pool. Because they had nothing else to do, they were planning mischief.
@@ -1084,7 +1084,7 @@ fish tails and the feathers of a little duck.
 
 
 
-XVII. Farmer Brown&#8217;s Boy Is Determined
+<h2 id="ch17"><span>XVII</span> Farmer Brown&#8217;s Boy Is Determined</h2>
 
 Farmer Brown&#8217;s boy had made up his mind. When he shut his teeth with a
 click and drew his lips together into a thin, straight line, those who
@@ -1145,7 +1145,7 @@ the Green Forest.
 
 
 
-XVIII. The Hunt for Reddy Fox
+<h2 id="ch18"><span>XVIII</span> The Hunt for Reddy Fox</h2>
 
 "Trouble, trouble, trouble, I feel it in the air; Trouble, trouble,
 trouble, it&#8217;s round me everywhere."
@@ -1217,7 +1217,7 @@ Fox.
 
 
 
-XIX Unc&#8217; Billy Possum Gives Warning
+<h2 id="ch1"><span>XIX</span> Unc&#8217; Billy Possum Gives Warning</h2>
 
 "What&#8217;s the matter with you, Unc&#8217; Billy? You look as if you had lost
 your last friend." It was Jimmy Skunk who spoke.
@@ -1284,7 +1284,7 @@ boy, and never once guessed that they were hiding from him.
 
 
 
-XX. Old Granny Fox Makes a Mistake
+<h2 id="ch20"><span>XX</span> Old Granny Fox Makes a Mistake</h2>
 
 Old Granny Fox was running through the overgrown old pasture, way up
 back of Farmer Brown&#8217;s. She was cross and tired and hot, for it was a
@@ -1345,7 +1345,7 @@ Hound," she muttered.
 
 
 
-XXI. Reddy Fox Disobeys
+<h2 id="ch21"><span>XXI</span> Reddy Fox Disobeys</h2>
 
 When old Granny Fox had sent Reddy Fox into the house and told him to
 stay there until she returned home, he had not wanted to mind, but he
@@ -1415,7 +1415,7 @@ of Farmer Brown&#8217;s boy and the muzzle of that dreadful gun!
 
 
 
-XXII. Ol&#8217; Mistah Buzzard&#8217;s Keen Sight
+<h2 id="ch22"><span>XXII</span> Ol&#8217; Mistah Buzzard&#8217;s Keen Sight</h2>
 
 Old Granny Fox had thought that when she fooled Bowser the Hound up
 in the old pasture on the edge of the mountain she could take her time
@@ -1492,7 +1492,7 @@ muttered.
 
 
 
-XXII Granny Fox Has a Terrible Scare
+<h2 id="ch23"><span>XXIII</span> Granny Fox Has a Terrible Scare</h2>
 
 Old Granny Fox felt her heart sink way down to her toes, for she felt
 sure Ol&#8217; Mistah Buzzard had seen Farmer Brown&#8217;s boy and his gun over
@@ -1553,7 +1553,7 @@ could remember.
 
 
 
-XXIV. Granny and Reddy Have To Move
+<h2 id="ch24"><span>XXIV</span> Granny and Reddy Have To Move</h2>
 
 "I don&#8217;t want to move," whined Reddy Fox. "I&#8217;m too sore to walk."
 
@@ -1629,7 +1629,7 @@ doorway.
 
 
 
-XXV. Peter Rabbit Makes a Discovery
+<h2 id="ch25"><span>XXV</span> Peter Rabbit Makes a Discovery</h2>
 
 Hardly had jolly, round, red Mr. Sun thrown off his nightcap and come
 out from his home behind the Purple Hills for his daily climb up in the
@@ -1702,7 +1702,7 @@ he&#8217;ll catch poor Reddy!"
 
 
 
-XXVI. Farmer Brown&#8217;s Boy Works for Nothing
+<h2 id="ch26"><span>XXVI</span> Farmer Brown&#8217;s Boy Works for Nothing</h2>
 
 The grass around the doorstep of the house where Reddy Fox had always
 lived was all wet with dew when Farmer Brown&#8217;s boy laid his gun down,
