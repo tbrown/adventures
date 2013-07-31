@@ -37,7 +37,7 @@ p + p {
 .q {
   text-indent: -0.554rem;
 }
-p + p.q {
+p + .q {
   text-indent: 1.7779999999999998rem;
 }
 i,
@@ -119,6 +119,7 @@ body {
   /*#312C22;*/
 }
 body.johnny-chuck { background-color: #471F2F; }
+body.reddy-fox { background-color: #965c1d; }
 .wrap {
   border-color: rgba(0, 0, 0, 0.1);
 }
