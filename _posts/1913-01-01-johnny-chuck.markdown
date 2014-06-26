@@ -2,7 +2,7 @@
 layout: post
 title: "The Adventures of Johnny Chuck"
 slug: johnny-chuck
-date: 1913-01-01 00:00:01
+date: 1913-01-02
 ---
 
 <h2 id="ch1"><span>I</span> GENTLE SISTER SOUTH WIND ARRIVES</h2>

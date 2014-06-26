@@ -2,7 +2,7 @@
 layout: post
 title: "The Adventures of Reddy Fox"
 slug: reddy-fox
-date: 1913-01-02 00:00:01
+date: 1913-01-01
 ---
 
 <h2 id="ch1"><span>I</span> Granny Fox Gives Reddy a Scare</h2>
