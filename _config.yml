@@ -3,3 +3,4 @@ highlighter: pygments
 permalink: /:title
 url: "http://tbrown.github.io"
 baseurl: "/adventures"
+markdown: kramdown

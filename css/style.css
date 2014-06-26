@@ -122,6 +122,7 @@ body {
   color: #444;
   /*#312C22;*/
 }
+body.old-mr-toad { background-color: #666600; }
 body.johnny-chuck { background-color: #471F2F; }
 body.reddy-fox { background-color: #965c1d; }
 .wrap {
