@@ -194,8 +194,8 @@ bank of the Smiling Pool they looked. They peeped under old leaves and
 sticks. They looked in every place where Old Mr. Toad might have hidden,
 but not a trace of him did they find.
 
-  "Tra-la-la-lee! Oka-chee! Oka-chee!
-  Happy am I as I can be!"
+<blockquote><p>"Tra-la-la-lee! Oka-chee! Oka-chee!<br />
+Happy am I as I can be!"</p></blockquote>
 
 sang Mr. Redwing, as he swayed to and fro among the bulrushes.
 
