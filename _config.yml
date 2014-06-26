@@ -1,6 +1,6 @@
 name: Thornton Burgess
 highlighter: pygments
 permalink: /:title
-url: "http://tbrown.github.io"
-baseurl: "/adventures"
+url: "http://tbrown.github.io/adventures"
+baseurl: ""
 markdown: kramdown
