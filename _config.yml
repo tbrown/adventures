@@ -1,4 +1,5 @@
 name: Thornton Burgess
-pygments: true
+highlighter: pygments
 permalink: /:title
-baseurl: "http://tbrown.github.io/burgess"
+url: "http://tbrown.github.io"
+baseurl: "/adventures"

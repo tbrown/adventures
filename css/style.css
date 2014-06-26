@@ -1,15 +1,18 @@
 @import url(reset-normalize.css);
+
 /* Measurement
-http://modularscale.com/scale/?ra1=1.333&px1=21
+  http://modularscale.com/scale/?ra1=1.333&px1=21
 	21px @ 1:1.333
 	1024px @ 1:1.333
 -------------------------------------------------------------------------------*/
+
 /* Variables
 ---------------------------*/
+
 /* Type basics
 ---------------------------*/
 body {
-  font: 100% BentonModernRE, Verdana, sans-serif;
+  font: 100% "Benton Modern RE", Verdana, sans-serif;
 }
 h2 {
   text-align: center;
@@ -90,7 +93,7 @@ footer {
   }
   .header h1 {
     width: 100%;
-    font-family: "Benton Mod Disp Cond Light", serif;
+    font-family: BentonModernDispCondLight, serif;
     font-size: 8.558rem;
     line-height: 1;
   }
@@ -108,7 +111,8 @@ footer {
 	width: 36.018rem;
 	margin-right: 3.109rem;
 	}*/
-/* Color 
+
+/* Color
 ---------------------------*/
 html {
   border-color: rgba(255, 255, 255, 0.1);
@@ -124,7 +128,6 @@ body.reddy-fox { background-color: #965c1d; }
   border-color: rgba(0, 0, 0, 0.1);
 }
 .header {
-  xbackground-color: #505a2c;
   color: rgba(255, 255, 255, 0.8);
   text-shadow: 0 -3px 0 #505a2c;
 }
