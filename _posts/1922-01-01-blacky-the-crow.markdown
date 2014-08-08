@@ -77,8 +77,8 @@ another look at that old nest.
 
 <h2 id="ch2"><a href="#ch2"><span>II</span> Blacky Makes Sure</a></h2>
 
-  <blockquote><p>"As true as ever I've cawed a caw<br />
-  That was a new-laid egg I saw."</p></blockquote>
+  <blockquote><p>&#8220;As true as ever I&#8217;ve cawed a caw<br />
+  That was a new-laid egg I saw.&#8220;</p></blockquote>
 
 "What are you talking about?" demanded Sammy Jay, coming up just in time
 to hear the last part of what Blacky the Crow was mumbling to himself.
@@ -334,7 +334,7 @@ working out just as he had hoped.
 
 <h2 id="ch6"><a href="#ch6"><span>VI</span> Hooty The Owl Doesn't Stay Still</a></h2>
 
-  <blockquote><p>Now what's the good of being smart<br />
+  <blockquote><p>Now what&#8217;s the good of being smart<br />
   When others do not do their part?</p></blockquote>
 
 If Blacky the Crow didn't say this to himself, he thought it. He knew
@@ -400,7 +400,7 @@ sat still. It was very provoking.
 <h2 id="ch7"><a href="#ch7"><span>VII</span> Blacky Tries Another Plan</a></h2>
 
   <blockquote><p>When one plan fails, just try another;<br />
-  Declare you'll win some way or other.</p></blockquote>
+  Declare you&#8217;ll win some way or other.</p></blockquote>
 
 People who succeed are those who do not give up because they fail the
 first time they try. They are the ones who, as soon as one plan fails,
@@ -670,8 +670,8 @@ flew a great bird. It was Mrs. Hooty! Blacky the Crow chuckled.
 
 <h2 id="ch11"><a href="#ch11"><span>XI</span> Farmer Brown's Boy Is Tempted</a></h2>
 
-  <blockquote><p>When you're tempted to do wrong<br />
-  Is the time to prove you're strong.<br />
+  <blockquote><p>When you&#8217;re tempted to do wrong<br />
+  Is the time to prove you&#8217;re strong.<br />
   Shut your eyes and clench each fist;<br />
   It will help you to resist.</p></blockquote>
 
@@ -1191,7 +1191,7 @@ bottom. Presently he saw something else. "Ha!" exclaimed Blacky.
   &nbsp;&nbsp;Beware!<br />
   They may be wholly harmless but&#8212;<br />
   &nbsp;&nbsp;Beware!<br />
-  You'll find the older that you grow<br />
+  You&#8217;ll find the older that you grow<br />
   That only things and folks you know<br />
   Are fully to be trusted, so<br />
   &nbsp;&nbsp;Beware!<br />
@@ -1322,7 +1322,7 @@ like it."
 
 <h2 id="ch20"><a href="#ch20"><span>XX</span> Blacky Drops A Hint</a></h2>
 
-  <blockquote><p>When you see another's danger<br />
+  <blockquote><p>When you see another&#8217;s danger<br />
   Warn him though he be a stranger.<br />
   &#8212; Blacky the Crow.</p></blockquote>
 
@@ -2112,9 +2112,9 @@ eggs!
 
 <h2 id="ch31"><a href="#ch31"><span>XXXI</span> An Egg That Wouldn't Behave</a></h2>
 
-  <blockquote><p>If you had an egg and it wouldn't behave<br />
+  <blockquote><p>If you had an egg and it wouldn&#8217;t behave<br />
   Just what would you do with that egg, may I ask?<br />
-  To make an egg do what it don't want to do<br />
+  To make an egg do what it don&#8217;t want to do<br />
   Strikes me like a difficult sort of a task.</p></blockquote>
 
 All of which is pure nonsense. Of course. Who ever heard of an egg
