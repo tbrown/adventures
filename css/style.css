@@ -50,9 +50,23 @@ blockquote {
 blockquote {
   margin: 0.985rem 0 0.985rem 2.332rem;
 }
-blockquote p {
-  font-size: 0.985rem;
+
+/* Links
+------------------------------*/
+a {
+  color: #222;
+  text-decoration: none;
+  background-image: linear-gradient(to top,
+    rgba(0,0,0,0) 5%,
+    rgba(0,0,0,.3) 5%,
+    rgba(0,0,0,.3) 10%,
+    rgba(0,0,0,0) 10%
+    );
+  text-shadow:
+    2px 0 0 #f5f1e5,
+    -2px 0 0 #f5f1e5;
 }
+
 /* Header
 ------------------------------*/
 header {
@@ -61,15 +75,18 @@ header {
 }
 .name {
   text-transform: uppercase;
+  letter-spacing: .02em;
 }
 footer {
   clear: both;
 }
+
 /* Characters
 ------------------------------*/
 .characters {
   display: none;
 }
+
 /* Layout
 ---------------------------*/
 @media screen {
@@ -99,7 +116,7 @@ footer {
   }
   .article {
     border-radius: 0.1em;
-    padding: 0 3.613rem;
+    padding: 0 3.613rem 6em;
   }
   p {
     font-size: 1.313rem;
@@ -122,6 +139,7 @@ body {
   color: #444;
   /*#312C22;*/
 }
+body.blacky { background-color: #181e24; }
 body.old-mr-toad { background-color: #666600; }
 body.johnny-chuck { background-color: #471F2F; }
 body.reddy-fox { background-color: #965c1d; }
@@ -130,7 +148,7 @@ body.reddy-fox { background-color: #965c1d; }
 }
 .header {
   color: rgba(255, 255, 255, 0.8);
-  text-shadow: 0 -3px 0 #505a2c;
+  text-shadow: 0 -3px 0 rgba(0,0,0,0.2);
 }
 .header h1 {
   color: #fff;
