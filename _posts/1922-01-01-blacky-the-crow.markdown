@@ -5,6 +5,39 @@ slug: blacky
 date: 1922-01-01
 ---
 
+1. [Blacky The Crow Makes A Discovery](#ch1)
+2. [Blacky Makes Sure](#ch2)
+3. [Blacky Finds Out Who Owns The Eggs](#ch3)
+4. [The Cunning Of Blacky](#ch4)
+5. [Blacky Calls His Friends](#ch5)
+6. [Hooty The Owl Doesn't Stay Still](#ch6)
+7. [Blacky Tries Another Plan](#ch7)
+8. [Hooty Comes To Mrs. Hooty's Aid](#ch8)
+9. [Blacky Thinks Of Farmer Brown's Boy](#ch9)
+10. [Farmer Brown's Boy And Hooty](#ch10)
+11. [Farmer Brown's Boy Is Tempted](#ch11)
+12. [A Tree-Top Battle](#ch12)
+13. [Blacky Has A Change Of Heart](#ch13)
+14. [Blacky Makes A Call](#ch14)
+15. [Blacky Does A Little Looking About](#ch15)
+16. [Blacky Finds Other Signs](#ch16)
+17. [Blacky Watches A Queer Performance](#ch17)
+18. [Blacky Becomes Very Suspicious](#ch18)
+19. [Blacky Makes More Discoveries](#ch19)
+20. [Blacky Drops A Hint](#ch20)
+21. [At Last Blacky Is Sure](#ch21)
+22. [Blacky Goes Home Happy](#ch22)
+23. [Blacky Calls Farmer Brown's Boy](#ch23)
+24. [Farmer Brown's Boy Does Some Thinking](#ch24)
+25. [Blacky Gets A Dreadful Shock](#ch25)
+26. [Why The Hunter Got No Ducks](#ch26)
+27. [The Hunter Gives Up](#ch27)
+28. [Blacky Has A Talk With Dusky The Black Duck](#ch28)
+29. [Blacky Discovers An Egg](#ch29)
+30. [Blacky Screws Up His Courage](#ch30)
+31. [An Egg That Wouldn't Behave](#ch31)
+32. [What Blacky Did With The Stolen Egg](#ch32)
+
 <h2 id="ch1"><a href="#ch1"><span>I</span> Blacky The Crow Makes A Discovery</a></h2>
 
 Blacky the Crow is always watching for things not intended for his sharp
@@ -332,7 +365,7 @@ working out just as he had hoped.
 
 
 
-<h2 id="ch6"><a href="#ch6"><span>VI</span> Hooty The Owl Doesn't Stay Still</a></h2>
+<h2 id="ch6"><a href="#ch6"><span>VI</span> Hooty The Owl Doesn&#8217;t Stay Still</a></h2>
 
   <blockquote><p>Now what&#8217;s the good of being smart<br />
   When others do not do their part?</p></blockquote>
@@ -469,7 +502,7 @@ had hope, a great hope, that he would get one of those eggs.
 
 
 
-<h2 id="ch8"><a href="#ch8"><span>VIII</span> Hooty Comes To Mrs. Hooty's Aid</a></h2>
+<h2 id="ch8"><a href="#ch8"><span>VIII</span> Hooty Comes To Mrs. Hooty&#8217;s Aid</a></h2>
 
 No one can live just for self alone. A lot of people think they can,
 but they are very much mistaken. They are making one of the greatest
@@ -536,7 +569,7 @@ could he get those eggs?
 
 
 
-<h2 id="ch9"><a href="#ch9"><span>IX</span> Blacky Thinks Of Farmer Brown's Boy</a></h2>
+<h2 id="ch9"><a href="#ch9"><span>IX</span> Blacky Thinks Of Farmer Brown&#8217;s Boy</a></h2>
 
 "Such luck!" grumbled Blacky, as he flew over to his favorite tree to do
 a little thinking. "Such luck! Now all my neighbors know about the nest
@@ -600,7 +633,7 @@ boy.
 
 
 
-<h2 id="ch10"><a href="#ch10"><span>X</span> Farmer Brown's Boy And Hooty</a></h2>
+<h2 id="ch10"><a href="#ch10"><span>X</span> Farmer Brown&#8217;s Boy And Hooty</a></h2>
 
 Farmer Brown's boy had taken it into his head to visit the Green Forest.
 It was partly because he hadn't anything else to do, and it was partly
@@ -668,7 +701,7 @@ flew a great bird. It was Mrs. Hooty! Blacky the Crow chuckled.
 
 
 
-<h2 id="ch11"><a href="#ch11"><span>XI</span> Farmer Brown's Boy Is Tempted</a></h2>
+<h2 id="ch11"><a href="#ch11"><span>XI</span> Farmer Brown&#8217;s Boy Is Tempted</a></h2>
 
   <blockquote><p>When you&#8217;re tempted to do wrong<br />
   Is the time to prove you&#8217;re strong.<br />
@@ -1541,7 +1574,7 @@ Shadows. And the hunter stood up and shook his fist at Blacky the Crow.
 
 
 
-<h2 id="ch23"><a href="#ch23"><span>XXIII</span> Blacky Calls Farmer Brown's Boy</a></h2>
+<h2 id="ch23"><a href="#ch23"><span>XXIII</span> Blacky Calls Farmer Brown&#8217;s Boy</a></h2>
 
 Blacky awoke in the best of spirits. Late the afternoon before he had
 saved Dusky the Black Duck and his flock from a hunter with a terrible
@@ -1611,7 +1644,7 @@ blind, and there were none.
 
 
 
-<h2 id="ch24"><a href="#ch24"><span>XXIV</span> Farmer Brown's Boy Does Some Thinking</a></h2>
+<h2 id="ch24"><a href="#ch24"><span>XXIV</span> Farmer Brown&#8217;s Boy Does Some Thinking</a></h2>
 
 Farmer Brown's boy sat on the bank of the Big River in a brown study.
 That means that he was thinking very hard. Blacky the Crow sat in the
@@ -2110,7 +2143,7 @@ eggs!
 
 
 
-<h2 id="ch31"><a href="#ch31"><span>XXXI</span> An Egg That Wouldn't Behave</a></h2>
+<h2 id="ch31"><a href="#ch31"><span>XXXI</span> An Egg That Wouldn&#8217;t Behave</a></h2>
 
   <blockquote><p>If you had an egg and it wouldn&#8217;t behave<br />
   Just what would you do with that egg, may I ask?<br />
