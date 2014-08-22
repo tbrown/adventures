@@ -135,7 +135,7 @@ html {
   border-color: rgba(255, 255, 255, 0.1);
 }
 body {
-  background: url(clothTrans15.png) #505a2c;
+  background: url(clothTrans15.png) #60503e; /* #505a2c;*/
   color: #444;
   /*#312C22;*/
 }
