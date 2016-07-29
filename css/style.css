@@ -13,6 +13,12 @@
 ---------------------------*/
 body {
   font: 100% "Benton Modern RE", Verdana, sans-serif;
+  font-kerning: normal;
+	font-variant-ligatures: common-ligatures, contextual;
+	-moz-font-feature-settings: "kern", "liga", "clig", "calt";
+	-ms-font-feature-settings: "kern", "liga", "clig", "alt";
+	-webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+	font-feature-settings: "kern", "liga", "clig", "calt";
 }
 h2 {
   text-align: center;
@@ -34,6 +40,15 @@ p {
   -moz-hyphens: auto;
   hyphens: auto;
 }
+li {
+	font-kerning: normal;
+	font-variant-ligatures: common-ligatures, contextual;
+	font-variant-numeric: lining-nums, tabular-nums;
+	-moz-font-feature-settings: "kern", "liga", "clig", "calt", "lnum", "tnum";
+	-ms-font-feature-settings: "kern", "liga", "clig", "calt", "lnum", "tnum";
+	-webkit-font-feature-settings: "kern", "liga", "clig", "calt", "lnum", "tnum";
+	font-feature-settings: "kern", "liga", "clig", "calt", "lnum", "tnum";
+}
 p + p {
   text-indent: 2.332rem;
 }
@@ -46,6 +61,9 @@ p + .q {
 i,
 blockquote {
   font-style: italic;
+}
+blockquote em {
+	font-style: normal;
 }
 blockquote {
   margin: 0.985rem 0 0.985rem 2.332rem;
@@ -117,7 +135,7 @@ footer {
   }
   .article {
     border-radius: 0.1em;
-    padding: 0 3.613rem 6em;
+    padding: 1.313em 3.613rem 6em;
   }
   p {
     font-size: 1.313rem;
@@ -140,11 +158,12 @@ body {
   color: #444;
   /*#312C22;*/
 }
-body.blacky { background-color: #181e24; }
-body.old-mr-toad { background-color: #666600; }
-body.johnny-chuck { background-color: #471F2F; }
-body.reddy-fox { background-color: #965c1d; }
-body.becky-bear { background-color: #233c63; }
+body.blacky { background-color: #181e24; } /* black */
+body.old-mr-toad { background-color: #666600; } /* green */
+body.johnny-chuck { background-color: #471F2F; } /* maroon */
+body.reddy-fox { background-color: #965c1d; } /* orange */
+body.becky-bear { background-color: #233c63; } /* blue */
+body.dani-meadow-mouse { background-color: #645e23; } /* yellow */
 .wrap {
   border-color: rgba(0, 0, 0, 0.1);
 }
