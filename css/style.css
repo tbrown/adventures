@@ -129,7 +129,8 @@ footer {
   }
   .header h1 {
     width: 100%;
-    font-family: BentonModernDispCondLight, serif;
+    /*font-family: BentonModernDispCondLight, serif;*/
+    font-family: "benton-modern-display-conden", serif;
     font-size: 8.558rem;
     line-height: 1;
   }
