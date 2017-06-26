@@ -13,9 +13,6 @@ date: 1917-10-01
 
 4. [Sammy Jay Speaks Her Mind](#ch4)
 5. [Paddy Keeps Her Promise](#ch5)
-
-v This is what we read/edit next.
-
 6. [Farmer Brown’s Girl Grows Curious](#ch6)
 7. [Farmer Brown’s Girl Gets Another Surprise](#ch7)
 8. [Peter Rabbit Gets a Ducking](#ch8)
@@ -23,7 +20,7 @@ v This is what we read/edit next.
 10. [Paddy Starts Her House](#ch10)
 11. [Peter Rabbit and Mary Muskrat Are Puzzled](#ch11)
 12. [Mary Muskrat Learns Something](#ch12)
-13. [The Queer Storehouse](#ch13)
+13. [The Strange Storehouse](#ch13)
 14. [A Footprint in the Mud](#ch14)
 15. [Sammy Jay Makes Paddy a Call](#ch15)
 16. [Old Man Coyote Is Very Crafty](#ch16)
@@ -426,17 +423,14 @@ would once more fill the Smiling Pool.
 
 
 
-VI
-
-Farmer Brown's Girl GROWS CURIOUS
-
+<h2 id="ch6"><a href="#ch6"><span>VI</span> Farmer Brown's Girl Grows Curious</a></h2>
 
 Now it happened that the very day before Paddy the Beaver decided that
-his pond was big enough, and so allowed the water to run in the Laughing
-Brook once more, Farmer Brown's Girl took it into his head to go fishing
+her pond was big enough, and so allowed the water to run in the Laughing
+Brook once more, Farmer Brown's Girl took it into her head to go fishing
 in the Smiling Pool. Just as usual she went whistling down across the
 Green Meadows. Somehow, when she goes fishing, she always feels like
-whistling. Grandfather Frog heard him coming and dived into the little
+whistling. Grandfather Frog heard her coming and dived into the little
 bit of water remaining in the Smiling Pool and stirred up the mud at the
 bottom so that Farmer Brown's Girl shouldn't see him.
 
@@ -446,32 +440,32 @@ was what used to be the Smiling Pool. Now there wasn't any Smiling Pool,
 for the very little pool left was too small and sickly-looking to smile.
 There were great banks of mud, out of which grew the bulrushes. The
 lily-pads were forlornly stretched out towards the tiny pool of water
-remaining. Where the banks were steep and high, the holes that Jerry
+remaining. Where the banks were steep and high, the holes that Mary
 Muskrat and Billy Mink knew so well were plain to see. Over at one side
 stood Mary Muskrat's house, wholly out of water.
 
-Somehow, it seemed to Farmer Brown's Girl that she must be dreaming. He
+Somehow, it seemed to Farmer Brown's Girl that she must be dreaming. She
 never, never had seen anything like this before, not even in the very
-driest weather of the hottest part of the summer. she looked this way and
+driest weather of the hottest part of the summer. She looked this way and
 looked that way. The Green Meadows looked just as usual. The Green
-Forest looked just as usual. The Laughing Brook--ha! What was the matter
-with the Laughing Brook? she couldn't hear it and that, you know, was
-very unusual. she dropped his rod and ran over to the Laughing Brook.
+Forest looked just as usual. The Laughing Brook — ha! What was the matter
+with the Laughing Brook? She couldn't hear it and that, you know, was
+very unusual. She dropped her rod and ran over to the Laughing Brook.
 There wasn't any brook. No, sir, there wasn't any brook; just pools of
 water with the tiniest of streams trickling between. Big stones over
 which she had always seen the water running in the prettiest of little
 white falls were bare and dry. In the little pools frightened minnows
 were darting about.
 
-Farmer Brown's Girl scratched his head in a puzzled way. "I don't
-understand it," said he. "I don't understand it at all. Something must
+Farmer Brown's Girl scratched her head in a puzzled way. "I don't
+understand it," said she. "I don't understand it at all. Something must
 have gone wrong with the springs that supply the water for the Laughing
 Brook. They must have failed. Yes, Sir, that is just what must have
 happened. But I never heard of such a thing happening before, and I
-really don't see how it could happen." she stared up into the Green
-Forest just as if she thought she could see those springs. Of course, he
+really don't see how it could happen." She stared up into the Green
+Forest just as if she thought she could see those springs. Of course, she
 didn't think anything of the kind. she was just turning it all over in
-his mind. "I know what I'll do! I'll go up to those springs this
+her mind. "I know what I'll do! I'll go up to those springs this
 afternoon and find out what the trouble is," she said out loud. "They are
 way over almost on the other side of the Green Forest, and the easiest
 way to get there will be to start from home and cut across the Old
@@ -479,16 +473,16 @@ Pasture up to the edge of the Mountain behind the Green Forest. If I try
 to follow up the Laughing Brook now, it will take too long, because it
 winds and twists so. Besides, it is too hard work."
 
-With that, Farmer Brown's Girl went back and picked up his rod. Then he
+With that, Farmer Brown's Girl went back and picked up her rod. Then she
 started for home across the Green Meadows, and for once she wasn't
 whistling. You see, she was too busy thinking. In fact, she was so busy
-thinking that she didn't see Jimmy Skunk until she almost stepped on him,
+thinking that she didn't see Jenny Skunk until she almost stepped on her,
 and then she gave a frightened jump and ran, for without a gun she was
-just as much afraid of Jimmy as Jimmy was of him when she did have a gun.
+just as much afraid of Jenny as Jenny was of her when she did have a gun.
 
-Jimmy just grinned and went on about his business. It always tickles
-Jimmy to see people run away from him, especially people so much bigger
-than himself; they look so silly.
+Jenny just grinned and went on about her business. It always tickles
+Jenny to see people run away from her, especially people so much bigger
+than herself; they look so silly.
 
 "I should think that they would have learned by this time that if
 they don't bother me, I won't bother them," she muttered, as she rolled
@@ -498,38 +492,33 @@ understand me."
 [Illustration]
 
 
-
-
-VII
-
-Farmer Brown's Girl GETS ANOTHER SURPRISE
-
+<h2 id="ch7"><a href="#ch7"><span>VII</span> Farmer Brown's Girl Gets Another Surprise</a></h2>
 
 Across the Old Pasture to the foot of the Mountain back of the Green
-Forest tramped Farmer Brown's Girl. Ahead of him trotted Bowser the
+Forest tramped Farmer Brown's Girl. Ahead of her trotted Bella the
 Hound, sniffing and snuffing for the tracks of Reddy or Granny Fox. Of
 course she didn't find them, for Reddy and Granny hadn't been up in the
-Old Pasture for a long time. But she did find old Jed Thumper, the big
+Old Pasture for a long time. But she did find Old Sue Thumper, the big
 gray Rabbit who had made things so uncomfortable for Peter Rabbit once
-upon a time, and gave him such a fright that old Jed didn't look where
-he was going and almost ran headfirst into Farmer Brown's Girl.
+upon a time, and Bella gave her such a fright that Old Sue didn't look where
+she was going and almost ran headfirst into Farmer Brown's Girl.
 
 "Hi, there, you old cottontail!" yelled Farmer Brown's Girl, and this
-frightened Old Jed still more, so that she actually ran right past his
+frightened Old Sue still more, so that she actually ran right past her
 own castle of bullbriars without seeing it.
 
-Farmer Brown's Girl kept on his way, laughing at the fright of old Jed
+Farmer Brown's Girl kept on her way, laughing at the fright of Old Sue
 Thumper. Presently she reached the springs from which came the water that
-made the very beginning of the Laughing Brook. she expected to find them
+made the very beginning of the Laughing Brook. She expected to find them
 dry, for way down on the Green Meadows the Smiling Pool was nearly dry,
 and the Laughing Brook was nearly dry, and she had supposed that of
 course the reason was that the springs where the Laughing Brook started
 were no longer bubbling.
 
-But they were! The clear cold water came bubbling up out of the ground
+But they were! The clear, cold water came bubbling up out of the ground
 just as it always had, and ran off down into the Green Forest in a
-little stream that would grow and grow as it ran and become the Laughing
-Brook. Farmer Brown's Girl took off his ragged old straw hat and scowled
+little stream that would grow and grow as it ran and became the Laughing
+Brook. Farmer Brown's Girl took off her ragged old straw hat and scowled
 down at the bubbling water just as if she thought it had no business to
 be bubbling there.
 
@@ -538,18 +527,18 @@ what she did think. Here were the springs bubbling away just as they
 always had. There was the little stream starting off down into the Green
 Forest with a gurgle that by and by would become a laugh, just as it
 always had. And yet down on the Green Meadows on the other side of the
-Green Forest there was no longer a Laughing Brook or a Smiling Pool. He
-felt as if she ought to pinch himself to make sure that she was awake and
+Green Forest there was no longer a Laughing Brook or a Smiling Pool. She
+felt as if she ought to pinch herself to make sure that she was awake and
 not dreaming.
 
-"I don't know what it means," said he, talking out loud. "No, Sir, I
+"I don't know what it means," said she, talking out loud. "No, Sir, I
 don't know what it means at all, but I'm going to find out. There's a
-cause for everything in this world, and when a fellow doesn't know a
-thing, it is his business to find out all about it. I'm going to find
+cause for everything in this world, and when a person doesn't know a
+thing, it is her business to find out all about it. I'm going to find
 out what has happened to the Laughing Brook, if it takes me a year!"
 
 With that she started to follow the little stream which ran gurgling
-down into the Green Forest. she had followed that little stream more than
+down into the Green Forest. She had followed that little stream more than
 once, and now she found it just as she remembered it. The farther it ran,
 the larger it grew, until at last it became the Laughing Brook, merrily
 tumbling over rocks and making deep pools in which the trout loved to
@@ -557,43 +546,38 @@ hide. At last she came to the edge of a little open hollow in the very
 heart of the Green Forest. she knew what splendid deep holes there were
 in the Laughing Brook here, and how the big trout loved to lie in them
 because they were deep and cool. she was thinking of these trout now and
-wishing that she had brought along his fishing-rod. she pushed his way
-through a thicket of alders and then--Farmer Brown's Girl stopped
-suddenly and fairly gasped! she had to stop because there right in front
-of him was a pond!
+wishing that she had brought along her fishing-rod. She pushed her way
+through a thicket of alders and then — Farmer Brown's Girl stopped
+suddenly and fairly gasped! She had to stop because there right in front
+of her was a pond!
 
-He rubbed his eyes and looked again. Then she stooped down and put his
+She rubbed her eyes and looked again. Then she stooped down and put her
 hand in the water to see if it was real. There was no doubt about it. It
-was real water,--a real pond where there never had been a pond before.
+was real water — a real pond where there never had been a pond before.
 It was very still there in the heart of the Green Forest. It was always
 very still there, but it seemed stiller than usual as she tramped around
-the edge of this strange pond. she felt as if it were all a dream. He
+the edge of this strange pond. she felt as if it were all a dream. She
 wondered if pretty soon she wouldn't wake up and find it all untrue. But
-he didn't, and so she kept on tramping until presently she came to a
-dam,--a splendid dam of logs and sticks and mud. Over the top of it the
+she didn't, and so she kept on tramping until presently she came to a
+dam — a splendid dam of logs and sticks and mud. Over the top of it the
 water was running, and down in the Green Forest below she could hear the
 Laughing Brook just beginning to laugh once more. Farmer Brown's Girl sat
-down with his elbows on his knees and his chin in his hands. she was
+down with her elbows on her knees and her chin in her hands. She was
 almost too much surprised to even think.
 
 [Illustration]
 
 
+<h2 id="ch8"><a href="#ch8"><span>VIII</span> Peter Rabbit Gets a Ducking</a></h2>
 
-
-VIII
-
-PETER RABBIT GETS A DUCKING
-
-
-Farmer Brown's Girl sat with his chin in his hands staring at the new
+Farmer Brown's Girl sat with her chin in her hands staring at the new
 pond in the Green Forest and at the dam which had made it. That dam
-puzzled him. Who could have built it? What did they build it for? Why
-hadn't she heard them chopping? she looked carelessly at the stump of one
+puzzled her. Who could have built it? What did they build it for? Why
+hadn't she heard them chopping? She looked carelessly at the stump of one
 of the trees, and then a still more puzzled look made deep furrows
-between his eyes. It looked--yes, it looked very much as if teeth, and
+between her eyes. It looked — yes, it looked very much as if teeth, and
 not an axe, had cut down that tree. Farmer Brown's Girl stared and
-stared, his mouth gaping wide open. she looked so funny that Peter
+stared, her mouth gaping wide open. She looked so funny that Peter
 Rabbit, who was hiding under an old pile of brush close by, nearly
 laughed right out.
 
@@ -603,52 +587,52 @@ the very edge of the old brush-pile, and every hair on Peter stood on
 end with fright.
 
 "Bow, wow, wow!" It seemed to Peter that the great voice was right in
-his very ears. It frightened him so that she just _had_ to jump. He
-didn't have time to think. And so she jumped right out from under the
+his very ears. It frightened him so that he just _had_ to jump. He
+didn't have time to think. And so he jumped right out from under the
 pile of brush and of course right into plain sight. And the very instant
 he jumped there came another great roar behind him. Of course it was
-from Bowser the Hound. You see, Bowser had been following the trail of
-his master, but as she always stops to sniff at everything she passes, he
+from Bella the Hound. You see, Bella had been following the trail of
+her master, but as she always stops to sniff at everything she passes, she
 had been some distance behind. When she came to the pile of brush under
 which Peter was hiding she had sniffed at that, and of course she had
 smelled Peter right away.
 
-Now when Peter jumped out so suddenly, she had landed right at one end
-of the dam. The second roar of Bowser's great voice frightened him still
-more, and she jumped right up on the dam. There was nothing for him to do
+Now when Peter jumped out so suddenly, he had landed right at one end
+of the dam. The second roar of Bella's great voice frightened him still
+more, and he jumped right up on the dam. There was nothing for him to do
 now but go across, and it wasn't the best of going. No, indeed, it
 wasn't the best of going. You see, it was mostly a tangle of sticks.
-Happy Jack Squirrel or Chatterer the Red Squirrel or Striped Chipmunk
+Happy Jill Squirrel or Chatterer the Red Squirrel or Striped Chipmunk
 would have skipped across it without the least trouble. But Peter Rabbit
 has no sharp little claws with which to cling to logs and sticks, and
-right away she was in a peck of trouble. she slipped down between the
+right away he was in a peck of trouble. He slipped down between the
 sticks, scrambled out, slipped again, and then, trying to make a long
-jump, she lost his balance and--tumbled heels over head into the water!
+jump, he lost his balance and — tumbled heels over head into the water!
 
-Poor Peter Rabbit! she gave himself up for lost this time. she could swim,
-but at best she is a poor swimmer and doesn't like the water. she couldn't
+Poor Peter Rabbit! He gave himself up for lost this time. He could swim,
+but at best he is a poor swimmer and doesn't like the water. He couldn't
 dive and keep out of sight like Mary Muskrat or Billy Mink. All he
 could do was to paddle as fast as his legs would go. The water had gone
-up his nose and down his throat so that she choked, and all the time he
-felt sure that Bowser the Hound would plunge in after him and catch him.
+up his nose and down his throat so that he choked, and all the time he
+felt sure that Bella the Hound would plunge in after him and catch him.
 And if she shouldn't, why Farmer Brown's Girl would simply wait for him to
 come ashore and then catch him.
 
-But Farmer Brown's Girl didn't do anything of the kind. No, Sir, he
-didn't. Instead she shouted to Bowser and called him away. Bowser didn't
+But Farmer Brown's Girl didn't do anything of the kind. No, Sir, she
+didn't. Instead she shouted to Bella and called her away. Bella didn't
 want to come, but she long ago learned to obey, and very slowly she walked
-over to where his master was sitting.
+over to where her master was sitting.
 
-"You know it wouldn't be fair, old fellow, to try to catch Peter now. It
+"You know it wouldn't be fair, old friend, to try to catch Peter now. It
 wouldn't be fair at all, and we never want to do anything unfair, do
-we?" said he. Perhaps Bowser didn't agree, but she wagged his tail as if
-he did, and sat down beside his master to watch Peter swim.
+we?" said she. Perhaps Bella didn't agree, but she wagged her tail as if
+she did, and sat down beside her master to watch Peter swim.
 
-It seemed to Peter as if she never, never would reach the shore,
-though really it was only a very little distance that she had to
-swim. When she did scramble out, she was a sorry looking Rabbit.
-He didn't waste any time, but started for home as fast as she could
-go, lipperty--lipperty--lip. And Farmer Brown's Girl and Bowser the
+It seemed to Peter as if he never, never would reach the shore,
+though really it was only a very little distance that he had to
+swim. When he did scramble out, he was a sorry looking Rabbit.
+He didn't waste any time, but started for home as fast as he could
+go, lipperty-lipperty-lip. And Farmer Brown's Girl and Bella the
 Hound just laughed and didn't try to catch him at all.
 
 "Well, I never!" exclaimed Sammy Jay, who had seen it all from the
@@ -658,14 +642,9 @@ so bad, after all."
 [Illustration]
 
 
+<h2 id="ch9"><a href="#ch9"><span>IX</span> Paddy Plans a House</a></h2>
 
-
-IX
-
-PADDY PLANS A HOUSE
-
-
-Paddy the Beaver sat on his dam, and his eyes shone with happiness as he
+Paddy the Beaver sat on her dam, and her eyes shone with happiness as she
 looked out over the shining water of the pond she had made. All around
 the edge of it grew the tall trees of the Green Forest. It was very
 beautiful and very still and very lonesome. That is, it would have
@@ -676,14 +655,14 @@ the little plants.
 It was still, very, very still. Over on one side was a beautiful rosy
 glow in the water. It was the reflection from jolly, round, red Mr. Sun.
 Paddy couldn't see him because of the tall trees, but she knew exactly
-what Mr. Sun was doing. she was going to bed behind the Purple Hills.
-Pretty soon the little stars would come out and twinkle down at him. He
+what Mr. Sun was doing. He was going to bed behind the Purple Hills.
+Pretty soon the little stars would come out and twinkle down at her. She
 loves the little stars and always watches for the first one.
 
-Yes, Paddy the Beaver was very happy. she would have been perfectly
-happy but for one thing: Farmer Brown's Girl had found his dam and pond
+Yes, Paddy the Beaver was very happy. She would have been perfectly
+happy but for one thing: Farmer Brown's Girl had found her dam and pond
 that very afternoon, and Paddy wasn't quite sure what Farmer Brown's Girl
-might do. she had kept himself snugly hidden while Farmer Brown's Girl was
+might do. She had kept herself snugly hidden while Farmer Brown's Girl was
 there, and she felt quite sure that Farmer Brown's Girl didn't know who
 had built the dam. But for this very reason she might, she just _might_,
 try to find out all about it, and that would mean that Paddy would have
@@ -691,7 +670,7 @@ to be always on the watch.
 
 "But what's the use of worrying over troubles that haven't come yet, and
 may never come? Time enough to worry when they do come," said Paddy to
-himself, which shows that Paddy has a great deal of wisdom in his little
+herself, which shows that Paddy has a great deal of wisdom in her little
 brown head. "The thing for me to do now is to get ready for winter, and
 that means a great deal of work," she continued. "Let me see, I've got to
 build a house, a big, stout, warm house, where I will be warm and safe
@@ -700,119 +679,109 @@ enough to last me until gentle Sister South Wind comes to prepare the
 way for lovely Mistress Spring. My, my, I can't afford to be sitting
 here dreaming, when there is such a lot to be done!"
 
-With that Paddy slipped into the water and swam all around his new pond
-to make sure of just the best place to build his house. Now placing
+With that Paddy slipped into the water and swam all around her new pond
+to make sure of just the best place to build her house. Now placing
 one's house in just the right place is a very important matter. Some
-people are dreadfully careless about this. Jimmy Skunk, for instance,
-often makes the mistake of digging his house (you know Jimmy makes his
+people are dreadfully careless about this. Jenny Skunk, for instance,
+often makes the mistake of digging her house (you know Jenny makes her
 house underground) right where every one who happens along that way will
-see it. Perhaps that is because Jimmy is so independent that she doesn't
+see it. Perhaps that is because Jenny is so independent that she doesn't
 care who knows where she lives.
 
-But Paddy the Beaver never is careless. she always chooses just the very
-best place. she makes sure that it is best before she begins. So now,
-although she was quite positive just where his house should be, she swam
+But Paddy the Beaver never is careless. She always chooses just the very
+best place. She makes sure that it is best before she begins. So now,
+although she was quite positive just where her house should be, she swam
 around the pond to make doubly sure. Then, when she was quite satisfied,
-he swam over to the place she had chosen. It was where the water was
+she swam over to the place she had chosen. It was where the water was
 quite deep.
 
 "There mustn't be the least chance that the ice will ever get thick
-enough to close up my doorway," said he, "and I'm sure it never will
+enough to close up my doorway," said she, "and I'm sure it never will
 here. I must make the foundations strong and the walls thick. I must
 have plenty of mud to plaster with, and inside, up above the water, I
 must have the snuggest, warmest room where I can sleep in comfort. This
 is the place to build it, and it is high time I was at work."
 
 With that Paddy swam over to the place where she had cut the trees for
-his dam, and his heart was light, for she had long ago learned that the
+her dam, and her heart was light, for she had long ago learned that the
 surest way to be happy is to be busy.
 
 
-
-
-X
-
-PADDY STARTS HIS HOUSE
-
+<h2 id="ch10"><a href="#ch10"><span>X</span> Paddy Starts Her House</a></h2>
 
 Mary Muskrat was very much interested when she found that Paddy the
-Beaver, who, you know, is his cousin, was building a house. Jerry is a
-house-builder himself, and down deep in his heart she very much doubted
-if Paddy could build as good a house as she could. His house was down in
-the Smiling Pool, and Jerry thought it a very wonderful house indeed,
+Beaver, who, you know, is her cousin, was building a house. Mary is a
+house-builder herself, and down deep in her heart she very much doubted
+if Paddy could build as good a house as she could. Her house was down in
+the Smiling Pool, and Mary thought it a very wonderful house indeed,
 and was very proud of it. It was built of mud and sod and little alder
-and willow twigs and bulrushes. Jerry had spent one winter in it, and he
+and willow twigs and bulrushes. Mary had spent one winter in it, and she
 had decided to spend another there after she had fixed it up a little.
 So, as long as she didn't have to build a brand new house, she could
-afford the time to watch his cousin Paddy. Perhaps she hoped that Paddy
-would ask his advice.
+afford the time to watch her cousin Paddy. Perhaps she hoped that Paddy
+would ask her advice.
 
-But Paddy did nothing of the kind. she had seen Mary Muskrat's house,
-and she had smiled. But she had taken great pains not to let Jerry see
-that smile. she wouldn't have hurt Jerry's feelings for the world. she is
-too polite and good-natured to do anything like that. So Jerry sat on
+But Paddy did nothing of the kind. She had seen Mary Muskrat's house,
+and she had smiled. But she had taken great pains not to let Mary see
+that smile. She wouldn't have hurt Mary's feelings for the world. She is
+too polite and good-natured to do anything like that. So Mary sat on
 the end of an old log and watched Paddy work. The first thing to build
 was the foundation. This was of mud and grass with sticks worked into it
-to hold it together. Paddy dug the mud from the bottom of his new pond.
+to hold it together. Paddy dug the mud from the bottom of her new pond.
 And because the pond was new, there was a great deal of grassy sod
 there, which was just what Paddy needed. It was very convenient.
 
-Jerry watched a little while and then, because Jerry is a worker
-himself, she just had to get busy and help. Rather timidly she told his
+Mary watched a little while and then, because Mary is a worker
+herself, she just had to get busy and help. Rather timidly she told her
 big cousin that she would like to have a share in building the new house.
 
 "All right," replied Paddy, "that will be fine. You can bring mud while
 I am getting the sticks and grass."
 
-So Jerry dived down to the bottom of the pond and dug up mud and piled
+So Mary dived down to the bottom of the pond and dug up mud and piled
 it on the foundation and was happy. The little stars looked down and
 twinkled merrily as they watched the two workers. So the foundation grew
-and grew down under the water. Jerry was very much surprised at the size
-of it. It was ever and ever so much bigger than the foundation for his
+and grew down under the water. Mary was very much surprised at the size
+of it. It was ever and ever so much bigger than the foundation for her
 own house. You see, she had forgotten how much bigger Paddy is.
 
-Each night Jerry and Paddy worked, resting during the daytime.
-Occasionally Bobby Coon or Reddy Fox or Unc' Billy Possum or Jimmy Skunk
+Each night Mary and Paddy worked, resting during the daytime.
+Occasionally Bonnie Coon or Reddy Fox or Unc' Billy Possum or Jenny Skunk
 would come to the edge of the pond to see what was going on. Peter
 Rabbit came every night. But they couldn't see much because, you know,
-Paddy and Jerry were working under water.
+Paddy and Mary were working under water.
 
 But at last Peter was rewarded. There, just above the water, was a
 splendid platform of mud and grass and sticks. A great many sticks were
 carefully laid as soon as the platform was above the water, for Paddy
 was very particular about this. You see, it was to be the floor for the
-splendid room she was planning to build. When it suited him, she began to
+splendid room she was planning to build. When it suited her, she began to
 pile mud in the very middle.
 
-Jerry puzzled and puzzled over this. Where was Paddy's room going to
+Mary puzzled and puzzled over this. Where was Paddy's room going to
 be, if she piled up the mud that way? But she didn't like to ask
 questions, so she kept right on helping. Paddy would dive down to the
 bottom and then come up with double handfuls of mud, which she held
-against his chest. she would scramble out onto the platform and waddle
+against her chest. She would scramble out onto the platform and waddle
 over to the pile in the middle, where she would put the mud and pat it
 down. Then back to the bottom for more mud.
 
 And so the mud pile grew and grew, until it was quite two feet high.
 "Now," said Paddy, "I'll build the walls, and I guess you can't help me
-much with those. I'm going to begin them to-morrow night. Perhaps you
-will like to see me do it, Cousin Jerry."
+much with those. I'm going to begin them tomorrow night. Perhaps you
+will like to see me do it, Cousin Mary."
 
-"I certainly will," replied Jerry, still puzzling over that pile of mud
+"I certainly will," replied Mary, still puzzling over that pile of mud
 in the middle.
 
 
+<h2 id="ch11"><a href="#ch11"><span>XI</span> Peter Rabbit and Mary Muskrat Are Puzzled</a></h2>
 
-
-XI
-
-PETER RABBIT AND Mary Muskrat ARE PUZZLED
-
-
-Mary Muskrat was more and more sure that his big cousin, Paddy the
+Mary Muskrat was more and more sure that her big cousin, Paddy the
 Beaver, didn't know quite so much as she might about house-building.
-Jerry would have liked to offer some suggestions, but she didn't quite
-dare. You see, she was very anxious not to displease his big cousin. But
-he felt that she simply had got to speak his mind to some one, so she swam
+Mary would have liked to offer some suggestions, but she didn't quite
+dare. You see, she was very anxious not to displease her big cousin. But
+she felt that she simply had got to speak her mind to some one, so she swam
 across to where she had seen Peter Rabbit almost every night since Paddy
 began to build. Sure enough, Peter was there, sitting up very straight
 and staring with big round eyes at the platform of mud and sticks out in
@@ -821,57 +790,55 @@ the water where Paddy the Beaver was at work.
 [Illustration: "Why it's a house you stupid. It's Paddy's new house,"
 replied Jerry. _Page 57_.]
 
-"Well, Peter, what do you think of it?" asked Jerry.
+"Well, Peter, what do you think of it?" asked Mary.
 
 "What is it?" asked Peter innocently. "Is it another dam?"
 
-Jerry threw back his head and laughed and laughed.
+Mary threw back her head and laughed and laughed.
 
-Peter looked at him suspiciously. "I don't see anything to laugh at,"
+Peter looked at her suspiciously. "I don't see anything to laugh at,"
 said he.
 
-"Why, it's a house, you stupid. It's Paddy's new house," replied Jerry,
-wiping the tears of laughter from his eyes.
+"Why, it's a house. It's Paddy's new house," replied Mary,
+wiping the tears of laughter from her eyes.
 
-"I'm not stupid!" retorted Peter. "How was I to know that that pile of
-mud and sticks is meant for a house? It certainly doesn't look it. Where
-is the door?"
+Peter retorted, "How was I to know that that pile of mud and sticks is meant for a house? It certainly doesn't look it. Where is the door?"
 
 "To tell you the truth, I don't think it is much of a house myself,"
-replied Jerry. "It has got a door, all right. In fact, it has got three.
+replied Mary. "It has got a door, all right. In fact, it has got three.
 You can't see them because they are under water, and there is a passage
 from each right up through that platform of mud and sticks, which is the
 foundation of the house. It really is a very fine foundation, Peter; it
 really is. But what I can't understand is what Paddy is thinking of by
-building that great pile of mud right in the middle. When she gets his
-walls built, where will his bedroom be? There won't be any room at all.
-It won't be a house at all--just a big useless pile of sticks and mud."
+building that great pile of mud right in the middle. When she gets her
+walls built, where will her bedroom be? There won't be any room at all.
+It won't be a house at all — just a big useless pile of sticks and mud."
 
 Peter scratched his head and then pulled his whiskers thoughtfully as he
 gazed out at the pile in the water where Paddy the Beaver was at work.
 
 "It does look foolish, that's a fact," said he. "Why don't you point
-out to him the mistake she is making, Jerry? You have built such a
+out to her the mistake she is making, Mary? You have built such a
 splendid house yourself that you ought to be able to help Paddy and show
-him his mistakes."
+her her mistakes."
 
-Jerry had smiled a very self-satisfied smile when Peter mentioned his
-fine house, but she shook his head at the suggestion that she should give
+Mary had smiled a very self-satisfied smile when Peter mentioned her
+fine house, but she shook her head at the suggestion that she should give
 Paddy advice.
 
-"I--I don't just like to," she confessed. "You know, she might not like it
-and--and it doesn't seem as if it would be quite polite."
+"I — I don't just like to," she confessed. "You know, she might not like it
+and — and it doesn't seem as if it would be quite polite."
 
 Peter sniffed. "That wouldn't trouble me any if she were my cousin,"
 said he.
 
-Jerry shook his head. "No, I don't believe it would," she replied, "but
-it does trouble me and--and--well, I think I'll wait awhile."
+Mary shook her head. "No, I don't believe it would," she replied, "but
+it does trouble me and — and — well, I think I'll wait awhile."
 
-Now all this time Paddy had been hard at work. she was bringing the
+Now all this time Paddy had been hard at work. She was bringing the
 longest branches which she had cut from the trees out of which she had
-built his dam, and a lot of slender willow and alder poles. she pushed
-these ahead of him as she swam. When she reached the foundation of his
+built her dam, and a lot of slender willow and alder poles. she pushed
+these ahead of her as she swam. When she reached the foundation of her
 house, she would lean them against the pile of mud in the middle with
 their big ends resting on the foundation. So she worked all the way
 around until by and by the mud pile in the middle couldn't be seen. It
@@ -879,37 +846,32 @@ was completely covered with sticks, and they were cunningly fastened
 together at the tops.
 
 
-
-
-XII
-
-Mary Muskrat LEARNS SOMETHING
+<h2 id="ch12"><a href="#ch12"><span>XII</span> Mary Muskrat Learns Something</a></h2>
 
   If you think you know it all
   You are riding for a fall.
   Use your ears and use your eyes,
   But hold your tongue and you'll be wise.
 
-
 Mary Muskrat will tell you that is as true as true can be.
 
-Jerry knows. she found it out for himself. Now she is very careful what
-he says about other people or what they are doing. But she wasn't so
-careful when his cousin, Paddy the Beaver, was building his house. No,
-Sir, Jerry wasn't so careful then. she thought she knew more about
-building a house than Paddy did. she was sure of it when she watched
-Paddy heap up a great pile of mud right in the middle where his room
+Mary knows. She found it out for herself. Now she is very careful what
+she says about other people or what they are doing. But she wasn't so
+careful when her cousin, Paddy the Beaver, was building her house. No,
+Sir, Mary wasn't so careful then. She thought she knew more about
+building a house than Paddy did. She was sure of it when she watched
+Paddy heap up a great pile of mud right in the middle where her room
 ought to be, and then build a wall of sticks around it. she said as much
 to Peter Rabbit.
 
 Now it is never safe to say anything to Peter Rabbit that you don't
-care to have others know. Peter has a great deal of respect for Jerry
-Muskrat's opinion on house-building. You see, she very much admires
-Jerry's snug house in the Smiling Pool. It really is a very fine house,
-and Jerry may be excused for being proud of it. But that doesn't
-excuse Jerry for thinking that she knows all there is to know about
-house-building. Of course Peter told every one she met that Paddy the
-Beaver was making a foolish mistake in building his house, and that
+care to have others know. Peter has a great deal of respect for Mary
+Muskrat's opinion on house-building. You see, he very much admires
+Mary's snug house in the Smiling Pool. It really is a very fine house,
+and Mary may be excused for being proud of it. But that doesn't
+excuse Mary for thinking that she knows all there is to know about
+house-building. Of course Peter told every one he met that Paddy the
+Beaver was making a foolish mistake in building her house, and that
 Mary Muskrat, who ought to know, said so.
 
 So whenever they got the chance, the little people of the Green Forest
@@ -917,76 +879,71 @@ and the Green Meadows would steal up to the shore of Paddy's new pond
 and chuckle as they looked out at the great pile of sticks and mud which
 Paddy had built for a house, but in which she had forgotten to make a
 room. At least they supposed that she had forgotten this very important
-thing. she must have, for there wasn't any room. It was a great joke.
+thing. She must have, for there wasn't any room. It was a great joke.
 They laughed a lot about it, and they lost a great deal of the respect
-for Paddy which they had had since she built his wonderful dam.
+for Paddy which they had had since she built her wonderful dam.
 
-Jerry and Peter sat in the moonlight talking it over. Paddy had stopped
-bringing sticks for his wall. she had dived down out of sight, and she was
-gone a long time. Suddenly Jerry noticed that the water had grown very,
-very muddy all around Paddy's new house. she wrinkled his brows trying to
+Mary and Peter sat in the moonlight talking it over. Paddy had stopped
+bringing sticks for her wall. She had dived down out of sight, and she was
+gone a long time. Suddenly Mary noticed that the water had grown very,
+very muddy all around Paddy's new house. She wrinkled her brows trying to
 think what Paddy could be doing. Presently Paddy came up for air. Then
-he went down again, and the water grew muddier than ever. This went on
+she went down again, and the water grew muddier than ever. This went on
 for a long time. Every little while Paddy would come up for air and a
 few minutes of rest. Then down she would go, and the water would grow
 muddier and muddier.
 
-At last Jerry could stand it no longer. she just had to see what was
-going on. she slipped into the water and swam over to where the water was
+At last Mary could stand it no longer. She just had to see what was
+going on. She slipped into the water and swam over to where the water was
 muddiest. Just as she got there up came Paddy.
 
-"Hello, Cousin Jerry!" said he. "I was just going to invite you over to
+"Hello, Cousin Mary!" said she. "I was just going to invite you over to
 see what you think of my house inside. Just follow me."
 
-Paddy dived, and Jerry dived after him. she followed Paddy in at one of
+Paddy dived, and Mary dived after her. She followed Paddy in at one of
 the three doorways under water and up a smooth hall right into the
-biggest, nicest bedroom Jerry had ever seen in all his life. she just
-gasped in sheer surprise. she couldn't do anything else. she couldn't find
-his tongue to say a word. Here she was in this splendid great room up
+biggest, nicest bedroom Mary had ever seen in all her life. She just
+gasped in sheer surprise. She couldn't do anything else. She couldn't find
+her tongue to say a word. Here she was in this splendid great room up
 above the water, and she had been so sure that there wasn't any room at
-all! she just didn't know what to make of it.
+all! She just didn't know what to make of it.
 
-Paddy's eyes twinkled. "Well," said he, "what do you think of it?"
+Paddy's eyes twinkled. "Well," said she, "what do you think of it?"
 
-"I--I--think it is splendid, just perfectly splendid! But I don't
-understand it at all, Cousin Paddy. I--I--Where is that great pile of
-mud I helped you build in the middle?" Jerry looked as foolish as he
+"I — I — think it is splendid, just perfectly splendid! But I don't
+understand it at all, Cousin Paddy. I — I — where is that great pile of
+mud I helped you build in the middle?" Mary looked as foolish as she
 felt when she asked this.
 
 "Why, I've dug it all away. That's what made the water so muddy,"
 replied Paddy.
 
-"But what did you build it for in the first place?" Jerry persisted.
+"But what did you build it for in the first place?" Mary persisted.
 
 "Because I had to have something to rest my sticks against while I was
 building my walls, of course," replied Paddy. "When I got the tops
 fastened together for a roof, they didn't need a support any longer, and
 then I dug it away to make this room. I couldn't have built such a big
 room any other way. I see you don't know very much about house-building,
-Cousin Jerry."
+Cousin Mary."
 
-"I--I'm afraid I don't," confessed Jerry sadly.
-
-
+"I — I'm afraid I don't," confessed Mary sadly.
 
 
-XIII
-
-THE QUEER STOREHOUSE
-
+<h2 id="ch13"><a href="#ch13"><span>XIII</span> The Strange Storehouse</a></h2>
 
 Everybody knew that Paddy the Beaver was laying up a supply of food for
-the winter, and everybody thought it was queer food. That is, everybody
+the winter, and everybody thought it was strange food. That is, everybody
 but Prickly Porky the Porcupine thought so. Prickly Porky likes the same
-kind of food, but she never lays up a supply. she just goes out and gets
+kind of food, but she never lays up a supply. She just goes out and gets
 it when she wants it, winter or summer. What kind of food was it? Why,
-bark, to be sure. Yes, Sir, it was just bark--the bark of certain kinds
+bark, to be sure. Yes, Sir, it was just bark — the bark of certain kinds
 of trees.
 
 Now Prickly Porky can climb the trees and eat the bark right there, but
 Paddy the Beaver cannot climb, and if she should just eat the bark that
-he can reach from the ground it would take such a lot of trees to keep
-him filled up that she would soon spoil the Green Forest. You know, when
+she can reach from the ground it would take such a lot of trees to keep
+her filled up that she would soon spoil the Green Forest. You know, when
 the bark is taken off a tree all the way around, the tree dies. That is
 because all the things that a tree draws out of the ground to make it
 grow and keep it alive are carried up from the roots in the sap, and the
@@ -996,11 +953,11 @@ when the bark is taken from a tree all the way around the trunk, the
 tree just starves to death.
 
 Now Paddy the Beaver loves the Green Forest as dearly as you and I do,
-and perhaps even a little more dearly. You see, it is his home. Besides,
+and perhaps even a little more dearly. You see, it is her home. Besides,
 Paddy never is wasteful. So she cuts down a tree so that she can get all
 the bark instead of killing a whole lot of trees for a very little bark,
-as she might do if she were lazy. There isn't a lazy bone in him--not one.
-The bark she likes best is from the aspen. When she cannot get that, he
+as she might do if she were lazy. There isn't a lazy bone in her — not one.
+The bark she likes best is from the aspen. When she cannot get that, she
 will eat the bark from the poplar, the alder, the willow, and even the
 birch. But she likes the aspen so much better that she will work very hard
 to get it. Perhaps it tastes better because she does have to work so hard
@@ -1008,36 +965,36 @@ for it.
 
 There were some aspen-trees growing right on the edge of the pond Paddy
 had made in the Green Forest. These she cut just as she had cut the trees
-for his dam. As soon as a tree was down, she would cut it into short
+for her dam. As soon as a tree was down, she would cut it into short
 lengths, and with these swim out to where the water was deep, close to
-his new house. she took them one by one and carried the first ones to the
+her new house. She took them one by one and carried the first ones to the
 bottom, where she pushed them into the mud just enough to hold them.
 Then, as fast as she brought more, she piled them on the first ones. And
 so the pile grew and grew.
 
-Mary Muskrat, Peter Rabbit, Bobby Coon, and the other little people of
-the Green Forest watched him with the greatest interest and curiosity.
-They couldn't quite make out what she was doing. It was almost as if he
+Mary Muskrat, Peter Rabbit, Bonnie Coon, and the other little people of
+the Green Forest watched her with the greatest interest and curiosity.
+They couldn't quite make out what she was doing. It was almost as if she
 were building the foundation for another house.
 
-"What's she doing, Jerry?" demanded Peter, when she could keep still
+"What's she doing, Mary?" demanded Peter, when he could keep still
 no longer.
 
-"I don't exactly know," replied Jerry. "He said that she was going to
+"I don't exactly know," replied Mary. "She said that she was going to
 lay in a supply of food for the winter, just as I told you, and I
-suppose that is what she is doing. But I don't quite understand what he
-is taking it all out into the pond for. I believe I'll go ask him."
+suppose that is what she is doing. But I don't quite understand what she
+is taking it all out into the pond for. I believe I'll go ask her."
 
 "Do, and then come tell us," begged Peter, who was growing so curious
-that she couldn't sit still.
+that he couldn't sit still.
 
-So Jerry swam out to where Paddy was so busy. "Is this your food supply,
+So Mary swam out to where Paddy was so busy. "Is this your food supply,
 Cousin Paddy?" she asked.
 
-"Yes," replied Paddy, crawling up on the side of his house to rest.
+"Yes," replied Paddy, crawling up on the side of her house to rest.
 "Yes, this is my food supply. Isn't it splendid?"
 
-"I guess it is," replied Jerry, trying to be polite, "though I like
+"I guess it is," replied Mary, trying to be polite, "though I like
 lily-roots and clams better. But what are you going to do with it? Where
 is your storehouse?"
 
@@ -1047,66 +1004,59 @@ all winter. When the pond is frozen over, all I will have to do is to
 slip out of one of my doorways down there on the bottom, swim over here
 and get a stick, and fill my stomach. Isn't it handy?"
 
-[Illustration]
 
-
-
-
-XIV
-
-A FOOTPRINT IN THE MUD
-
+<h2 id="ch14"><a href="#ch14"><span>XIV</span> A Footprint in the Mud</a></h2>
 
 Very early one morning Paddy the Beaver heard Sammy Jay making a
 terrible fuss over in the aspen-trees on the edge of the pond Paddy
 had made in the Green Forest. Paddy couldn't see because she was inside
-his house, and it has no window, but she could hear. she wrinkled up his
+her house, and it has no window, but she could hear. She wrinkled up her
 brows thoughtfully.
 
-"Seems to me that Sammy is very much excited this morning," said he,
-talking to himself, a way she has because she is so much alone. "When he
+"Seems to me that Sammy is very much excited this morning," said she,
+talking to herself, a way she has because she is so much alone. "When she
 screams like that, Sammy is usually trying to do two things at
-once--make trouble for somebody and keep somebody else out of trouble;
+once — make trouble for somebody and keep somebody else out of trouble;
 and when you come to think of it, that's rather a funny way of doing. It
 shows that she isn't all bad, and at the same time she is a long way from
 being all good. Now, I should say from the sounds that Sammy has
 discovered Reddy Fox trying to steal up on some one over where my
 aspen-trees are growing. Reddy is afraid of me, but I suspect that he
 knows that Peter Rabbit has been hanging around here a lot lately,
-watching me work, and she thinks perhaps she can catch Peter. I shall have
+watching me work, and he thinks perhaps he can catch Peter. I shall have
 to whisper in one of Peter's long ears and tell him to watch out."
 
 After a while she heard Sammy Jay's voice growing fainter and fainter in
 the Green Forest. Finally she couldn't hear it at all. "Whoever was there
 has gone away, and Sammy has followed just to torment them," thought
-Paddy. she was very busy making a bed. she is very particular about his
-bed, is Paddy the Beaver. she makes it of fine splinters of wood which he
-splits off with those wonderful great cutting teeth of his. This makes
+Paddy. She was very busy making a bed. She is very particular about her
+bed, is Paddy the Beaver. She makes it of fine splinters of wood which she
+splits off with those wonderful great cutting teeth of hers. This makes
 the driest kind of a bed. It requires a great deal of patience and work,
 but patience is one of the first things a little Beaver learns, and
 honest work well done is one of the greatest pleasures in the world, as
-Paddy long ago found out for himself. So she kept at work on his bed for
+Paddy long ago found out for herself. So she kept at work on her bed for
 some time after all was still outside.
 
-At last Paddy decided that she would go over to his aspen-trees and look
-them over to decide which ones she would cut the next night. she slid down
-one of his long halls, out the doorway at the bottom of the pond, and
+At last Paddy decided that she would go over to her aspen-trees and look
+them over to decide which ones she would cut the next night. She slid down
+one of her long halls, out the doorway at the bottom of the pond, and
 then swam up to the surface, where she floated for a few minutes with
-just his head out of water. And all the time his eyes and nose and ears
+just her head out of water. And all the time her eyes and nose and ears
 were busy looking, smelling, and listening for any sign of danger.
 Everything was still. Sure that she was quite safe, Paddy swam across to
 the place where the aspen-trees grew, and waddled out on the shore.
 
-Paddy looked this way and looked that way. she looked up in the tree
+Paddy looked this way and looked that way. She looked up in the tree
 tops, and she looked off up the hill, but most of all she looked at the
 ground. Yes, Sir, Paddy just studied the ground. You see, she hadn't
 forgotten the fuss Sammy Jay had been making there, and she was trying to
 find out what it was all about. At first she didn't see anything unusual,
 but by and by she happened to notice a little wet place, and right in the
 middle of it was something that made Paddy's eyes open wide. It was a
-footprint! Some one had carelessly stepped in the mud.
+footprint! Someone had carelessly stepped in the mud.
 
-"Ha!" exclaimed Paddy, and the hair on his back lifted ever so little,
+"Ha!" exclaimed Paddy, and the hair on her back lifted ever so little,
 and for a minute she had a prickly feeling all over. The footprint was
 very much like that of Reddy Fox, only it was larger.
 
@@ -1114,25 +1064,20 @@ very much like that of Reddy Fox, only it was larger.
 Coyote! I see I have got to watch out more sharply than I had thought
 for. All right, Mr. Coyote; now that I know you are about, you'll have
 to be smarter than I think you are to catch me. You certainly will be
-back here to-night looking for me, so I think I'll do my cutting right
+back here tonight looking for me, so I think I'll do my cutting right
 now in the daytime."
 
 
+<h2 id="ch15"><a href="#ch15"><span>XV</span> Sammy Jay Makes Paddy a Call</a></h2>
 
-
-XV
-
-SAMMY JAY MAKES PADDY A CALL
-
-
-Paddy the Beaver was hard at work. she had just cut down a good-sized
-aspen-tree and now she was gnawing it into short lengths to put in his
+Paddy the Beaver was hard at work. She had just cut down a good-sized
+aspen tree and now she was gnawing it into short lengths to put in her
 food pile in the pond. As she worked, Paddy was doing a lot of thinking
-about the footprint of Old Man Coyote in a little patch of mud, for he
-knew that meant that Old Man Coyote had discovered his pond, and would
-be hanging around, hoping to catch Paddy off his guard. Paddy knew it
-just as well as if Old Man Coyote had told him so. That was why she was
-at work cutting his food supply in the daytime. Usually she works at
+about the footprint of Old Man Coyote in a little patch of mud, for she
+knew that meant that Old Man Coyote had discovered her pond, and would
+be hanging around, hoping to catch Paddy off her guard. Paddy knew it
+just as well as if Old Man Coyote had told her so. That was why she was
+at work cutting her food supply in the daytime. Usually she works at
 night, and she knew that Old Man Coyote knew it.
 
 "He'll try to catch me then," thought Paddy, "so I'll do my working on
@@ -1149,12 +1094,12 @@ morning," said Paddy. "Don't you want to sit up in this tree while I
 cut it down?"
 
 Sammy grew black in the face with anger, for she knew that Paddy was
-laughing at him. You remember how only a few days before she had been so
+laughing at her. You remember how only a few days before she had been so
 intent on calling Paddy bad names that she actually hadn't noticed that
 Paddy was cutting the very tree in which she was sitting, and so when it
 fell she had had a terrible fright.
 
-"You think you are very smart, Mr. Beaver, but you'll think differently
+"You think you are very smart, Ms. Beaver, but you'll think differently
 one of these fine days!" screamed Sammy. "If you knew what I know, you
 wouldn't be so well satisfied with yourself."
 
@@ -1166,50 +1111,45 @@ another tree from our Green Forest. Somebody is going to catch you,
 and it isn't Farmer Brown's Girl either!"
 
 Paddy pretended to be terribly frightened. "Oh, who is it? Please tell
-me, Mr. Jay," she begged.
+me, Ms. Jay," she begged.
 
-Now to be called Mr. Jay made Sammy feel very important. Nearly
-everybody else called him Sammy. she swelled himself out trying to look
-as important as she felt, and his eyes snapped with pleasure. she was
+Now to be called Ms. Jay made Sammy feel very important. Nearly
+everybody else called her Sammy. She swelled herself out trying to look
+as important as she felt, and her eyes snapped with pleasure. She was
 actually making Paddy the Beaver afraid. At least she thought she was.
 
 "No, Sir, I won't tell you," she replied. "I wouldn't be you for a great
 deal though! Somebody who is smarter than you are is going to catch you,
-and when she gets through with you, there won't be anything left but a
+and when he gets through with you, there won't be anything left but a
 few bones. No, Sir, nothing but a few bones!"
 
-"Oh, Mr. Jay, this is terrible news! Whatever am I to do?" cried Paddy,
+"Oh, Ms. Jay, this is terrible news! Whatever am I to do?" cried Paddy,
 all the time keeping right on at work cutting another tree.
 
 "There's nothing you can do," replied Sammy, grinning wickedly at
 Paddy's fright. "There's nothing you can do unless you go right straight
 back to the North where you came from. You think you are very smart
-but--"
+but —"
 
 Sammy didn't finish. Crack! Over fell the tree Paddy had been cutting
 and the top of it fell straight into the alder in which Sammy was
-sitting. "Oh! Oh! Help!" shrieked Sammy, spreading his wings and flying
+sitting. "Oh! Oh! Help!" shrieked Sammy, spreading her wings and flying
 away just in time.
 
-Paddy sat down and laughed until his sides ached. "Come make me another
+Paddy sat down and laughed until her sides ached. "Come make me another
 call some day, Sammy!" she said. "And when you do, please bring some real
 news. I know all about Old Man Coyote. You can tell him for me that when
-he is planning to catch people she should be careful not to leave
+he is planning to catch people he should be careful not to leave
 footprints to give himself away."
 
-Sammy didn't reply. she just sneaked off through the Green Forest,
+Sammy didn't reply. She just sneaked off through the Green Forest,
 looking quite as foolish as she felt.
 
 
-
-
-XVI
-
-OLD MAN COYOTE IS VERY CRAFTY
+<h2 id="ch9"><a href="#ch16"><span>XVI</span> Old Man Coyote Is Very Crafty</a></h2>
 
   Coyote has a crafty brain;
   His wits are sharp his ends to gain.
-
 
 There is nothing in the world more true than that. Old Man Coyote has
 the craftiest brain of all the little people of the Green Forest or the
@@ -1217,31 +1157,31 @@ Green Meadows. Sharp as are the wits of old Granny Fox, they are not
 quite as sharp as the wits of Old Man Coyote. If you want to fool him,
 you will have to get up very early in the morning, and then it is more
 than likely that you will be the one fooled, not he. There is very
-little going on around him that she doesn't know about. But once in a
+little going on around him that he doesn't know about. But once in a
 while something escapes him. The coming of Paddy the Beaver to the Green
-Forest was one of these things. she didn't know a thing about Paddy until
-Paddy had finished his dam and his house, and was cutting his supply of
+Forest was one of these things. He didn't know a thing about Paddy until
+Paddy had finished her dam and her house, and was cutting her supply of
 food for the winter.
 
 You see, it was this way: When the Merry Little Breezes of Old Mother
 West Wind first heard what was going on in the Green Forest and hurried
 around over the Green Meadows and through the Green Forest to spread the
 news, as is their way, they took the greatest pains not to even hint it
-to Old Man Coyote because they were afraid that she would make trouble
+to Old Man Coyote because they were afraid that he would make trouble
 and perhaps drive Paddy away. The place that Paddy had chosen to build
-his dam was so deep in the Green Forest that Old Man Coyote seldom went
-that way. So it was that she knew nothing about Paddy, and Paddy knew
+her dam was so deep in the Green Forest that Old Man Coyote seldom went
+that way. So it was that he knew nothing about Paddy, and Paddy knew
 nothing about him for some time.
 
 But after a while Old Man Coyote noticed that the little people of
 the Green Meadows were not about as much as usual. They seemed to have
-a secret of some kind. she mentioned the matter to his friend, Digger
+a secret of some kind. He mentioned the matter to his friend, Digger
 the Badger.
 
-Digger had been so intent on his own affairs that she hadn't noticed
+Digger had been so intent on his own affairs that he hadn't noticed
 anything unusual, but when Old Man Coyote mentioned the matter he
 remembered that Blacky the Crow headed straight for the Green Forest
-every morning. Several times she had seen Sammy Jay flying in the same
+every morning. Several times he had seen Sammy Jay flying in the same
 direction as if in a great hurry to get somewhere.
 
 Old Man Coyote grinned. "That's all I need to know, friend Digger,"
@@ -1249,192 +1189,175 @@ said he. "When Blacky the Crow and Sammy Jay visit a place more than
 once, something interesting is going on there. I think I'll take a
 stroll up through the Green Forest and have a look around."
 
-With that, off Old Man Coyote started. But she was too sly and crafty to
-go straight to the Green Forest. she pretended to hunt around over the
-Green Meadows just as she usually did, all the time working nearer and
-nearer to the Green Forest. When she reached the edge of it, she slipped
-in among the trees, and when she felt sure that no one was likely to see
-him, she began to run this way and that way with his nose to the ground.
+With that, off Old Man Coyote started. But he was too sly and crafty to
+go straight to the Green Forest. He pretended to hunt around over the
+Green Meadows just as he usually did, all the time working nearer and
+nearer to the Green Forest. When he reached the edge of it, he slipped
+in among the trees, and when he felt sure that no one was likely to see
+him, he began to run this way and that way with his nose to the ground.
 
-"Ha!" she exclaimed presently, "Reddy Fox has been this way lately."
+"Ha!" he exclaimed presently, "Reddy Fox has been this way lately."
 
-Pretty soon she found another trail. "So," said he, "Peter Rabbit has
+Pretty soon he found another trail. "So," said he, "Peter Rabbit has
 been over here a good deal of late, and his trail goes in the same
 direction as that of Reddy Fox. I guess all I have to do now is to
 follow Peter's trail, and it will lead me to what I want to find out."
 
-So Old Man Coyote followed Peter's trail, and she presently came to the
-pond of Paddy the Beaver. "Ha!" said he, as she looked out and saw
+So Old Man Coyote followed Peter's trail, and he presently came to the
+pond of Paddy the Beaver. "Ha!" said he, as he looked out and saw
 Paddy's new house. "So there is a newcomer to the Green Forest! I have
 always heard that Beaver is very good eating. My stomach begins to feel
 empty this very minute." His mouth began to water, and a fierce, hungry
 look shone in his yellow eyes.
 
 It was just then that Sammy Jay saw him and began to scream at the top
-of his lungs so that Paddy the Beaver over in his house heard him. Old
+of her lungs so that Paddy the Beaver over in her house heard her. Old
 Man Coyote knew that it was of no use to stay longer with Sammy Jay
-about, so she took a hasty look at the pond and found where Paddy came
-ashore to cut his food. Then, shaking his fist at Sammy Jay, she started
+about, so he took a hasty look at the pond and found where Paddy came
+ashore to cut her food. Then, shaking his fist at Sammy Jay, he started
 straight back for the Green Meadows. "I'll just pay a visit here in the
-night," said he, "and give Mr. Beaver a surprise while she is at work."
+night," said he, "and give Ms. Beaver a surprise while she is at work."
 
-But with all his craft, Old Man Coyote didn't notice that she had left a
+But with all his craft, Old Man Coyote didn't notice that he had left a
 footprint in the mud.
 
-[Illustration]
 
-
-
-
-XVII
-
-OLD MAN COYOTE IS DISAPPOINTED
-
+<h2 id="ch17"><a href="#ch17"><span>XVII</span> Old Man Coyote Is Disappointed</a></h2>
 
 Old Man Coyote lay stretched out in his favorite napping place on the
-Green Meadows. she was thinking of what she had found out up in the Green
-Forest that morning--that Paddy the Beaver was living there. Old Man
+Green Meadows. He was thinking of what he had discovered up in the Green
+Forest that morning — that Paddy the Beaver was living there. Old Man
 Coyote's thoughts seemed very pleasant to himself, though really they
-were very dreadful thoughts. You see, she was thinking how easy it was
+were very dreadful thoughts. You see, he was thinking how easy it was
 going to be to catch Paddy the Beaver, and what a splendid meal she would
-make. she licked his chops at the thought.
+make. He licked his chops at the thought.
 
-"He doesn't know I know he's here," thought Old Man Coyote. "In fact, I
-don't believe she even knows that I am anywhere around. Of course, he
-won't be watching for me. she cuts his trees at night, so all I will have
-to do is to hide right close by where she is at work, and he'll walk
+"She doesn't know I know she's here," thought Old Man Coyote. "In fact, I
+don't believe she even knows that I am anywhere around. Of course, she
+won't be watching for me. She cuts her trees at night, so all I will have
+to do is to hide right close by where she is at work, and she'll walk
 right into my mouth. Sammy Jay knows I was up there this morning, but
 Sammy sleeps at night, so she will not give the alarm. My, my, how good
-that Beaver will taste!" she licked his chops once more, then yawned and
+that Beaver will taste!" He licked his chops once more, then yawned and
 closed his eyes for a nap.
 
 Old Man Coyote waited until jolly, round, red Mr. Sun had gone to bed
 behind the Purple Hills, and the Black Shadows had crept out across the
 Green Meadows. Then, keeping in the blackest of them, and looking very
-much like a shadow himself, she slipped into the Green Forest. It was
-dark in there, and she made straight for Paddy's new pond, trotting along
-swiftly without making a sound. When she was near the aspen-trees which
-he knew Paddy was planning to cut, she crept forward very slowly and
+much like a shadow himself, he slipped into the Green Forest. It was
+dark in there, and he made straight for Paddy's new pond, trotting along
+swiftly without making a sound. When he was near the aspen trees which
+he knew Paddy was planning to cut, he crept forward very slowly and
 carefully. Everything was still as still could be.
 
 "Good!" thought Old Man Coyote. "I am here first, and now all I need do
 is to hide and wait for Paddy to come ashore."
 
-So she stretched himself flat behind some brush close beside the little
+So he stretched himself flat behind some brush close beside the little
 path Paddy had made up from the edge of the water and waited. It was
-very still, so still that it seemed almost as if she could hear his heart
-beat. she could see the little stars twinkling in the sky and their own
+very still, so still that it seemed almost as if he could hear his heart
+beat. He could see the little stars twinkling in the sky and their own
 reflections twinkling back at them from the water of Paddy's pond. Old
-Man Coyote waited and waited. she is very patient when there is something
+Man Coyote waited and waited. He is very patient when there is something
 to gain by it. For such a splendid dinner as Paddy the Beaver would make
-he felt that she could well afford to be patient. So she waited and
+he felt that he could well afford to be patient. So he waited and
 waited, and everything was as still as if no living thing but the trees
 were there. Even the trees seemed to be asleep.
 
-At last, after a long, long time, she heard just the faintest splash. He
+At last, after a long, long time, he heard just the faintest splash. He
 pricked up his ears and peeped out on the pond with the hungriest look
 in his yellow eyes. There was a little line of silver coming straight
-towards him. she knew that it was made by Paddy the Beaver swimming.
+towards him. He knew that it was made by Paddy the Beaver swimming.
 Nearer and nearer it drew. Old Man Coyote chuckled way down deep inside,
-without making a sound. she could see Paddy's head now, and Paddy was
+without making a sound. He could see Paddy's head now, and Paddy was
 coming straight in, as if she hadn't a fear in the world.
 
 Almost to the edge of the pond swam Paddy. Then she stopped. In a few
 minutes she began to swim again, but this time it was back in the
-direction of his house, and she seemed to be carrying something. It was
+direction of her house, and she seemed to be carrying something. It was
 one of the little food logs she had cut that day, and she was taking it
-out to his storehouse. Then back she came for another. And so she kept on,
+out to her storehouse. Then back she came for another. And so she kept on,
 never once coming ashore. Old Man Coyote waited until Paddy had carried
-the last log to his storehouse and then, with a loud whack on the water
-with his broad tail, had dived and disappeared in his house.
+the last log to her storehouse and then, with a loud whack on the water
+with her broad tail, had dived and disappeared in her house.
 
 Then Old Man Coyote arose and started elsewhere to look for his dinner,
 and in his heart was bitter disappointment.
 
 
-
-
-XVIII
-
-OLD MAN COYOTE TRIES ANOTHER PLAN
-
+<h2 id="ch18"><a href="#ch18"><span>XVIII</span> Old Man Coyote Tries Another Plan</a></h2>
 
 For three nights Old Man Coyote had stolen up through the Green Forest
 with the coming of the Black Shadows and had hidden among the
-aspen-trees where Paddy the Beaver cut his food, and for three nights
+aspen trees where Paddy the Beaver cut her food, and for three nights
 Paddy had failed to come ashore. Each night she had seemed to have enough
-food logs in the water to keep him busy without cutting more. Old Man
+food logs in the water to keep her busy without cutting more. Old Man
 Coyote lay there, and the hungry look in his eyes changed to one of
 doubt and then to suspicion. Could it be that Paddy the Beaver was
-smarter than she thought? It began to look very much as if Paddy knew
-perfectly well that she was hiding there each night. Yes, Sir, that's the
+smarter than he thought? It began to look very much as if Paddy knew
+perfectly well that he was hiding there each night. Yes, Sir, that's the
 way it looked. For three nights Paddy hadn't cut a single tree, and yet
-each night she had plenty of food logs ready to take to his storehouse in
+each night she had plenty of food logs ready to take to her storehouse in
 the pond.
 
-"That means that she comes ashore in the daytime and cuts his trees,"
-thought Old Man Coyote as, tired and with black anger in his heart, he
-trotted home the third night. "He couldn't have found out about me
-himself; she isn't smart enough. It must be that some one has told him.
+"That means that she comes ashore in the daytime and cuts her trees,"
+thought Old Man Coyote as he trotted home the third night, tired and with
+black anger in his heart. "She couldn't have found out about me
+herself; she isn't smart enough. It must be that some one has told her.
 And nobody knows that I have been over there but Sammy Jay. It must be
-he who has been the tattletale. I think I'll visit Paddy by daylight
-to-morrow, and then we'll see!"
+she who has been the tattletale. I think I'll visit Paddy by daylight
+tomorrow, and then we'll see!"
 
 Now the trouble with some smart people is that they are never able to
 believe that others may be as smart as they. Old Man Coyote didn't know
-that the first time she had visited Paddy's pond she had left behind him a
-footprint in a little patch of soft mud. If she had known it, she wouldn't
+that the first time he had visited Paddy's pond he had left behind him a
+footprint in a little patch of soft mud. If he had known it, he wouldn't
 have believed that Paddy would be smart enough to guess what that
 footprint meant. So Old Man Coyote laid all the blame at the door of
 Sammy Jay, and that very morning, when Sammy came flying over the Green
-Meadows, Old Man Coyote accused him of being a tattletale and threatened
-the most dreadful things to Sammy if ever she caught him.
+Meadows, Old Man Coyote accused her of being a tattletale and threatened
+the most dreadful things to Sammy if ever he caught her.
 
 Now Sammy had flown down to the Green Meadows to tell Old Man Coyote
-how Paddy was doing all his work on land in the daytime. But when Old
-Man Coyote began to call him a tattletale and accuse him of having
+how Paddy was doing all her work on land in the daytime. But when Old
+Man Coyote began to call her a tattletale and accuse her of having
 warned Paddy, and to threaten dreadful things, she straightway forgot all
-his anger at Paddy and turned it all on Old Man Coyote. she called him
+her anger at Paddy and turned it all on Old Man Coyote. She called him
 everything she could think of, and this was a great deal, for Sammy has a
 wicked tongue. When she hadn't any breath left, she flew over to the Green
 Forest, and there she hid where she could watch all that was going on.
 
-That afternoon Old Man Coyote tried his new plan. she slipped into the
+That afternoon Old Man Coyote tried his new plan. He slipped into the
 Green Forest, looking this way and that way to be sure that no one saw
-him. Then very, very softly, she crept up through the Green Forest
-towards the pond of Paddy the Beaver. As she drew near, she heard a crash,
-and it made him smile. she knew what it meant. It meant that Paddy was at
-work cutting down trees. With his stomach almost on the ground, she crept
+him. Then very, very softly, he crept up through the Green Forest
+towards the pond of Paddy the Beaver. As he drew near, he heard a crash,
+and it made him smile. He knew what it meant. It meant that Paddy was at
+work cutting down trees. With his stomach almost on the ground, he crept
 forward little by little, little by little, taking the greatest care not
-to rustle so much as a leaf. Presently she reached a place where she could
-see the aspen-trees, and there sure enough was Paddy, sitting up on his
+to rustle so much as a leaf. Presently he reached a place where he could
+see the aspen trees, and there sure enough was Paddy, sitting up on her
 hind legs and hard at work cutting another tree.
 
-Old Man Coyote lay down for a few minutes to watch. Then she wriggled
-a little nearer. Slowly and carefully she drew his legs under him and
+Old Man Coyote lay down for a few minutes to watch. Then he wriggled
+a little nearer. Slowly and carefully he drew his legs under him and
 made ready for a rush. Paddy the Beaver was his at last! At just
 that very minute a harsh scream rang out right over his head "Thief!
 thief! thief!"
 
 It was Sammy Jay, who had silently followed him all the way. Paddy the
-Beaver didn't stop to even look around. she knew what that scream meant,
-and she scrambled down his little path to the water as she never had
+Beaver didn't stop to even look around. She knew what that scream meant,
+and she scrambled down her little path to the water as she never had
 scrambled before. And as she dived with a great splash, Old Man Coyote
 landed with a great jump on the very edge of the pond.
 
 
+<h2 id="ch19"><a href="#ch19"><span>XIX</span> Paddy and Sammy Jay Become Friends</a></h2>
 
-
-XIX
-
-PADDY AND SAMMY JAY BECOME FRIENDS
-
-
-Paddy the Beaver floated in his pond and grinned in the most provoking
-way at Old Man Coyote, who had so nearly caught him. Old Man Coyote
-fairly danced with anger on the bank. she had felt so sure of Paddy
+Paddy the Beaver floated in her pond and grinned in the most provoking
+way at Old Man Coyote, who had so nearly caught her. Old Man Coyote
+fairly danced with anger on the bank. He had felt so sure of Paddy
 that time that it was hard work to believe that Paddy had really gotten
-away from him. she bared his long cruel teeth, and she looked very fierce
+away from him. He bared his long cruel teeth, and he looked very fierce
 and ugly.
 
 "Come on in; the water's fine!" called Paddy.
@@ -1442,25 +1365,25 @@ and ugly.
 Now, of course, this wasn't a nice thing for Paddy to do, for it only
 made Old Man Coyote all the angrier. You see, Paddy knew perfectly well
 that she was absolutely safe, and she just couldn't resist the temptation
-to say some unkind things. she had had to be on the watch for days lest
-he should be caught, and so she hadn't been able to work quite so well as
-he could have done with nothing to fear, and she still had a lot of
-preparations to make for winter. So she told Old Man Coyote just what he
-thought of him, and that she wasn't as smart as she thought she was or he
+to say some unkind things. She had had to be on the watch for days lest
+she should be caught, and so she hadn't been able to work quite so well as
+she could have done with nothing to fear, and she still had a lot of
+preparations to make for winter. So she told Old Man Coyote just what she
+thought of him, and that he wasn't as smart as he thought he was or he
 never would have left a footprint in the mud to give him away.
 
 When Sammy Jay, who was listening and chuckling as she listened, heard
 that, she flew down where she would be just out of reach of Old Man
-Coyote, and then she just turned that tongue of his loose, and you know
+Coyote, and then she just turned that tongue of hers loose, and you know
 that some people say that Sammy's tongue is hung in the middle and wags
 at both ends. Of course, this isn't really so, but when she gets to
-abusing people it seems as if it must be true. she called Old Man Coyote
-every bad name she could think of. she called him a sneak, a thief, a
+abusing people it seems as if it must be true. She called Old Man Coyote
+every bad name she could think of. She called him a sneak, a thief, a
 coward, a bully, and a lot of other things.
 
-"You said I had warned Paddy that you were trying to catch him and that
-was why you failed to find him at work at night, and all the time you
-had warned him yourself!" screamed Sammy. "I used to think that you were
+"You said I had warned Paddy that you were trying to catch her and that
+was why you failed to find her at work at night, and all the time you
+had warned her yourself!" screamed Sammy. "I used to think that you were
 smart, but I know better now. Paddy is twice as smart as you are."
 
   "Mr. Coyote is ever so sly;
@@ -1468,45 +1391,38 @@ smart, but I know better now. Paddy is twice as smart as you are."
     If you believe all you hear.
   Mr. Coyote is naught of the kind;
   Mr. Coyote is stupid and blind;
-    she can't catch a flea on his ear."
+    he can't catch a flea on his ear."
 
 Paddy the Beaver laughed till the tears came at Sammy's foolish verse,
-but it made Old Man Coyote angrier than ever. she was angry with Paddy
-for escaping from him, and she was angry with Sammy, terribly angry, and
-the worst of it was she couldn't catch either one, for one was at home in
-the water and the other was at home in the air and she couldn't follow in
-either place. Finally she saw it was of no use to stay there to be
-laughed at, so, muttering and grumbling, she started for the Green
+but it made Old Man Coyote angrier than ever. He was angry with Paddy
+for escaping from him, and he was angry with Sammy, terribly angry, and
+the worst of it was he couldn't catch either one, for one was at home in
+the water and the other was at home in the air and he couldn't follow in
+either place. Finally he saw it was of no use to stay there to be
+laughed at, so, muttering and grumbling, he started for the Green
 Meadows.
 
-As soon as she was out of sight Paddy turned to Sammy Jay.
+As soon as he was out of sight Paddy turned to Sammy Jay.
 
-"Mr. Jay," said he, knowing how it pleased Sammy to be called mister,
-"Mr. Jay, you have done me a mighty good turn to-day, and I am not going
+"Ms. Jay," said she, knowing how it pleased Sammy to be called that,
+"Ms. Jay, you have done me a mighty good turn today, and I am not going
 to forget it. You can call me what you please and scream at me all you
 please, but you won't get any satisfaction out of it, because I simply
-won't get angry. I will say to myself, 'Mr. Jay saved my life the other
+won't get angry. I will say to myself, 'Ms. Jay saved my life the other
 day,' and then I won't mind your tongue."
 
 Now this made Sammy feel very proud and very happy. You know it is very
-seldom that she hears anything nice said of him. she flew down on the
-stump of one of the trees Paddy had cut. "Let's be friends," said he.
+seldom that she hears anything nice said of her. She flew down on the
+stump of one of the trees Paddy had cut. "Let's be friends," said she.
 
 "With all my heart!" replied Paddy.
 
-[Illustration]
 
+<h2 id="ch20"><a href="#ch20"><span>XX</span> Sammy Jay Offers to Help Paddy</a></h2>
 
-
-
-XX
-
-SAMMY JAY OFFERS TO HELP PADDY
-
-
-Paddy sat looking thoughtfully at the aspen-trees she would have to cut
-to complete his store of food for the winter. All those near the edge of
-his pond had been cut. The others were scattered about some little
+Paddy sat looking thoughtfully at the aspen trees she would have to cut
+to complete her store of food for the winter. All those near the edge of
+her pond had been cut. The others were scattered about some little
 distance away. "I don't know," said Paddy out loud. "I don't know."
 
 "What don't you know?" asked Sammy Jay, who, now that she and Paddy had
@@ -1519,7 +1435,7 @@ some of the nearest trees and then float them down to the pond, but
 it is hard to work and keep sharp watch for enemies at the same time.
 I guess I'll have to be content with some of these alders growing
 close to the water, but the bark of aspens is so much better that
-I--I wish I could get them."
+I — I wish I could get them."
 
 "What's a canal?" asked Sammy abruptly.
 
@@ -1540,13 +1456,13 @@ don't see how you do it."
 "It's easy enough when you know how," replied Paddy. "If I dared to, I'd
 show you."
 
-Sammy had a sudden idea. It almost made him gasp. "I tell you what, you
+Sammy had a sudden idea. It almost made her gasp. "I tell you what, you
 work and I'll keep watch!" she cried. "You know my eyes are very sharp."
 
 "Will you?" cried Paddy eagerly. "That would be perfectly splendid. You
 have the sharpest eyes of any one whom I know, and I would feel
 perfectly safe with you on watch. But I don't want to put you to all
-that trouble, Mr. Jay."
+that trouble, Ms. Jay."
 
 "Of course I will," replied Sammy, "and it won't be any trouble at all.
 I'll just love to do it." You see, it made Sammy feel very proud to have
@@ -1555,166 +1471,156 @@ Paddy say that she had such sharp eyes. "When will you begin?"
 "Right away, if you will just take a look around and see that it is
 perfectly safe for me to come out on land."
 
-Sammy didn't wait to hear more. she spread his beautiful blue wings and
+Sammy didn't wait to hear more. She spread her beautiful blue wings and
 started off over the Green Forest straight for the Green Meadows. Paddy
-watched him go with a puzzled and disappointed air. "That's funny,"
-thought he. "I thought she really meant it, and now off she goes without
-even saying good-by."
+watched her go with a puzzled and disappointed air. "That's funny,"
+thought she. "I thought she really meant it, and now off she goes without
+even saying goodbye."
 
 In a little while back came Sammy, all out of breath. "It's all right,"
-he panted. "You can go to work just as soon as you please."
+she panted. "You can go to work just as soon as you please."
 
 Paddy looked more puzzled than ever. "How do you know?" she asked. "I
 haven't seen you looking around."
 
 "I did better than that," replied Sammy. "If Old Man Coyote had been
 hiding somewhere in the Green Forest, it might have taken me some time
-to find him. But she isn't. You see, I flew straight over to his home in
-the Green Meadows to see if she is there, and she is. He's taking a
+to find him. But he isn't. You see, I flew straight over to his home in
+the Green Meadows to see if he is there, and he is. He's taking a
 sun-bath and looking as cross as two sticks. I don't think he'll be back
 here this morning, but I'll keep a sharp watch while you work."
 
-Paddy made Sammy a low bow. "You certainly are smart, Mr. Jay," said
-he. "I wouldn't have thought of going over to Old Man Coyote's home to
-see if she was there. I'll feel perfectly safe with you on guard. Now
+Paddy made Sammy a low bow. "You certainly are smart, Ms. Jay," said
+she. "I wouldn't have thought of going over to Old Man Coyote's home to
+see if he was there. I'll feel perfectly safe with you on guard. Now
 I'll get to work."
 
 
-
-
-XXI
-
-PADDY AND SAMMY JAY WORK TOGETHER
-
+<h2 id="ch21"><a href="#ch21"><span>XXI</span> Paddy and Sammy Jay Work Together</a></h2>
 
 Mary Muskrat had been home at the Smiling Pool for several days. But
-he couldn't stay there long. Oh, my, no! she just had to get back to see
-what his big cousin, Paddy the Beaver, was doing. So as soon as she was
+she couldn't stay there long. Oh, my, no! she just had to get back to see
+what her big cousin, Paddy the Beaver, was doing. So as soon as she was
 sure that everything was all right at the Smiling Pool she hurried back
 up the Laughing Brook to Paddy's pond, deep in the Green Forest. As soon
-as she was in sight of it, she looked eagerly for Paddy. At first he
-didn't see him. Then she stopped and gazed over at the place where Paddy
+as she was in sight of it, she looked eagerly for Paddy. At first she
+didn't see her. Then she stopped and gazed over at the place where Paddy
 had been cutting aspen-trees for food. Something was going on there,
-something queer. she couldn't make it out.
+something weird. She couldn't make it out.
 
 Just then Sammy Jay came flying over.
 
-"What's Paddy doing?" Jerry asked.
+"What's Paddy doing?" Mary asked.
 
 Sammy Jay dropped down to the top of an alder-tree and fluffed out all
-his feathers in a very important way. "Oh," said he, "Paddy and I are
+her feathers in a very important way. "Oh," said she, "Paddy and I are
 building something!"
 
 "You! Paddy and you! Ha, ha! Paddy and you building something!"
-Jerry laughed.
+Mary laughed.
 
 "Yes, me!" snapped Sammy angrily. "That's what I said; Paddy and I are
 building something."
 
-Jerry had begun to swim across the pond by this time, and Sammy was
+Mary had begun to swim across the pond by this time, and Sammy was
 flying across. "Why don't you tell the truth, Sammy, and say that Paddy
-is building something and you are making him all the trouble you can?"
-called Jerry.
+is building something and you are making her all the trouble you can?"
+called Mary.
 
-Sammy's eyes snapped angrily, and she darted down at Jerry's little brown
+Sammy's eyes snapped angrily, and she darted down at Mary's little brown
 head. "It isn't true!" she shrieked. "You ask Paddy if I'm not helping!"
 
-Jerry ducked under water to escape Sammy's sharp bill. When she came up
+Mary ducked under water to escape Sammy's sharp bill. When she came up
 again, Sammy was over in the little grove of aspen-trees where Paddy was
-at work. Then Jerry discovered something. What was it? Why a little
+at work. Then Mary discovered something. What was it? Why a little
 water-path led right up to the aspen-trees, and there, at the end of the
-little water-path, was Paddy the Beaver hard at work. she was digging and
+little water-path, was Paddy the Beaver hard at work. She was digging and
 piling the earth on one side very neatly. In fact, she was making the
-water-path longer. Jerry swam right up the little water-path to where
-Paddy was working. "Good morning, Cousin Paddy," said he. "What are you
+water-path longer. Mary swam right up the little water-path to where
+Paddy was working. "Good morning, Cousin Paddy," said she. "What are you
 doing?"
 
 "Oh," replied Paddy, "Sammy Jay and I are building a canal."
 
-Sammy Jay looked down at Jerry in triumph, and Jerry looked at Paddy as
+Sammy Jay looked down at Mary in triumph, and Mary looked at Paddy as
 if she thought that she was joking.
 
-"Sammy Jay? What's Sammy Jay got to do about it?" demanded Jerry.
+"Sammy Jay? What's Sammy Jay got to do about it?" demanded Mary.
 
 "A whole lot," replied Paddy. "You see, she keeps watch while I work. If
-he didn't, I couldn't work, and there wouldn't be any canal. Old Man
+she didn't, I couldn't work, and there wouldn't be any canal. Old Man
 Coyote has been trying to catch me, and I wouldn't dare work on shore if
 it wasn't that I am sure that the sharpest eyes in the Green Forest are
 watching for danger."
 
 Sammy Jay looked very much pleased indeed and very proud. "So you see it
 takes both of us to make this canal; I dig while Sammy watches. So we
-are building it together," concluded Paddy with a twinkle in his eyes.
+are building it together," concluded Paddy with a twinkle in her eyes.
 
-"I see," said Jerry slowly. Then she turned to Sammy Jay. "I beg your
-pardon, Sammy," said he. "I do, indeed."
+"I see," said Mary slowly. Then she turned to Sammy Jay. "I beg your
+pardon, Sammy," said she. "I do, indeed."
 
 "That's all right," replied Sammy airily. "What do you think of
 our canal?"
 
-"I think it is wonderful," replied Jerry.
+"I think it is wonderful," replied Mary.
 
 And indeed it was a very fine canal, straight, wide, and deep enough
-for Paddy to swim in and float his logs out to the pond. Yes, indeed, it
+for Paddy to swim in and float her logs out to the pond. Yes, indeed, it
 was a very fine canal.
 
 
+<h2 id="ch22"><a href="#ch22"><span>XXII</span> Paddy Finishes Her Harvest</a></h2>
 
-
-XXII
-
-PADDY FINISHES HIS HARVEST
-
-  "Sharp his tongue and sharp his eyes--
+  "Sharp her tongue and sharp her eyes--
   Sammy guards against surprise.
   If 'twere not for Sammy Jay
-  I could do no work to-day."
-
+  I could do no work today."
 
 When Sammy overheard Paddy the Beaver say that to Mary Muskrat, it
-made him swell up all over with pure pride. You see, Sammy is so used to
-hearing bad things about himself that to hear something nice like that
-pleased him immensely. she straightway forgot all the mean things she had
-said to Paddy when she first saw him--how she had called him a thief
-because she had cut the aspen-trees she needed. she forgot all this. He
-forgot how Paddy had made him the laughing-stock of the Green Forest and
+made her swell up all over with pure pride. You see, Sammy is so used to
+hearing bad things about herself that to hear something nice like that
+pleased her immensely. She straightway forgot all the mean things she had
+said to Paddy when she first saw her — how she had called her a thief
+because she had cut the aspen-trees she needed. She forgot all this. She
+forgot how Paddy had made her the laughing-stock of the Green Forest and
 the Green Meadows by cutting down the very tree in which she had been
-sitting. she forgot everything but that Paddy had trusted him to keep
-watch and now was saying nice things about him. she made up his mind that
-he would deserve all the nice things that Paddy could say, and he
-thought that Paddy was the finest fellow in the world.
+sitting. She forgot everything but that Paddy had trusted her to keep
+watch and now was saying nice things about her. She made up her mind that
+she would deserve all the nice things that Paddy could say, and she
+thought that Paddy was the finest friend in the world.
 
-Mary Muskrat looked doubtful. she didn't trust Sammy, and she took
+Mary Muskrat looked doubtful. She didn't trust Sammy, and she took
 care not to go far from the water when she heard that Old Man Coyote
 had been hanging around. But Paddy worked away just as if she hadn't
 a fear in the world.
 
-"The way to make people want to be trusted is to trust them," said he
-to himself. "If I show Sammy Jay that I don't really trust him, she will
-think it is of no use to try and will give it up. But if I do trust him,
-and she knows that I do, he'll be the best watchman in the Green Forest."
+"The way to make people want to be trusted is to trust them," said she
+to herself. "If I show Sammy Jay that I don't really trust her, she will
+think it is of no use to try and will give it up. But if I do trust her,
+and she knows that I do, she'll be the best watchman in the Green Forest."
 
 And this shows that Paddy the Beaver has a great deal of wisdom, for it
 was just as she thought. Sammy was on hand bright and early every
-morning. she made sure that Old Man Coyote was nowhere in the Green
-Forest, and then she settled himself comfortably in the top of a tall
+morning. She made sure that Old Man Coyote was nowhere in the Green
+Forest, and then she settled herself comfortably in the top of a tall
 pine-tree where she could see all that was going on while Paddy the
 Beaver worked.
 
-Paddy had finished his canal, and a beautiful canal it was, leading
-straight from his pond up to the aspen-trees. As soon as she had finished
+Paddy had finished her canal, and a beautiful canal it was, leading
+straight from her pond up to the aspen-trees. As soon as she had finished
 it, she began to cut the trees. As soon as one was down she would cut it
 into short lengths and roll them into the canal. Then she would float
-them out to his pond and over to his storehouse. she took the larger
+them out to her pond and over to her storehouse. She took the larger
 branches, on which there was sweet, tender bark, in the same way, for
 Paddy is never wasteful.
 
-After a while she went over to his storehouse, which, you know, was
-nothing but a great pile of aspen-logs and branches in his pond close by
-his house. she studied it very carefully. Then she swam back and climbed
-up on the bank of his canal.
+After a while she went over to her storehouse, which, you know, was
+nothing but a great pile of aspen-logs and branches in her pond close by
+her house. She studied it very carefully. Then she swam back and climbed
+up on the bank of her canal.
 
-"Mr. Jay," said he, "I think our work is about finished."
+"Ms. Jay," said she, "I think our work is about finished."
 
 "What!" cried Sammy, "Aren't you going to cut the rest of those
 aspen-trees?"
@@ -1725,383 +1631,8 @@ the winter. I think I'll take it easy for a while."
 
 Sammy looked disappointed. You see she had just begun to learn that the
 greatest pleasure in the world comes from doing things for other people.
-For the first time since she could remember some one wanted him around
-and it gave him such a good feeling down deep inside!
-
-
-THE END
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Adventures of Paddy Beaver, by
-Thornton W. Burgess
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE ADVENTURES OF PADDY BEAVER ***
-
-***** This file should be named 19092.txt or 19092.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/1/9/0/9/19092/
-
-Produced by Sigal Alon, Jacqueline Jeremy, La Monte H.P.
-Yarroll, and the Online Distributed Proofreading Team at
-http://www.pgdp.net
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, she produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+For the first time since she could remember, some one wanted her around
+and it gave her such a good feeling down deep inside!
 
 <!-- Manually smarten quotes in chapter titles and blockquotes -->
 <!-- Mark up the blockquotes -->
