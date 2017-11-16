@@ -12,7 +12,7 @@
 /* Type basics
 ---------------------------*/
 body {
-  font: 100% "Benton Modern RE", Verdana, sans-serif;
+  font: 100% "Benton Mod RE Reg", Verdana, sans-serif;
   font-kerning: normal;
 	font-variant-ligatures: common-ligatures, contextual;
 	-moz-font-feature-settings: "kern", "liga", "clig", "calt";
@@ -60,6 +60,7 @@ p + .q {
 }
 i,
 blockquote {
+  font-family: "Benton Mod RE It", Verdana, sans-serif;
   font-style: italic;
 }
 blockquote em {

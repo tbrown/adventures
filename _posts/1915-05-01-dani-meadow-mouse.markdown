@@ -33,71 +33,27 @@ date: 1915-05-01
 
 <h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
 
-Dani Meadow Mouse sat on her doorstep with her chin in her hands,
-and it was very plain to see that Dani had something on her mind.
-She had only a nod for Jenny Skunk, and even Peter Rabbit could get
-no more than a grumpy "Good morning." It wasn't that she had been
-caught napping the day before by Reddy Fox and nearly made an end
-of. No, it wasn't that. Dani had learned her lesson, and Reddy
-would never catch her again. It wasn't that she was all alone with no
-one to play with. Dani was rather glad that she was alone. The fact
-is, Dani Meadow Mouse was worried.
+Dani Meadow <i>Mouse</i> sat on her doorstep with her chin in her hands, and it was very plain to see that Dani had something on her mind. She had only a nod for Jenny Skunk, and even Peter Rabbit could get no more than a grumpy "Good morning." It wasn't that she had been caught napping the day before by Reddy Fox and nearly made an end of. No, it wasn't that. Dani had learned her lesson, and Reddy would never catch her again. It wasn't that she was all alone with no one to play with. Dani was rather glad that she was alone. The fact is, Dani Meadow Mouse was worried.
 
-Now worry is one of the worst things in the world, and it didn't
-seem as if there was anything that Dani Meadow Mouse need worry
-about. But you know it is the easiest thing in the world to find
-something to worry over and make yourself uncomfortable about. And
-when you make yourself uncomfortable, you are almost sure to make
-everyone around you equally uncomfortable. It was so with Dani
-Meadow Mouse. Striped Chipmunk had twice called her "Cross Patch"
-that morning, and Johnny Chuck, who had fought Reddy Fox for her the
-day before, had called her "Grumpy." And what do you think was the
-matter with Dani Meadow Mouse? Why, she was worrying because her
-tail was short. Yes, sir, that is all that ailed Dani Meadow Mouse
-that bright morning.
+Now worry is one of the worst things in the world, and it didn't seem as if there was anything that Dani Meadow Mouse need worry about. But you know it is the easiest thing in the world to find something to worry over and make yourself uncomfortable about. And when you make yourself uncomfortable, you are almost sure to make everyone around you equally uncomfortable. It was so with Dani Meadow Mouse. Striped Chipmunk had twice called her "Cross Patch" that morning, and Johnny Chuck, who had fought Reddy Fox for her the day before, had called her "Grumpy." And what do you think was the matter with Dani Meadow Mouse? Why, she was worrying because her tail was short. Yes, sir, that is all that ailed Dani Meadow Mouse that bright morning.
 
-You know some people let their looks make them miserable. They worry
-because they are homely or freckled, or short or tall, or thin or
-stout, all of which is very foolish. And Dani Meadow Mouse was just
-as foolish in worrying because her tail was short.
+You know some people let their looks make them miserable. They worry because they are homely or freckled, or short or tall, or thin or stout, all of which is very foolish. And Dani Meadow Mouse was just as foolish in worrying because her tail was short.
 
-It is short! It certainly is all of that! Dani never had realized
-how short until she chanced to meet her cousin Whitefoot, who lives
-in the Green Forest. He was very elegantly dressed, but the most
-imposing thing about him was his long, slim, beautiful tail. Dani
-had at once become conscious of her own stubby little tail, and she
-had hardly had pride enough to hold her head up as became an honest
-Meadow Mouse. Ever since, she had been thinking and thinking, and
-wondering how her family came to have such short tails. Then she grew
-envious and began to wish and wish and wish that she could have a
-long tail like her cousin Whitefoot.
+It is short! It certainly is all of that! Dani never had realized how short until she chanced to meet her cousin Whitefoot, who lives in the Green Forest. He was very elegantly dressed, but the most imposing thing about him was his long, slim, beautiful tail. Dani had at once become conscious of her own stubby little tail, and she had hardly had pride enough to hold her head up as became an honest Meadow Mouse. Ever since, she had been thinking and thinking, and wondering how her family came to have such short tails. Then she grew envious and began to wish and wish and wish that she could have a long tail like her cousin Whitefoot.
 
-She was so busy wishing that she had a long tail, that she quite forgot
-to take care of the tail she did have, and she pretty nearly lost it — and her life with it. Old Whitetail the Marsh Hawk spied Dani sitting there moping on her doorstep, and came sailing over the tops
-of the meadow grasses so softly that he all but caught Dani. If it
-hadn't been for one of the Merry Little Breezes, Dani would have
-been caught. And all because she was envious. It's a bad, bad habit.
-
+She was so busy wishing that she had a long tail, that she quite forgot to take care of the tail she did have, and she pretty nearly lost it — and her life with it. Old Whitetail the Marsh Hawk spied Dani sitting there moping on her doorstep, and came sailing over the tops of the meadow grasses so softly that he all but caught Dani. If it hadn't been for one of the Merry Little Breezes, Dani would have been caught. And all because she was envious. It's a bad, bad habit.
 
 <h2 id="ch2"><a href="#ch2"><span>II</span> Dani Meadow Mouse and her Short Tail</a></h2>
 
-All Dani Meadow Mouse could think about was her short tail. she was
-so ashamed of it that whenever anyone passed, she crawled out of
-sight so that they should not see how short her tail was. Instead of
-playing in the sunshine as she used to do, she sat and sulked. Pretty
-soon her friends began to pass without stopping. Finally one day Old
-Mrs. Toad sat down in front of Dani and began to ask questions.
+All Dani Meadow Mouse could think about was her short tail. She was so ashamed of it that whenever anyone passed, she crawled out of sight so that they should not see how short her tail was. Instead of playing in the sunshine as she used to do, she sat and sulked. Pretty soon her friends began to pass without stopping. Finally one day Old Mrs. Toad sat down in front of Dani and began to ask questions.
 
 "What's the matter?" asked Old Mrs. Toad.
 
 "Nothing," replied Dani Meadow Mouse.
 
-"I don't suppose there really is anything the matter, but what do
-you think is the matter?" said Old Mrs. Toad.
+"I don't suppose there really is anything the matter, but what do you think is the matter?" said Old Mrs. Toad.
 
-Dani fidgeted, and Old Mrs. Toad looked up at jolly, round, red Mr.
-Sun and winked. "Sun is just as bright as ever, isn't it?" she
-inquired.
+Dani fidgeted, and Old Mrs. Toad looked up at jolly, round, red Mr. Sun and winked. "Sun is just as bright as ever, isn't it?" she inquired.
 
 "Yes," said Dani.
 
@@ -105,105 +61,36 @@ inquired.
 
 "Yes," said Dani.
 
-"Seems to me that that is a pretty good-looking suit of clothes
-you're wearing," said Mrs. Toad, eyeing Dani critically. "Sunny
-weather, plenty to eat and drink, and good clothes — must be you
-don't know when you're well off, Dani Meadow Mouse."
+"Seems to me that that is a pretty good-looking suit of clothes you're wearing," said Mrs. Toad, eyeing Dani critically. "Sunny weather, plenty to eat and drink, and good clothes — must be you don't know when you're well off, Dani Meadow Mouse."
 
-Dani hung her head. Finally she looked up and caught a kindly
-twinkle in Old Mrs. Toad's eyes. "Mrs. Toad, how can I get a long tail
-like my cousin Whitefoot of the Green Forest?" she asked.
+Dani hung her head. Finally she looked up and caught a kindly twinkle in Old Mrs. Toad's eyes. "Mrs. Toad, how can I get a long tail like my cousin Whitefoot of the Green Forest?" she asked.
 
-"So that's what's the matter! Ha! ha! ha! Dani Meadow Mouse, I'm
-ashamed of you! I certainly am ashamed of you!" said Mrs. Toad. "What
-good would a long tail do you? Tell me that."
+"So that's what's the matter! Ha! ha! ha! Dani Meadow Mouse, I'm ashamed of you! I certainly am ashamed of you!" said Mrs. Toad. "What good would a long tail do you? Tell me that."
 
-For a minute Dani didn't know just what to say. "I—I—I'd look so
-much better if I had a long tail," she ventured.
+For a minute Dani didn't know just what to say. "I—I—I'd look so much better if I had a long tail," she ventured.
 
-Old Mrs. Toad just laughed. "You never saw a Meadow Mouse with a long
-tail, did you? Of course not. What a sight it would be! Why,
-everybody on the Green Meadows would laugh themselves sick at the
-sight! You see you need to be slim and trim and handsome to carry a
-long tail well. And then what a nuisance it would be! You would
-always have to be thinking of your tail and taking care to keep it
-out of harm's way. Look at me. I'm homely. Some folks call me ugly
-to look at. But no one tries to catch me as Farmer Brown's boy does
-Billy Mink because of his fine coat; and no one wants to put me in a
-cage because of a fine voice. I am satisfied to be just as I am, and
-if you'll take my advice, Dani Meadow Mouse, you'll be satisfied to
-be just as you are."
+Old Mrs. Toad just laughed. "You never saw a Meadow Mouse with a long tail, did you? Of course not. What a sight it would be! Why, everybody on the Green Meadows would laugh themselves sick at the sight! You see you need to be slim and trim and handsome to carry a long tail well. And then what a nuisance it would be! You would always have to be thinking of your tail and taking care to keep it out of harm's way. Look at me. I'm homely. Some folks call me ugly to look at. But no one tries to catch me as Farmer Brown's boy does Billy Mink because of his fine coat; and no one wants to put me in a cage because of a fine voice. I am satisfied to be just as I am, and if you'll take my advice, Dani Meadow Mouse, you'll be satisfied to be just as you are."
 
 [Illustration: Old Mrs. Toad gave Dani some good advice.]
 
-"Perhaps you are right," said Dani Meadow Mouse after a little.
-"I'll try."
+"Perhaps you are right," said Dani Meadow Mouse after a little. "I'll try."
 
 
 <h2 id="ch3"><a href="#ch3"><span>III</span> Dani Meadow Mouse Plays Hide and Seek</a></h2>
 
-Life is always a game of hide and seek to Dani Meadow Mouse. You
-see, she is such a fat little friend that there are a great many
-other furry-coated people, and almost as many who wear feathers, who
-would gobble Dani up for breakfast or for dinner if they could.
-Some of them pretend to be her friends, but Dani always keeps her
-eyes open when they are around and always begins to play hide and
-seek. Peter Rabbit and Jenny Skunk and Striped Chipmunk and Happy
-Jill Squirrel are all friends whom she can trust, but she always has a
-bright twinkling eye open for Reddy Fox and Billy Mink and Shadow
-the Weasel and old Whitetail the Marsh Hawk, and several more,
-especially Hooty the Owl at night.
+Life is always a game of hide and seek to Dani Meadow Mouse. You see, she is such a fat little thing that there are a great many other furry-coated people, and almost as many who wear feathers, who would gobble Dani up for breakfast or for dinner if they could. Some of them pretend to be her friends, but Dani always keeps her eyes open when they are around and always begins to play hide and seek. Peter Rabbit and Jenny Skunk and Striped Chipmunk and Happy Jill Squirrel are all friends whom she can trust, but she always has a bright twinkling eye open for Reddy Fox and Billy Mink and Shadow the Weasel and old Whitetail the Marsh Hawk, and several more, especially Hooty the Owl at night.
 
-Now Dani Meadow Mouse is a stout-hearted little friend, and when
-rough Brother North Wind came shouting across the Green Meadows,
-tearing to pieces the snow clouds and shaking out the snowflakes
-until they covered the Green Meadows deep, deep, deep, Dani just
-snuggled down in her warm coat in her snug little house of grass and
-waited. Dani liked the snow. Yes, sir, Dani Meadow Mouse liked the
-snow. She just loved to dig in it and make tunnels. Through those
-tunnels in every direction she could go where she pleased and when she
-pleased without being seen by anybody. It was great fun!
+Now Dani Meadow Mouse is stout-hearted, and when rough Brother North Wind came shouting across the Green Meadows, tearing to pieces the snow clouds and shaking out the snowflakes until they covered the Green Meadows deep, deep, deep, Dani just snuggled down in her warm coat in her snug little house of grass and waited. Dani liked the snow. Yes, sir, Dani Meadow Mouse liked the snow. She just loved to dig in it and make tunnels. Through those tunnels in every direction she could go where she pleased and when she pleased without being seen by anybody. It was great fun!
 
-Every little way she made a little round doorway up beside a stiff
-stalk of grass. Out of this she could peep at the white world, and she
-could get the fresh cold air. Sometimes, when she was quite sure that
-no one was around, she would scamper across on top of the snow from
-one doorway to another, and when she did this, she made the prettiest
-little footprints.
+Every little way she made a little round doorway up beside a stiff stalk of grass. Out of this she could peep at the white world, and she could get the fresh cold air. Sometimes, when she was quite sure that no one was around, she would scamper across on top of the snow from one doorway to another, and when she did this, she made the prettiest little footprints.
 
-Now Reddy Fox knew all about those doorways and who made them. Reddy
-was having hard work to get enough to eat in this cold weather, and he
-was hungry most of the time. One morning, as he came tiptoeing
-softly over the meadows, what should he see just ahead of him but
-the head of Dani Meadow Mouse pop out of one of those little round
-doorways. Reddy's mouth watered, and he stole forward more softly
-than ever. When he got within jumping distance, he drew his stout
-hind legs under him and made ready to spring. Presto! Dani Meadow
-Mouse had disappeared! Reddy Fox jumped just the same and began to
-dig as fast as he could make his paws go. He could smell Dani
-Meadow Mouse and that made him almost frantic.
+Now Reddy Fox knew all about those doorways and who made them. Reddy was having hard work to get enough to eat in this cold weather, and he was hungry most of the time. One morning, as he came tiptoeing softly over the meadows, what should he see just ahead of him but the head of Dani Meadow Mouse pop out of one of those little round doorways. Reddy's mouth watered, and he stole forward more softly than ever. When he got within jumping distance, he drew his stout hind legs under him and made ready to spring. Presto! Dani Meadow Mouse had disappeared! Reddy Fox jumped just the same and began to dig as fast as he could make his paws go. He could smell Dani Meadow Mouse and that made him almost frantic.
 
-All the time Dani Meadow Mouse was scurrying along one of her
-little tunnels, and when finally Reddy Fox stopped digging because
-he was quite out of breath, Dani popped her head out of another
-little doorway and laughed at Reddy. Of course Reddy saw her, and of
-course Reddy tried to catch her there, and dug frantically just as
-before. And of course Dani Meadow Mouse wasn't there.
+All the time Dani Meadow Mouse was scurrying along one of her little tunnels, and when finally Reddy Fox stopped digging because he was quite out of breath, Dani popped her head out of another little doorway and laughed at Reddy. Of course Reddy saw her, and of course Reddy tried to catch her there, and dug frantically just as before. And of course Dani Meadow Mouse wasn't there.
 
-After a while Reddy Fox grew tired of this kind of game and tried
-another plan. The next time he saw Dani Meadow Mouse stick her head
-out, Reddy pretended not to see her. He stretched himself out on the
-ground and made believe that he was very tired and sleepy. He closed
-his eyes. Then he opened them just the tiniest bit, so that he could
-see Dani Meadow Mouse and yet seem to be asleep. Dani watched him
-for a long time. Then she chuckled to herself and dropped out of
-sight.
+After a while Reddy Fox grew tired of this kind of game and tried another plan. The next time he saw Dani Meadow Mouse stick her head out, Reddy pretended not to see her. He stretched himself out on the ground and made believe that he was very tired and sleepy. He closed his eyes. Then he opened them just the tiniest bit, so that he could see Dani Meadow Mouse and yet seem to be asleep. Dani watched him for a long time. Then she chuckled to herself and dropped out of sight.
 
-No sooner was she gone than Reddy Fox stole over close to the little
-doorway and waited. "She'll surely stick her head out again to see if
-I'm asleep, and then I'll have her," said Reddy to himself. So he
-waited and waited and waited. By and by he turned his head. There
-was Dani Meadow Mouse at another little doorway laughing at him!
+No sooner was she gone than Reddy Fox stole over close to the little doorway and waited. "She'll surely stick her head out again to see if I'm asleep, and then I'll have her," said Reddy to himself. So he waited and waited and waited. By and by he turned his head. There was Dani Meadow Mouse at another little doorway laughing at him!
 
 [Illustration: Dani Meadow Mouse was laughing from another little
 doorway.]
@@ -211,8 +98,7 @@ doorway.]
 
 <h2 id="ch4"><a href="#ch4"><span>IV</span> Old Granny Fox Tries for Dani Meadow Mouse</a></h2>
 
-Dani Meadow Mouse had not enjoyed anything so much for a long time
-as she did that game of hide and seek. she tickled and chuckled all
+Dani Meadow Mouse had not enjoyed anything so much for a long time as she did that game of hide and seek. She tickled and chuckled all
 the afternoon as she thought about it. Of course Reddy had been "it."
 He had been "it" all the time, for never once had she caught Dani
 Meadow Mouse. If she had--well, there wouldn't have been any more
@@ -1351,7 +1237,7 @@ from the Green Meadows."
 
 "Ha!" said Peter Rabbit.
 
-"There are little loops of that queer stuff you've got hanging to
+"There are little loops of that strange stuff you've got hanging to
 your leg, Peter," continued Dani Meadow Mouse.
 
 "Just so!" said Peter Rabbit.
@@ -1472,7 +1358,7 @@ minute of the day and night, too."
 "Oh, it's not so bad," replied Dani. "It's rather exciting.
 Besides, it keeps my wits sharp all the time. I am afraid I should
 find life very dull indeed if, like you, I feared nothing and
-nobody. By the way, see how queerly that grass is moving over there.
+nobody. By the way, see how that grass is moving over there.
 It looks as if Mr. Blacksnake--Why, Mrs. Toad, where are you going in
 such a hurry?"
 
@@ -1519,7 +1405,7 @@ her eyes wide open, and her little nose carefully testing every
 Merry Little Breeze who happened along for any scent of danger which
 it might carry. Most of all she depended upon her ears, for the grass
 was so tall that she couldn't see over it, even when she sat up. He
-had gone only a little way when she thought she heard a queer rustling
+had gone only a little way when she thought she heard a quiet rustling
 behind him. she stopped to listen. There it was again, and it
 certainly was right in the path behind him! she didn't need to be
 told who was making it. There was only one who could make such a
@@ -1694,7 +1580,7 @@ had seen it many times before.
 "Now what under the sun could Redtail have been after here?" thought
 Reddy. "The grass isn't long enough for a grasshopper to hide in,
 and yet Redtail didn't get what she was after. It's very queer. It
-certainly is very queer."
+certainly is very strange."
 
 He trotted out and began to run back and forth with her nose to the
 ground, hoping that her nose would tell him what her eyes couldn't.
