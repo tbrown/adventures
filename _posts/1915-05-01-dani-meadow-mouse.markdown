@@ -31,17 +31,37 @@ date: 1915-05-01
 23. [Reddy Fox Loses his Temper](#ch23)
 
 
+
+
+
+<aside class="illo">
+  <img src="images/illstr-1.jpg" />
+  Test!
+</aside>
+
+<section class="chapter">
+
 <h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
 
-Dani Meadow <i>Mouse</i> sat on her doorstep with her chin in her hands, and it was very plain to see that Dani had something on her mind. She had only a nod for Jenny Skunk, and even Peter Rabbit could get no more than a grumpy "Good morning." It wasn't that she had been caught napping the day before by Reddy Fox and nearly made an end of. No, it wasn't that. Dani had learned her lesson, and Reddy would never catch her again. It wasn't that she was all alone with no one to play with. Dani was rather glad that she was alone. The fact is, Dani Meadow Mouse was worried.
+<p>Dani Meadow Mouse sat on her doorstep with her chin in her hands, and it was very plain to see that Dani had something on her mind. She had only a nod for Jenny Skunk, and even Peter Rabbit could get no more than a grumpy "Good morning." It wasn't that she had been caught napping the day before by Reddy Fox and nearly made an end of. No, it wasn't that. Dani had learned her lesson, and Reddy would never catch her again. It wasn't that she was all alone with no one to play with. Dani was rather glad that she was alone. The fact is, Dani Meadow Mouse was worried.</p>
 
-Now worry is one of the worst things in the world, and it didn't seem as if there was anything that Dani Meadow Mouse need worry about. But you know it is the easiest thing in the world to find something to worry over and make yourself uncomfortable about. And when you make yourself uncomfortable, you are almost sure to make everyone around you equally uncomfortable. It was so with Dani Meadow Mouse. Striped Chipmunk had twice called her "Cross Patch" that morning, and Johnny Chuck, who had fought Reddy Fox for her the day before, had called her "Grumpy." And what do you think was the matter with Dani Meadow Mouse? Why, she was worrying because her tail was short. Yes, sir, that is all that ailed Dani Meadow Mouse that bright morning.
+<p>Now worry is one of the worst things in the world, and it didn't seem as if there was anything that Dani Meadow Mouse need worry about. But you know it is the easiest thing in the world to find something to worry over and make yourself uncomfortable about. And when you make yourself uncomfortable, you are almost sure to make everyone around you equally uncomfortable. It was so with Dani Meadow Mouse. Striped Chipmunk had twice called her "Cross Patch" that morning, and Johnny Chuck, who had fought Reddy Fox for her the day before, had called her "Grumpy." And what do you think was the matter with Dani Meadow Mouse? Why, she was worrying because her tail was short. Yes, sir, that is all that ailed Dani Meadow Mouse that bright morning.</p>
 
-You know some people let their looks make them miserable. They worry because they are homely or freckled, or short or tall, or thin or stout, all of which is very foolish. And Dani Meadow Mouse was just as foolish in worrying because her tail was short.
+<p>You know some people let their looks make them miserable. They worry because they are homely or freckled, or short or tall, or thin or stout, all of which is very foolish. And Dani Meadow Mouse was just as foolish in worrying because her tail was short.
 
 It is short! It certainly is all of that! Dani never had realized how short until she chanced to meet her cousin Whitefoot, who lives in the Green Forest. He was very elegantly dressed, but the most imposing thing about him was his long, slim, beautiful tail. Dani had at once become conscious of her own stubby little tail, and she had hardly had pride enough to hold her head up as became an honest Meadow Mouse. Ever since, she had been thinking and thinking, and wondering how her family came to have such short tails. Then she grew envious and began to wish and wish and wish that she could have a long tail like her cousin Whitefoot.
 
-She was so busy wishing that she had a long tail, that she quite forgot to take care of the tail she did have, and she pretty nearly lost it — and her life with it. Old Whitetail the Marsh Hawk spied Dani sitting there moping on her doorstep, and came sailing over the tops of the meadow grasses so softly that he all but caught Dani. If it hadn't been for one of the Merry Little Breezes, Dani would have been caught. And all because she was envious. It's a bad, bad habit.
+She was so busy wishing that she had a long tail, that she quite forgot to take care of the tail she did have, and she pretty nearly lost it — and her life with it. Old Whitetail the Marsh Hawk spied Dani sitting there moping on her doorstep, and came sailing over the tops of the meadow grasses so softly that he all but caught Dani. If it hadn't been for one of the Merry Little Breezes, Dani would have been caught. And all because she was envious. It's a bad, bad habit.</p>
+
+
+</section>
+
+<aside class="illo">
+  <img src="images/illstr-1.jpg" />
+  Test two!
+</aside>
+
+<section class="chapter">
 
 <h2 id="ch2"><a href="#ch2"><span>II</span> Dani Meadow Mouse and her Short Tail</a></h2>
 
@@ -74,6 +94,7 @@ Old Mrs. Toad just laughed. "You never saw a Meadow Mouse with a long tail, did 
 [Illustration: Old Mrs. Toad gave Dani some good advice.]
 
 "Perhaps you are right," said Dani Meadow Mouse after a little. "I'll try."
+
 
 
 <h2 id="ch3"><a href="#ch3"><span>III</span> Dani Meadow Mouse Plays Hide and Seek</a></h2>
@@ -1683,3 +1704,4 @@ It cheats them of the very thing
 
 - Manually smarten quotes in chapter titles and blockquotes
 - Check for 'ther', should be 'this'
+</section>
