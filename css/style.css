@@ -109,29 +109,29 @@ blockquote {
   }
 
   .content {
+    position: relative;
+    xmax-width: 55.927em;
+    margin: 0 auto;
     border-radius: 0.232em;
     padding: 1.333em 3.157em 5.61em;
     outline: 0.178em pink solid;
   }
-
-
-/* Illustration positioning */
-
-  .content {
-    position: relative;
-  }
   
   .chapter {
-    margin-left: 43%;
+    margin-right: 0;
+    margin-left: auto;
+    width: 44%;
+    xmax-width: 30em;
   }
   
   .illo {
     position: -webkit-sticky;
     position: sticky;
     top: 1em; left: 0;
-    width: 40%;
-    background-color: var(--background);
     float: left;
+    margin-left: -130%;
+    width: 127.273%;
+    background-color: var(--background);
   }
 
 }

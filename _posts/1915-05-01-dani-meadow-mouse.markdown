@@ -31,17 +31,14 @@ date: 1915-05-01
 23. [Reddy Fox Loses his Temper](#ch23)
 
 
+<section class="chapter">
 
-
+<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
 
 <aside class="illo">
   <img src="images/illstr-1.jpg" />
   Test!
 </aside>
-
-<section class="chapter">
-
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
 
 <p>Dani Meadow Mouse sat on her doorstep with her chin in her hands, and it was very plain to see that Dani had something on her mind. She had only a nod for Jenny Skunk, and even Peter Rabbit could get no more than a grumpy "Good morning." It wasn't that she had been caught napping the day before by Reddy Fox and nearly made an end of. No, it wasn't that. Dani had learned her lesson, and Reddy would never catch her again. It wasn't that she was all alone with no one to play with. Dani was rather glad that she was alone. The fact is, Dani Meadow Mouse was worried.</p>
 
@@ -56,14 +53,14 @@ She was so busy wishing that she had a long tail, that she quite forgot to take 
 
 </section>
 
+<section class="chapter">
+
+<h2 id="ch2"><a href="#ch2"><span>II</span> Dani Meadow Mouse and her Short Tail</a></h2>
+
 <aside class="illo">
   <img src="images/illstr-1.jpg" />
   Test two!
 </aside>
-
-<section class="chapter">
-
-<h2 id="ch2"><a href="#ch2"><span>II</span> Dani Meadow Mouse and her Short Tail</a></h2>
 
 All Dani Meadow Mouse could think about was her short tail. She was so ashamed of it that whenever anyone passed, she crawled out of sight so that they should not see how short her tail was. Instead of playing in the sunshine as she used to do, she sat and sulked. Pretty soon her friends began to pass without stopping. Finally one day Old Mrs. Toad sat down in front of Dani and began to ask questions.
 
