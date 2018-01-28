@@ -198,6 +198,8 @@ surely have caught her.</p>
 
 <section class="chapter-set">
 
+<h2 id="ch7"><a href="#ch7"><span>VII</span> Old Granny Fox Tries a New Plan</a></h2>
+
 <aside class="illo">
   <figure>
     <img src="images/hollow-fence-post.jpg" />
@@ -205,604 +207,249 @@ surely have caught her.</p>
   </figure>
 </aside>
 
+<p>Old Granny Fox kept thinking about Dani Meadow Mouse. She knew that she was fat, and it made her mouth water every time she thought of her. She made up her mind that she must and would have her. She knew that Dani had been very, very much frightened when she and Reddy Fox had tried so hard to catch her by plunging down through the snow into her little tunnels after her, and she felt pretty sure that she wouldn’t go far away from the old fence-post, in the hollow of which she was snug and safe.</p>
 
+<p>Old Granny Fox is very smart. “Dani Meadow Mouse won’t put her nose out of that old fence-post for a day or two. Then she’ll get tired of staying inside all the time, and she’ll peep out of one of her little round doorways to see if the way is clear. If she doesn’t see any danger, she’ll come out and run around on top of the snow to get some of the seeds in the tops of the tall grasses that stick out through the snow. If nothing frightens her, she’ll keep going, a little farther and a little farther from that old fence-post. I must see to it that Dani Meadow Mouse isn’t frightened for a few days.” So said old Granny Fox to herself, as she lay under a hemlock tree, studying how she could best get the next meal.</p>
 
-<h2 id="ch7"><a href="#ch7"><span>VII</span> Old Granny Fox Tries a New Plan</a></h2>
+<p>Then she called Reddy Fox to her and forbade him to go down on the meadows until she should tell him he might. Reddy grumbled and mumbled and didn’t see why he shouldn’t go where he pleased, but he didn’t dare disobey. You see he had a sore foot. He had hurt it on a wire barb when he was plunging through the snow after Dani Meadow Mouse, and now he had to run on three legs. That meant that he must depend upon Granny Fox to help him get enough to eat. So Reddy didn’t dare to disobey.</p>
 
-Old Granny Fox kept thinking about Dani Meadow Mouse. She knew that
-she was fat, and it made her mouth water every time she thought of
-her. She made up her mind that she must and would have her. She knew
-that Dani had been very, very much frightened when she and Reddy
-Fox had tried so hard to catch her by plunging down through the snow
-into her little tunnels after her, and she felt pretty sure that she
-wouldn’t go far away from the old fence-post, in the hollow of which
-she was snug and safe.
+<p>It all came out just as Granny Fox had thought it would. Dani Meadow Mouse <em>did</em> get tired of staying in the old fence-post. She <em>did</em> peep out first, and then she <em>did</em> run a little way on the snow, and then a little farther and a little farther. But all the time she took great care not to get more than a jump or two from one of her little round doorways leading down to her tunnels under the snow.</p>
 
-Old Granny Fox is very smart. “Dani Meadow Mouse won’t put her nose
-out of that old fence-post for a day or two. Then she’ll get tired of
-staying inside all the time, and she’ll peep out of one of her little
-round doorways to see if the way is clear. If she doesn’t see any
-danger, she’ll come out and run around on top of the snow to get some
-of the seeds in the tops of the tall grasses that stick out through
-the snow. If nothing frightens her, she’ll keep going, a little
-farther and a little farther from that old fence-post. I must see to
-it that Dani Meadow Mouse isn’t frightened for a few days." So said
-old Granny Fox to herself, as she lay under a hemlock tree, studying
-how she could best get the next meal.
+<p>Hidden on the edge of the Green Forest, Granny Fox watched her. She looked up at the sky, and she knew that it was going to snow again. “That’s good,” said she. “Tomorrow morning I’ll have fat Meadow Mouse for breakfast,” and she smiled a hungry smile.</p>
 
-Then she called Reddy Fox to her and forbade him to go down on the
-meadows until she should tell him he might. Reddy grumbled and
-mumbled and didn’t see why he shouldn’t go where he pleased, but he
-didn’t dare disobey. You see he had a sore foot. He had hurt it on a
-wire barb when he was plunging through the snow after Dani Meadow
-Mouse, and now he had to run on three legs. That meant that he must
-depend upon Granny Fox to help him get enough to eat. So Reddy
-didn’t dare to disobey.
+<p>The next morning, before jolly, round, red Mr. Sun was out of bed, old Granny Fox trotted down onto the meadows and straight over to where, down under the snow, lay the old fence-post. It had snowed again, and all the little doorways of Dani Meadow Mouse were covered up with soft, fleecy snow. Behind Granny Fox limped Reddy Fox, grumbling to himself.</p>
 
-It all came out just as Granny Fox had thought it would. Dani
-Meadow Mouse _did_ get tired of staying in the old fence-post. She
-_did_ peep out first, and then she _did_ run a little way on the
-snow, and then a little farther and a little farther. But all the
-time she took great care not to get more than a jump or two from one
-of her little round doorways leading down to her tunnels under the
-snow.
-
-Hidden on the edge of the Green Forest, Granny Fox watched her. She
-looked up at the sky, and she knew that it was going to snow again.
-"That’s good," said she. “Tomorrow morning I’ll have fat Meadow
-Mouse for breakfast," and she smiled a hungry smile.
-
-The next morning, before jolly, round, red Mr. Sun was out of bed,
-old Granny Fox trotted down onto the meadows and straight over to
-where, down under the snow, lay the old fence-post. It had snowed
-again, and all the little doorways of Dani Meadow Mouse were
-covered up with soft, fleecy snow. Behind Granny Fox limped Reddy
-Fox, grumbling to himself.
-
-When they reached the place where the old fence-post lay buried
-under the snow, old Granny Fox stretched out as flat as she could.
-Then she told Reddy to cover her up with the new soft snow. Reddy
-did as he was told, but all the time he grumbled. “Now you go off to
-the Green Forest and keep out of sight," said Granny Fox. “By and by
-I’ll bring you some Meadow Mouse for your breakfast," and Granny Fox
-chuckled to think how smart she was and how she was going to catch
-Dani Meadow Mouse.
+<p>When they reached the place where the old fence-post lay buried under the snow, old Granny Fox stretched out as flat as she could. Then she told Reddy to cover her up with the new soft snow. Reddy did as he was told, but all the time he grumbled. “Now you go off to the Green Forest and keep out of sight,” said Granny Fox. “By and by
+I’ll bring you some Meadow Mouse for your breakfast,” and Granny Fox chuckled to think how smart she was and how she was going to catch Dani Meadow Mouse.</p>
 
 
 <h2 id="ch8"><a href="#ch8"><span>VIII</span> Brother North Wind Proves a Friend</a></h2>
 
-Dani Meadow Mouse had seen nothing of old Granny Fox or Reddy Fox
-for several days. Every morning the first thing she did, even before
-she had breakfast, was to climb up to one of her little round
-doorways and peep out over the beautiful white meadows, to see if
-there was any danger near. But every time she did so, Dani used a
-different doorway. “For," said Dani to herself, “if any one should
-happen, just happen, to see me this morning, they might be waiting
-just outside my doorway to catch me tomorrow morning." You see
-there is a great deal of wisdom in the little head that Dani Meadow
-Mouse carries on her shoulders.
+<p>Dani Meadow Mouse had seen nothing of old Granny Fox or Reddy Fox for several days. Every morning the first thing she did, even before she had breakfast, was to climb up to one of her little round doorways and peep out over the beautiful white meadows, to see if there was any danger near. But every time she did so, Dani used a different doorway. “For,” said Dani to herself, “if any one should happen, just happen, to see me this morning, they might be waiting just outside my doorway to catch me tomorrow morning.” You see there is a great deal of wisdom in the little head that Dani Meadow Mouse carries on her shoulders.</p>
 
-But the first day and the second day and the third day she saw
-nothing of old Granny Fox or of Reddy Fox, and she began to enjoy
-running through her tunnels under the snow and scurrying across from
-one doorway to another on top of the snow, just as she had before the
-Foxes had tried so hard to catch her. But she hadn’t forgotten, as
-Granny Fox had hoped she would. No, indeed, Dani Meadow Mouse hadn’t
-forgotten. She was too wise for that.
+<p>But the first day and the second day and the third day she saw nothing of old Granny Fox or of Reddy Fox, and she began to enjoy running through her tunnels under the snow and scurrying across from one doorway to another on top of the snow, just as she had before the Foxes had tried so hard to catch her. But she hadn’t forgotten, as Granny Fox had hoped she would. No, indeed, Dani Meadow Mouse hadn’t forgotten. She was too wise for that.</p>
 
-One morning, when she started to climb up to one of her little
-doorways, she found that it was closed. Yes, sir, it was closed. In
-fact, there wasn’t any doorway. More snow had fallen from the clouds
-in the night and had covered up every one of the little round
-doorways of Dani Meadow Mouse.
+<p>One morning, when she started to climb up to one of her little doorways, she found that it was closed. Yes, sir, it was closed. In fact, there wasn’t any doorway. More snow had fallen from the clouds in the night and had covered up every one of the little round doorways of Dani Meadow Mouse.</p>
 
-"Ha!" said Dani, “I shall have a busy day, a very busy day, opening
-all my doorways. I’ll eat my breakfast, and then I’ll go to work."
+<p class="q">“Ha!” said Dani, “I shall have a busy day, a very busy day, opening all my doorways. I’ll eat my breakfast, and then I’ll go to work.”</p>
 
-So Dani Meadow Mouse ate a good breakfast of seeds which she had
-stored in the hollow in the old fence-post buried under the snow,
-and then she began work on the nearest doorway. It really wasn’t work
-at all, for you see the snow was soft and light, and Dani dearly
-loved to dig in it. In a few minutes she had made a wee hole through
-which she could peep up at jolly, round Mr. Sun. In a few minutes
-more she had made it big enough to put her head out. She looked this
-way and she looked that way. Far, far off on the top of a tree she
-could see old Roughleg the Hawk, but she was so far away that Dani
-didn’t fear her at all.
+<p>So Dani Meadow Mouse ate a good breakfast of seeds which she had stored in the hollow in the old fence-post buried under the snow, and then she began work on the nearest doorway. It really wasn’t work at all, for you see the snow was soft and light, and Dani dearly loved to dig in it. In a few minutes she had made a wee hole through which she could peep up at jolly, round Mr. Sun. In a few minutes more she had made it big enough to put her head out. She looked this way and she looked that way. Far, far off on the top of a tree she could see old Roughleg the Hawk, but she was so far away that Dani didn’t fear her at all.</p>
 
-"I don’t see anything or anybody to be afraid of," said Dani and
-poked her head out a little farther.
+<p class="q">“I don’t see anything or anybody to be afraid of,” said Dani and poked her head out a little farther.</p>
 
-Then she sat and studied everything around her a long, long time. It
-was a beautiful white world, a very beautiful white world.
-Everything was so white and pure and beautiful that it didn’t seem
-possible that harm or danger for anyone could even be thought of.
-But Dani Meadow Mouse learned long ago that things are not always
-what they seem, and so she sat with just her little head sticking out
-of her doorway and studied and studied. Just a little way off was a
-little heap of snow.
+<p>Then she sat and studied everything around her a long, long time. It was a beautiful white world, a very beautiful white world. Everything was so white and pure and beautiful that it didn’t seem possible that harm or danger for anyone could even be thought of. But Dani Meadow Mouse learned long ago that things are not always what they seem, and so she sat with just her little head sticking out of her doorway and studied and studied. Just a little way off was a little heap of snow.</p>
 
-"I don’t remember that," said Dani. “And I don’t remember anything
-that would make that. There isn’t any little bush or old log or
-anything underneath it. Perhaps rough Brother North Wind heaped it
-up, just for fun."
+<p class="q">“I don’t remember that,” said Dani. “And I don’t remember anything that would make that. There isn’t any little bush or old log or anything underneath it. Perhaps rough Brother North Wind heaped it up, just for fun.”</p>
 
-But all the time Dani Meadow Mouse kept studying and studying that
-little heap of snow. Pretty soon she saw rough Brother North Wind
-coming her way and tossing the snow about as he came. He caught a
-handful from the top of the little heap of snow that Dani was
-studying, and when he had passed, Dani’s sharp eyes saw something
-red there. It was just the color of the cloak old Granny Fox wears.
+<p>But all the time Dani Meadow Mouse kept studying and studying that little heap of snow. Pretty soon she saw rough Brother North Wind coming her way and tossing the snow about as he came. He caught a handful from the top of the little heap of snow that Dani was studying, and when he had passed, Dani’s sharp eyes saw something red there. It was just the color of the cloak old Granny Fox wears.</p>
 
-  “Granny Fox, you can’t fool me!
-  I see you plain as plain can be!"
+<blockquote>
+  <p class="q">
+    “Granny Fox, you can’t fool me!<br>
+    I see you plain as plain can be!”
+  </p>
+</blockquote>
 
-shouted Dani Meadow Mouse and dropped down out of sight, while old
-Granny Fox shook the snow from her red cloak and, with a snarl of
-disappointment and anger, slowly started for the Green Forest, where
-Reddy Fox was waiting for her.
+<p>shouted Dani Meadow Mouse and dropped down out of sight, while old Granny Fox shook the snow from her red cloak and, with a snarl of disappointment and anger, slowly started for the Green Forest, where Reddy Fox was waiting for her.</p>
 
+</section>
+
+<section class="chapter-set">
 
 <h2 id="ch9"><a href="#ch9"><span>IX</span> Dani Meadow Mouse Is Caught at Last</a></h2>
 
-  “Tippy-toppy-tippy-toe,
-  Play and frolic in the snow!
-  Now you see me! Now you don’t!
-  Think you’ll catch me, but you won’t!
-  Tippy-toppy-tippy-toe,
-  Oh, such fun to play in snow!"
+<blockquote>
+  <p class="q">
+    “Tippy-toppy-tippy-toe,<br>
+    Play and frolic in the snow!<br>
+    Now you see me! Now you don’t!<br>
+    Think you’ll catch me, but you won’t!<br>
+    Tippy-toppy-tippy-toe,<br>
+    Oh, such fun to play in snow!”
+  </p>
+</blockquote>
 
-Dani Meadow Mouse sang this, or at least she tried to sing it, as she
-skipped about on the snow that covered the Green Meadows. But Dani
-Meadow Mouse has such a little voice, such a funny little squeaky
-voice, that had you been there you probably would never have guessed
-that she was singing. She thought she was, though, and was enjoying it
-just as much as if she had the most beautiful voice in the world. You
-know singing is nothing in the world but happiness in the heart
-making itself heard.
+<p>Dani Meadow Mouse sang this, or at least she tried to sing it, as she skipped about on the snow that covered the Green Meadows. But Dani Meadow Mouse has such a little voice, such a funny little squeaky voice, that had you been there you probably would never have guessed that she was singing. She thought she was, though, and was enjoying it just as much as if she had the most beautiful voice in the world. You know singing is nothing in the world but happiness in the heart making itself heard.</p>
 
-Oh, yes, Dani Meadow Mouse was happy! Why shouldn’t she have been?
-Hadn’t she proved herself smarter than old Granny Fox? That is
-something to make anyone happy. Some folks may fool Granny Fox once;
-some may fool her twice; but there are very few who can keep right
-on fooling her until she gives up in disgust. That is just what
-Dani Meadow Mouse had done, and she felt very smart and of course she
-felt very happy.
+<p>Oh, yes, Dani Meadow Mouse was happy! Why shouldn’t she have been? Hadn’t she proved herself smarter than old Granny Fox? That is something to make anyone happy. Some folks may fool Granny Fox once; some may fool her twice; but there are very few who can keep right on fooling her until she gives up in disgust. That is just what Dani Meadow Mouse had done, and she felt very smart and of course she felt very happy.</p>
 
-So Dani sang her little song and skipped about in the moonlight,
-and dodged in and out of her little round doorways, and all the time
-kept her sharp little eyes open for any sign of Granny Fox or Reddy
-Fox. But with all her smartness, Dani forgot. Yes, sir, Dani
-forgot one thing. She forgot to watch up in the sky. She knew that of
-course old Roughleg the Hawk was asleep, so she had nothing to fear
-from her. But she never once thought of Hooty the Owl.
+<p>So Dani sang her little song and skipped about in the moonlight, and dodged in and out of her little round doorways, and all the time kept her sharp little eyes open for any sign of Granny Fox or Reddy Fox. But with all her smartness, Dani forgot. Yes, sir, Dani forgot one thing. She forgot to watch up in the sky. She knew that of course old Roughleg the Hawk was asleep, so she had nothing to fear from her. But she never once thought of Hooty the Owl.</p>
 
-Dear me, dear me! Forgetting is a dreadful habit. If nobody ever
-forgot, there wouldn’t be nearly so much trouble in the world. No,
-indeed, there wouldn’t be nearly so much trouble. And Dani Meadow
-Mouse forgot. She skipped and sang and was happy as could be, and
-never once thought to watch up in the sky.
+<p>Dear me, dear me! Forgetting is a dreadful habit. If nobody ever forgot, there wouldn’t be nearly so much trouble in the world. No, indeed, there wouldn’t be nearly so much trouble. And Dani Meadow Mouse forgot. She skipped and sang and was happy as could be, and never once thought to watch up in the sky.</p>
 
-Over in the Green Forest Hooty the Owl had had poor hunting, and he
-was feeling cross. You see, Hooty was hungry, and hunger is apt to
-make one feel cross. The longer he hunted, the hungrier and crosser
-he grew. Suddenly he thought of Dani Meadow Mouse.
+<p>Over in the Green Forest Hooty the Owl had had poor hunting, and he was feeling cross. You see, Hooty was hungry, and hunger is apt to make one feel cross. The longer he hunted, the hungrier and crosser he grew. Suddenly he thought of Dani Meadow Mouse.</p>
 
-[Illustration: Hooty the Owl was hungry and cross.]
+<p class="q">“I suppose she is asleep somewhere safe and snug under the snow,” grumbled Hooty, “but she might be, she just <em>might</em> be out for a frolic in the moonlight. I believe I’ll go down on the meadows and see.”</p>
 
-"I suppose she is asleep somewhere safe and snug under the snow,"
-grumbled Hooty, “but she might be, she just _might_ be out for a
-frolic in the moonlight. I believe I’ll go down on the meadows and
-see."
+<p>Now Hooty the Owl can fly without making the teeniest, weeniest sound. It seems as if he just drifts along through the air like a great shadow. Now he spread his great wings and floated out over the meadows. You know Hooty can see as well at night as most folks can by day, and it was not long before he saw Dani Meadow Mouse skipping about on the snow and dodging in and out of her little round doorways. Hooty’s great eyes grew brighter and fiercer. Without a sound he floated through the moonlight until he was just over Dani Meadow Mouse.</p>
 
-Now Hooty the Owl can fly without making the teeniest, weeniest
-sound. It seems as if he just drifts along through the air like a
-great shadow. Now he spread his great wings and floated out over the
-meadows. You know Hooty can see as well at night as most folks can
-by day, and it was not long before he saw Dani Meadow Mouse
-skipping about on the snow and dodging in and out of her little
-round doorways. Hooty’s great eyes grew brighter and fiercer.
-Without a sound he floated through the moonlight until he was just
-over Dani Meadow Mouse.
-
-Too late Dani looked up. Her little song ended in a tiny squeak of
-fear, and she started for her nearest little round doorway. Hooty the
-Owl reached down with his long cruel claws and — Dani Meadow Mouse
-was caught at last!
-
+<p>Too late Dani looked up. Her little song ended in a tiny squeak of fear, and she started for her nearest little round doorway. Hooty the Owl reached down with his long cruel claws and — Dani Meadow Mouse was caught at last!</p>
 
 <h2 id="ch10"><a href="#ch10"><span>X</span> A Strange Ride and How It Ended</a></h2>
 
-Dani Meadow Mouse often had sat watching Skimmer the Swallow
-sailing around up in the blue, blue sky. She had watched Ol’ Mistah
-Buzzard go up, up, up, until he was nothing but a tiny speck, and
-Dani had wondered how it would seem to be way up above the Green
-Meadows and the Green Forest and look down. It had seemed to her
-that it must be very wonderful and beautiful. Sometimes she had
-wished that she had wings and could go up in the air and look down.
-And now here she was, she, Dani Meadow Mouse, actually doing that
-very thing!
-
-But Dani could see nothing wonderful or beautiful now. No, indeed!
-Everything was terrible, for you see Dani Meadow Mouse wasn’t
-flying herself. She was being carried. Yes, sir, Dani Meadow Mouse
-was being carried through the air in the cruel claws of Hooty the
-Owl! And all because Dani had forgotten — forgotten to watch up in
-the sky for danger.
-
-Poor, poor Dani Meadow Mouse! Hooty’s great cruel claws hurt her
-dreadfully! But it wasn’t the pain that was the worst. No, indeed!
-It wasn’t the pain! It was the thought of what would happen when
-Hooty reached his home in the Green Forest, for she knew that there
-Hooty would gobble her up, bones and all. As he flew, Hooty kept
-chuckling, and Dani Meadow Mouse knew just what those chuckles
-meant. They meant that Hooty was thinking of the good meal he was
-going to have.
-
-Hanging there in Hooty’s great cruel claws, Dani looked down on the
-snow-covered Green Meadows she loved so well. They seemed a
-frightfully long way below her, though really they were not far at
-all, for Hooty was flying very low. But Dani Meadow Mouse had never
-in all her life been so high up before, and so it seemed to her that
-she was way, way up in the sky, and she shut her eyes so as not to
-see. But she couldn’t keep them shut. No, sir, she couldn’t keep them
-shut! She just _had_ to keep opening them. There was the dear old
-Green Forest drawing nearer and nearer. It always had looked very
-beautiful to Dani Meadow Mouse, but now it looked terrible, very
-terrible indeed, because over in it, hidden away there in some dark
-place, was the home of Hooty the Owl.
-
-Just ahead of her was the Old Briar-patch where Peter Rabbit lives
-so safely. Every old bramble in it was covered with snow and it was
-very, very beautiful. Really everything was just as beautiful as
-ever — the moonlight, the Green Forest, the snow-covered Green
-Meadows, the Old Briar-patch. The only change was in Dani Meadow
-Mouse herself, and it was all because she had forgotten.
-
-Suddenly Dani began to wriggle and struggle. “Keep still!" snapped
-Hooty the Owl.
-
-But Dani only struggled harder than ever. It seemed to her that
-Hooty wasn’t holding her as tightly as at first. She felt one of
-Hooty’s claws slip. It tore her coat and hurt dreadfully, but it
-slipped! The fact is, Hooty had only grabbed Dani Meadow Mouse by
-the loose part of her coat, and up in the air he couldn’t get hold
-of Dani any better. Dani kicked, squirmed, and twisted, and
-twisted, squirmed, and kicked. She felt her coat tear and of course
-the skin with it, but she kept right on, for now she was hanging
-almost free. Hooty had started down now, so as to get a better hold.
-Dani gave one more kick and then — she felt herself falling!
-
-Dani Meadow Mouse shut her eyes and held her breath. Down, down,
-down she fell. It seemed to her that she never would strike the
-snow-covered meadows! Really she fell only a very little distance.
-But it seemed a terrible distance to Dani. She hit something that
-scratched her, and then plump! She landed in the soft snow right in
-the very middle of the Old Briar-patch, and the last thing she
-remembered was hearing the scream of disappointment and rage of
-Hooty the Owl.
-
-
-
-
-
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
-
-
-
-
-CHAPTER XI
-
-_Peter Rabbit Gets a Fright_
-
-
-Peter Rabbit sat in her favorite place in the middle of the dear Old
-Briar-patch, trying to decide which way she would go on her travels
-that night. The night before she had had a narrow escape from old
-Granny Fox over in the Green Forest. There was nothing to eat around
-the Smiling Pool and no one to talk to there any more, and you know
-that Peter must either eat or ask questions in order to be perfectly
-happy. No, the Smiling Pool was too dull a place to interest Peter
-on such a beautiful moonlight night, and Peter had no mind to try
-her legs against those of old Granny Fox again in the Green Forest.
-
-Early that morning, just after Peter had settled down for her
-morning nap, Tommy Tit the Chickadee had dropped into the dear Old
-Briar-patch just to be neighborly. Peter was just dozing off when he
-heard the cheeriest little voice in the world. It was saying:
-
-  “Dee-dee-chickadee!
-  I see you! Can you see me?"
-
-Peter began to smile even before she could get her eyes open and look
-up. There, right over her head, was Tommy Tit hanging head down from
-a nodding old bramble. In a twinkling she was down on the snow right
-in front of Peter, then up in the brambles again, right side up,
-upside down, here, there, everywhere, never still a minute, and all
-the time chattering away in the cheeriest little voice in the world.
+<aside class="illo">
+  <figure>
+    <img src="images/hooty.jpg" />
+    <figcaption>Dani Meadow Mouse was caught at last!</figcaption>
+  </figure>
+</aside>
 
-  “Dee-dee-chickadee!
-  I’m as happy as can be!
-  Find it much the better way
-  To be happy all the day.
-  Dee-dee-chickadee!
-  Everybody’s good to me!"
+<p>Dani Meadow Mouse often had sat watching Skimmer the Swallow sailing around up in the blue, blue sky. She had watched Ol’ Mistah Buzzard go up, up, up, until he was nothing but a tiny speck, and Dani had wondered how it would seem to be way up above the Green Meadows and the Green Forest and look down. It had seemed to her that it must be very wonderful and beautiful. Sometimes she had wished that she had wings and could go up in the air and look down. And now here she was, she, Dani Meadow Mouse, actually doing that very thing!</p>
 
-"Hello, Tommy!" said Peter Rabbit. “Where’d you come from?"
+<p>But Dani could see nothing wonderful or beautiful now. No, indeed! Everything was terrible, for you see Dani Meadow Mouse wasn’t flying herself. She was being carried. Yes, sir, Dani Meadow Mouse was being carried through the air in the cruel claws of Hooty the Owl! And all because Dani had forgotten — forgotten to watch up in the sky for danger.</p>
 
-"From Farmer Brown’s new orchard up on the hill. It’s a fine
-orchard, Peter Rabbit, a fine orchard. I go there every morning for
-my breakfast. If the winter lasts long enough, I’ll have all the
-trees cleaned up for Farmer Brown."
-
-Peter looked puzzled. “What do you mean?" she asked.
-
-"Just what I say," replied Tommy Tit, almost turning a somersault in
-the air. “There’s a million eggs of insects on those young peach
-trees, but I’m clearing them all off as fast as I can. They’re
-mighty fine eating, Peter Rabbit, mighty fine eating!" And with that
-Tommy Tit had said good-by and flitted away.
-
-Peter was thinking of that young orchard now, as she sat in the
-moonlight trying to make up her mind where to go. The thought of
-those young peach trees made her mouth water. It was a long way up
-to the orchard on the hill, a very long way, and Peter was wondering
-if it really was safe to go. she had just about made up her mind to
-try it, for Peter is very, very fond of the bark of young peach
-trees, when thump! something dropped out of the sky at her very
-feet.
+<p>Poor, poor Dani Meadow Mouse! Hooty’s great cruel claws hurt her dreadfully! But it wasn’t the pain that was the worst. No, indeed! It wasn’t the pain! It was the thought of what would happen when Hooty reached his home in the Green Forest, for she knew that there Hooty would gobble her up, bones and all. As he flew, Hooty kept chuckling, and Dani Meadow Mouse knew just what those chuckles meant. They meant that Hooty was thinking of the good meal he was going to have.</p>
 
-It startled Peter so that she nearly tumbled over backward. And right
-at the same instant came the fierce, angry scream of Hooty the Owl.
-That almost made Peter’s heart stop beating, although she knew that
-Hooty couldn’t get him down there in the Old Briar-patch. When Peter
-got her wits together and her heart didn’t go so jumpy, she looked to
-see what had dropped so close to him out of the sky. her big eyes
-grew bigger than ever, and she rubbed them to make quite sure that he
-really saw what she thought she saw. Yes, there was no doubt about
-it--there at her feet lay Dani Meadow Mouse!
+<p>Hanging there in Hooty’s great cruel claws, Dani looked down on the snow-covered Green Meadows she loved so well. They seemed a frightfully long way below her, though really they were not far at all, for Hooty was flying very low. But Dani Meadow Mouse had never in all her life been so high up before, and so it seemed to her that she was way, way up in the sky, and she shut her eyes so as not to see. But she couldn’t keep them shut. No, sir, she couldn’t keep them shut! She just <em>had</em> to keep opening them. There was the dear old Green Forest drawing nearer and nearer. It always had looked very beautiful to Dani Meadow Mouse, but now it looked terrible, very terrible indeed, because over in it, hidden away there in some dark place, was the home of Hooty the Owl.</p>
 
-[Illustration: Peter Rabbit was surprised to see Dani.]
+<p>Just ahead of her was the Old Briar-patch where Peter Rabbit lives so safely. Every old bramble in it was covered with snow and it was very, very beautiful. Really everything was just as beautiful as ever — the moonlight, the Green Forest, the snow-covered Green Meadows, the Old Briar-patch. The only change was in Dani Meadow Mouse herself, and it was all because she had forgotten.</p>
 
+<p>Suddenly Dani began to wriggle and struggle. “Keep still!” snapped Hooty the Owl.</p>
 
+<p>But Dani only struggled harder than ever. It seemed to her that Hooty wasn’t holding her as tightly as at first. She felt one of Hooty’s claws slip. It tore her coat and hurt dreadfully, but it slipped! The fact is, Hooty had only grabbed Dani Meadow Mouse by the loose part of her coat, and up in the air he couldn’t get hold of Dani any better. Dani kicked, squirmed, and twisted, and twisted, squirmed, and kicked. She felt her coat tear and of course the skin with it, but she kept right on, for now she was hanging almost free. Hooty had started down now, so as to get a better hold. Dani gave one more kick and then — she felt herself falling!</p>
 
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
+<p>Dani Meadow Mouse shut her eyes and held her breath. Down, down, down she fell. It seemed to her that she never would strike the snow-covered meadows! Really she fell only a very little distance. But it seemed a terrible distance to Dani. She hit something that scratched her, and then plump! She landed in the soft snow right in the very middle of the Old Briar-patch, and the last thing she remembered was hearing the scream of disappointment and rage of Hooty the Owl.</p>
 
+<h2 id="ch11"><a href="#ch11"><span>XI</span> Peter Rabbit Gets a Fright</a></h2>
 
+<p>Peter Rabbit sat in his favorite place in the middle of the dear Old Briar-patch, trying to decide which way he would go on his travels that night. The night before he had had a narrow escape from old Granny Fox over in the Green Forest. There was nothing to eat around the Smiling Pool and no one to talk to there any more, and you know that Peter must either eat or ask questions in order to be perfectly happy. No, the Smiling Pool was too dull a place to interest Peter on such a beautiful moonlight night, and Peter had no mind to try his legs against those of old Granny Fox again in the Green Forest.</p>
 
+<p>Early that morning, just after Peter had settled down for his morning nap, Charlotte Chickadee had dropped into the dear Old Briar-patch just to be neighborly. Peter was just dozing off when he heard the cheeriest little voice in the world. It was saying:</p>
 
-CHAPTER XII
+<blockquote>
+  <p class="q">
+    “Dee-dee-chickadee!<br>
+    I see you! Can you see me?”
+  </p>
+</blockquote>
 
-_The Old Briar-patch Has a New Tenant_
+<p>Peter began to smile even before he could get his eyes open and look up. There, right over her head, was Charlotte hanging head down from a nodding old bramble. In a twinkling she was down on the snow right in front of Peter, then up in the brambles again, right side up, upside down, here, there, everywhere, never still a minute, and all the time chattering away in the cheeriest little voice in the world.</p>
 
+<blockquote>
+  <p class="q">
+    “Dee-dee-chickadee!<br>
+    I’m as happy as can be!<br>
+    Find it much the better way<br>
+    To be happy all the day.<br>
+    Dee-dee-chickadee!<br>
+    Everybody’s good to me!"
+  </p>
+</blockquote>
 
-Dani Meadow Mouse slowly opened her eyes and then closed them again
-quickly, as if afraid to look around. she could hear someone talking.
-It was a pleasant voice, not at all like the terrible voice of Hooty
-the Owl, which was the very last thing that Dani Meadow Mouse could
-remember. Dani lay still a minute and listened.
+<p class="q">“Hello, Charlotte!” said Peter Rabbit. “Where’d you come from?”</p>
 
-"Why, Dani Meadow Mouse, where in the world did you drop from?"
-asked the voice. It sounded like--why, very much like Peter Rabbit
-speaking. Dani opened her eyes again. It _was_ Peter Rabbit.
+<p class="q">“From Farmer Brown’s new orchard up on the hill. It’s a fine orchard, Peter Rabbit, a fine orchard. I go there every morning for my breakfast. If the winter lasts long enough, I’ll have all the trees cleaned up for Farmer Brown.”</p>
 
-"Where--where am I?" asked Dani Meadow Mouse in a very weak and
-small voice.
+<p>Peter looked puzzled. “What do you mean?” he asked.</p>
 
-"In the middle of the dear Old Briar-patch with me," replied Peter
-Rabbit. “But how did you get here? You seemed to drop right out of
-the sky."
+<p class="q">“Just what I say,” replied Charlotte, almost turning a somersault in the air. “There’s a million eggs of insects on those young peach trees, but I’m clearing them all off as fast as I can. They’re mighty fine eating, Peter Rabbit, mighty fine eating!” And with that Charlotte had said good-by and flitted away.</p>
 
-Dani Meadow Mouse shuddered. Suddenly she remembered everything: how
-Hooty the Owl had caught him in great cruel claws and had carried
-him through the moonlight across the snow-covered Green Meadows; how
-he had felt Hooty’s claws slip and then had struggled and kicked and
-twisted and turned until her coat had torn and she had dropped down,
-down, down until she had landed in the soft snow and knocked all the
-breath out of her little body. The very last thing she could remember
-was Hooty’s fierce scream of rage and disappointment. Dani
-shuddered again.
+<p>Peter was thinking of that young orchard now, as he sat in the moonlight trying to make up his mind where to go. The thought of those young peach trees made his mouth water. It was a long way up to the orchard on the hill, a very long way, and Peter was wondering if it really was safe to go. He had just about made up his mind to
+try it, for Peter is very, very fond of the bark of young peach trees, when <em>thump!</em> something dropped out of the sky at his very feet.</p>
 
-Then a new thought came to him. she must get out of sight! Hooty
-might catch him again! Dani tried to scramble to her feet.
+<p>It startled Peter so that he nearly tumbled over backward. And right at the same instant came the fierce, angry scream of Hooty the Owl. That almost made Peter’s heart stop beating, although he knew that Hooty couldn’t get him down there in the Old Briar-patch. When Peter got his wits together and his heart didn’t go so jumpy, he looked to see what had dropped so close to him out of the sky. His big eyes grew bigger than ever, and he rubbed them to make quite sure that he really saw what he thought she saw. Yes, there was no doubt about it — there at his feet lay Dani Meadow Mouse!</p>
 
-"Ouch! Oh!" groaned Dani and lay still again.
 
-"There, there. Keep still, Dani Meadow Mouse. There’s nothing to be
-afraid of here," said Peter Rabbit gently. her big eyes filled with
-tears as she looked at Dani Meadow Mouse, for Dani was all torn and
-hurt by the cruel claws of Hooty the Owl, and you know Peter has a
-very tender heart.
-
-So Dani lay still, and while Peter Rabbit tried to make him
-comfortable and dress her hurts, she told Peter all about how she had
-forgotten to watch up in the sky and so had been caught by Hooty the
-Owl, and all about her terrible ride in Hooty’s cruel claws.
-
-"Oh, dear, whatever shall I do now?" she ended. “However shall I get
-back home to my warm house of grass, my safe little tunnels under
-the snow, and my little store of seeds in the snug hollow in the old
-fence-post?"
-
-Peter Rabbit looked thoughtful. “You can’t do it," said he. “You
-simply can’t do it. It is such a long way for a little fellow like
-you that it wouldn’t be safe to try. If you went at night, Hooty the
-Owl might catch you again. If you tried in daylight, old Roughleg
-the Hawk would be almost sure to see you. And night or day old
-Granny Fox or Reddy Fox might come snooping around, and if they did,
-they would be sure to catch you. I tell you what, you stay right
-here! The dear Old Briar-patch is the safest place in the world.
-Why, just think, here you can come out in broad daylight and laugh
-at Granny and Reddy Fox and at old Roughleg the Hawk, because the
-good old brambles will keep them out, if they try to get you. You
-can make just as good tunnels under the snow here as you had there,
-and there are lots and lots of seeds on the ground to eat. You know
-I don’t care for them myself. I’m lonesome sometimes, living here
-all alone. You stay here, and we’ll have the Old Briar-patch to
-ourselves."
+<h2 id="ch12"><a href="#ch12"><span>XII</span> The Old Briar-patch Has a New Tenant</a></h2>
 
-Dani Meadow Mouse looked at Peter gratefully. “I will, and thank
-you ever so much, Peter Rabbit," she said.
+<p>Dani Meadow Mouse slowly opened her eyes and then closed them again quickly, as if afraid to look around. She could hear someone talking. It was a pleasant voice, not at all like the terrible voice of Hooty the Owl, which was the very last thing that Dani Meadow Mouse could remember. Dani lay still a minute and listened.</p>
 
-And this is how the dear Old Briar-patch happened to have another
-tenant.
+<p class="q">“Why, Dani Meadow Mouse, where in the world did you drop from?” asked the voice. It sounded like — why, very much like Peter Rabbit speaking. Dani opened her eyes again. It <em>was</em> Peter Rabbit.</p>
 
+<p class="q">“Where — where am I?” asked Dani Meadow Mouse in a very weak and small voice.</p>
 
+<p class="q">“In the middle of the dear Old Briar-patch with me," replied Peter Rabbit. “But how did you get here? You seemed to drop right out of the sky.”</p>
 
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
+<p>Dani Meadow Mouse shuddered. Suddenly she remembered everything: how Hooty the Owl had caught her in great cruel claws and had carried her through the moonlight across the snow-covered Green Meadows; how she had felt Hooty’s claws slip and then had struggled and kicked and twisted and turned until her coat had torn and she had dropped down, down, down until she had landed in the soft snow and knocked all the breath out of her little body. The very last thing she could remember was Hooty’s fierce scream of rage and disappointment. Dani shuddered again.</p>
 
+<p>Then a new thought came to her. She must get out of sight! Hooty might catch her again! Dani tried to scramble to her feet.</p>
 
+<p class="q">“Ouch! Oh!” groaned Dani and lay still again.</p>
 
+<p class="q">“There, there. Keep still, Dani Meadow Mouse. There’s nothing to be afraid of here,” said Peter Rabbit gently. His big eyes filled with tears as he looked at Dani Meadow Mouse, for Dani was all torn and hurt by the cruel claws of Hooty the Owl, and you know Peter has a very tender heart.</p>
 
-CHAPTER XIII
+<p>So Dani lay still, and while Peter Rabbit tried to make her comfortable and dress her hurts, she told Peter all about how she had forgotten to watch up in the sky and so had been caught by Hooty the Owl, and all about her terrible ride in Hooty’s cruel claws.</p>
 
-_Peter Rabbit Visits the Peach Orchard_
+<p class="q">“Oh, dear, whatever shall I do now?” she ended. “However shall I get back home to my warm house of grass, my safe little tunnels under the snow, and my little store of seeds in the snug hollow in the old fence-post?”</p>
 
+<p>Peter Rabbit looked thoughtful. “You can’t do it,” said he. “You simply can’t do it. It is such a long way for a little fellow like you that it wouldn’t be safe to try. If you went at night, Hooty the Owl might catch you again. If you tried in daylight, old Roughleg the Hawk would be almost sure to see you. And night or day old Granny Fox or Reddy Fox might come snooping around, and if they did, they would be sure to catch you. I tell you what, you stay right here! The dear Old Briar-patch is the safest place in the world. Why, just think, here you can come out in broad daylight and laugh at Granny and Reddy Fox and at old Roughleg the Hawk, because the good old brambles will keep them out, if they try to get you. You can make just as good tunnels under the snow here as you had there, and there are lots and lots of seeds on the ground to eat. You know I don’t care for them myself. I’m lonesome sometimes, living here all alone. You stay here, and we’ll have the Old Briar-patch to ourselves.”</p>
 
-"Don’t go, Peter Rabbit! Don’t go!" begged Dani Meadow Mouse.
+<p>Dani Meadow Mouse looked at Peter gratefully. “I will, and thank you ever so much, Peter Rabbit,” she said.</p>
 
-Peter hopped to the edge of the Old Briar-patch and looked over the
-moonlit, snow-covered meadows to the hill back of Farmer Brown’s
-house. On that hill was the young peach orchard of which Tommy Tit
-the Chickadee had told him, and ever since Peter’s mouth had watered
-and watered every time she thought of those young peach trees and the
-tender bark on them.
+<p>And this is how the dear Old Briar-patch happened to have another tenant.</p>
 
-"I think I will, Dani, just this once," said Peter. “It’s a long
-way, and I’ve never been there before; but I guess it’s just as safe
-as the Meadows or the Green Forest.
+</section>
 
-  “Oh I’m as bold as bold can be!
-    Sing hoppy-hippy-hippy-hop-o!
-  I’ll hie me forth the world to see!
-    Sing hoppy-hippy-hippy-hop-o!
-      My ears are long,
-      My legs are strong,
-      So now good day;
-      I’ll hie away!
-    Sing hoppy-hippy-hippy-hop-o!"
-
-And with that, Peter Rabbit left the dear safe Old Briar-patch, and
-away she went lipperty-lipperty-lip, across the Green Meadows towards
-the hill and the young orchard back of Farmer Brown’s house.
-
-Dani Meadow Mouse watched him go and shook her head in disapproval.
-"Foolish, foolish, foolish!" she said over and over to himself. “Why
-can’t Peter be content with the good things that she has?"
-
-Peter Rabbit hurried along through the moonlight, stopping every few
-minutes to sit up to look and listen. she heard the fierce hunting
-call of Hooty the Owl way over in the Green Forest, so she felt sure
-that at present there was nothing to fear from him. she knew that
-since their return to the Green Meadows and the Green Forest, Granny
-and Reddy Fox had kept away from Farmer Brown’s, so she did not worry
-about them.
-
-All in good time Peter came to the young orchard. It was just as
-Tommy Tit the Chickadee had told him. Peter hopped up to the nearest
-peach tree and nibbled the bark. My, how good it tasted! she went all
-around the tree, stripping off the bark. she stood up on her long
-hind legs and reached as high as she could. Then she dug the snow away
-and ate down as far as she could. When she could get no more tender
-young bark, she went on to the next tree.
-
-Now though Peter didn’t know it, she was in the very worst kind of
-mischief. You see, when she took off all the bark all the way around
-the young peach tree she killed the tree, for you know it is on the
-inside of the bark that the sap which gives life to a tree and makes
-it grow goes up from the roots to all the branches. So when Peter
-ate the bark all the way around the trunk of the young tree, she had
-made it impossible for the sap to come up in the spring. Oh, it was
-the worst kind of mischief that Peter Rabbit was in.
-
-But Peter didn’t know it, and she kept right on filling that big
-stomach of her and enjoying it so much that she forgot to watch out
-for danger. Suddenly, just as she had begun on another tree, a great
-roar right behind him made him jump almost out of her skin. she knew
-that voice, and without waiting to even look behind him, she started
-for the stone wall on the other side of the orchard. Right at her
-heels, her great mouth wide open, was Bowser the Hound.
-
-
-
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
-
-
-
-
-CHAPTER XIV
-
-_Farmer Brown Sets a Trap_
-
-
-Peter Rabbit was in trouble. she had got into mischief and now, like
-everyone who gets into mischief, she wished that she hadn’t. The worst
-of it was that she was a long way from her home in the dear Old
-Briar-patch, and she didn’t know how she ever could get back there
-again. Where was he? Why, in the stone wall on one side of Farmer
-Brown’s young peach orchard. How Peter blessed the old stone wall in
-which she had found a safe hiding-place! Bowser had hung around
-nearly all night, so that Peter had not dared to try to go home. Now
-it was daylight, and Peter knew it would not be safe to put her nose
-outside.
-
-Peter was worried, so worried that she couldn’t go to sleep as he
-usually does in the daytime. So she sat hidden in the old wall and
-waited and watched. By and by she saw Farmer Brown and Farmer Brown’s
-boy come out into the orchard. Right away they saw the mischief
-which Peter had done, and she could tell by the sound of their voices
-that they were very, very angry. They went away, but before long
-they were back again, and all day long Peter watched them work
-putting something around each of the young peach-trees. Peter grew
-so curious that she forgot all about her troubles and how far away
-from home she was. she could hardly wait for night to come so that he
-might see what they had been doing.
-
-Just as jolly, round, red Mr. Sun started to go to bed behind the
-Purple Hills, Farmer Brown and her boy started back to the house.
-Farmer Brown was smiling now.
-
-"I guess that will fix him!" she said.
-
-"Now what does she mean by that?" thought Peter. “Whom will it fix?
-Can it be me? I don’t need any fixing."
-
-He waited just as long as she could. When all was still, and the
-moonlight had begun to make shadows of the trees on the snow, Peter
-very cautiously crept out of her hiding-place. Bowser the Hound was
-nowhere in sight, and everything was as quiet and peaceful as it had
-been when she first came into the orchard the night before. Peter had
-fully made up her mind to go straight home as fast as her long legs
-would take him, but her dreadful curiosity insisted that first he
-must find out what Farmer Brown and her boy had been doing to the
-young peach trees.
-
-So Peter hurried over to the nearest tree. All around the trunk of
-the tree, from the ground clear up higher than Peter could reach,
-was wrapped wire netting. Peter couldn’t get so much as a nibble of
-the delicious bark. she hadn’t intended to take any, for she had meant
-to go right straight home, but now that she couldn’t get any, he
-wanted some more than ever,--just a bite. Peter looked around.
-Everything was quiet. she would try the next tree, and then she would
-go home.
-
-But the next tree was wrapped with wire. Peter hesitated, looked
-around, turned to go home, thought of how good that bark had tasted
-the night before, hesitated again, and then hurried over to the
-third tree. It was protected just like the others. Then Peter forgot
-all about going home. she wanted some of that delicious bark, and he
-ran from one tree to another as fast as she could go.
-
-[Illustration: The tree trunks were wrapped in wire netting.]
-
-At last, way down at the end of the orchard, Peter found a tree that
-had no wire around it. “They must have forgotten this one!" he
-thought, and her eyes sparkled. All around on the snow were a lot of
-little, shiny wires, but Peter didn’t notice them. All she saw was
-that delicious bark on the young peach tree. she hopped right into
-the middle of the wires, and then, just as she reached up to take the
-first bite of bark, she felt something tugging at one of her hind
-legs.
+
+
+<section class="chapter-set">
+
+<h2 id="ch13"><a href="#ch13"><span>XIII</span> Peter Rabbit Visits the Peach Orchard</a></h2>
+
+<aside class="illo">
+  <figure>
+    <img src="images/peter-trees.jpg" />
+    <figcaption>Peter Rabbit hurried along through the moonlight.</figcaption>
+  </figure>
+</aside>
+
+
+<p class="q">“Don’t go, Peter Rabbit! Don’t go!” begged Dani Meadow Mouse.</p>
+
+<p>Peter hopped to the edge of the Old Briar-patch and looked over the moonlit, snow-covered meadows to the hill back of Farmer Brown’s house. On that hill was the young peach orchard of which Charlotte Chickadee had told him, and ever since Peter’s mouth had watered and watered every time she thought of those young peach trees and the tender bark on them.</p>
+
+<p class="q">“I think I will, Dani, just this once,” said Peter. “It’s a long way, and I’ve never been there before; but I guess it’s just as safe as the Meadows or the Green Forest.</p>
+
+<blockquote>
+  <p class="q">
+    “Oh I’m as bold as bold can be!<br>
+    Sing hoppy-hippy-hippy-hop-o!<br>
+    I’ll hie me forth the world to see!<br>
+    Sing hoppy-hippy-hippy-hop-o!<br>
+      My ears are long,<br>
+      My legs are strong,<br>
+      So now good day;<br>
+      I’ll hie away!<br>
+    Sing hoppy-hippy-hippy-hop-o!”
+  </p>
+</blockquote>
+
+<p>And with that, Peter Rabbit left the dear safe Old Briar-patch, and away he went lipperty-lipperty-lip, across the Green Meadows towards the hill and the young orchard back of Farmer Brown’s house.</p>
+
+<p>Dani Meadow Mouse watched him go and shook her head in disapproval. “Foolish, foolish, foolish!” she said over and over to herself. “Why can’t Peter be content with the good things that he has?”</p>
+
+<p>Peter Rabbit hurried along through the moonlight, stopping every few minutes to sit up to look and listen. He heard the fierce hunting call of Hooty the Owl way over in the Green Forest, so he felt sure that at present there was nothing to fear from him. He knew that since their return to the Green Meadows and the Green Forest, Granny and Reddy Fox had kept away from Farmer Brown’s, so he did not worry about them.</p>
+
+<p>All in good time Peter came to the young orchard. It was just as Charlotte Chickadee had told him. Peter hopped up to the nearest peach tree and nibbled the bark. My, how good it tasted! He went all around the tree, stripping off the bark. He stood up on his long hind legs and reached as high as he could. Then he dug the snow away and ate down as far as he could. When he could get no more tender young bark, he went on to the next tree.</p>
+
+<p>Now though Peter didn’t know it, he was in the very worst kind of mischief. You see, when he took off all the bark all the way around the young peach tree he killed the tree, for you know it is on the inside of the bark that the sap which gives life to a tree and makes it grow goes up from the roots to all the branches. So when Peter ate the bark all the way around the trunk of the young tree, he had made it impossible for the sap to come up in the spring. Oh, it was the worst kind of mischief that Peter Rabbit was in.</p>
+
+<p>But Peter didn’t know it, and he kept right on filling that big stomach of his and enjoying it so much that he forgot to watch out for danger. Suddenly, just as he had begun on another tree, a great roar right behind him made him jump almost out of his skin. He knew that voice, and without waiting to even look behind him, he started
+for the stone wall on the other side of the orchard. Right at his heels, her great mouth wide open, was Bella the Hound.</p>
+
+
+<h2 id="ch14"><a href="#ch14"><span>XIV</span> Farmer Brown Sets a Trap</a></h2>
+
+<p>Peter Rabbit was in trouble. He had got into mischief and now, like everyone who gets into mischief, he wished that he hadn’t. The worst of it was that he was a long way from his home in the dear Old Briar-patch, and he didn’t know how he ever could get back there again. Where was he? Why, in the stone wall on one side of Farmer Brown’s young peach orchard. How Peter blessed the old stone wall in which he had found a safe hiding-place! Bella had hung around nearly all night, so that Peter had not dared to try to go home. Now it was daylight, and Peter knew it would not be safe to put his nose outside.</p>
+
+<p>Peter was worried, so worried that he couldn’t go to sleep as he usually does in the daytime. So he sat hidden in the old wall and waited and watched. By and by he saw Farmer Brown and Farmer Brown’s girl come out into the orchard. Right away they saw the mischief which Peter had done, and he could tell by the sound of their voices that they were very, very angry. They went away, but before long they were back again, and all day long Peter watched them work putting something around each of the young peach-trees. Peter grew so curious that he forgot all about his troubles and how far away from home he was. He could hardly wait for night to come so that he
+might see what they had been doing.</p>
+
+<p>Just as jolly, round, red Mr. Sun started to go to bed behind the Purple Hills, Farmer Brown and his girl started back to the house. Farmer Brown was smiling now.</p>
+
+<p class="q">“I guess that will fix him!” he said.</p>
+
+<p class="q">“Now what does he mean by that?” thought Peter. “Whom will it fix? Can it be me? I don’t need any fixing.”</p>
+
+<p>He waited just as long as he could. When all was still, and the moonlight had begun to make shadows of the trees on the snow, Peter very cautiously crept out of his hiding-place. Bella the Hound was nowhere in sight, and everything was as quiet and peaceful as it had been when he first came into the orchard the night before. Peter had fully made up his mind to go straight home as fast as his long legs would take him, but his dreadful curiosity insisted that first he must find out what Farmer Brown and his girl had been doing to the young peach trees.</p>
+
+<p>So Peter hurried over to the nearest tree. All around the trunk of the tree, from the ground clear up higher than Peter could reach, was wrapped wire netting. Peter couldn’t get so much as a nibble of the delicious bark. He hadn’t intended to take any, for he had meant to go right straight home, but now that he couldn’t get any, he wanted some more than ever — just a bite. Peter looked around. Everything was quiet. He would try the next tree, and then he would go home.</p>
+
+<p>But the next tree was wrapped with wire. Peter hesitated, looked around, turned to go home, thought of how good that bark had tasted the night before, hesitated again, and then hurried over to the third tree. It was protected just like the others. Then Peter forgot all about going home. He wanted some of that delicious bark, and he ran from one tree to another as fast as he could go.</p>
+
+<p>At last, way down at the end of the orchard, Peter found a tree that had no wire around it. “They must have forgotten this one!” he thought, and his eyes sparkled. All around on the snow were a lot of little, shiny wires, but Peter didn’t notice them. All he saw was that delicious bark on the young peach tree. He hopped right into the middle of the wires, and then, just as he reached up to take the first bite of bark, he felt something tugging at one of his hind legs.</p>
+
+
 
 
 
@@ -949,10 +596,17 @@ private paths. she got in himself, but the dragging stake caught
 among the brambles, and Peter just fell down in the snow right where
 he was, too tired and worn out to move.
 
+</section>
+
+
+<section class="chapter-set">
+
 
 
 <h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
 
+
+dani-helps-peter.jpg
 
 
 

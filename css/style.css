@@ -25,22 +25,20 @@ header, li {
 
   --faint-white: rgba(255, 255, 255, 0.1);
   --faint-black: rgba(0, 0, 0, 0.1);
-  --translucent-black: rgba(255, 255, 255, 0.8);
+  --translucent-black: rgba(0, 0, 0, 0.4);
   --text: #444; /* Dark gray */
-  --background: #f5f1e5; /* Off white */
+  --background: #f5f1e5; /* Off white: #f5f1e5 */
 }
 
 
 /* Type basics
 ---------------------------*/
 :root {
-  font-size: 100%;
+  font-size: .975rem;
 }
 
 body {
   font-family: "Benton Mod RE Reg", Verdana, sans-serif;
-
-  font-size: 0.9em;
   line-height: 1.45;
 
   font-kerning: normal;
@@ -61,6 +59,19 @@ header {
   hyphens: none;
 }
 
+h2 {
+  text-align: center;
+  font-size: 1.75rem;
+  line-height: 1.313;
+  padding: 1.313rem 0;
+  margin: 1.313rem 0;
+  border-bottom: 2px rgba(0, 0, 0, 0.8) solid;
+}
+h2 span {
+  display: block;
+  font-size: 1.313rem;
+}
+
 p + p {
   text-indent: 2.369em;
 }
@@ -70,7 +81,6 @@ p + p {
 p + .q {
   text-indent: 1.869rem;
 }
-
 
 em,
 i,
@@ -95,6 +105,12 @@ blockquote {
     padding: 0.1em 1em;
   }
 
+  .illo {
+    text-align: center;
+  }
+  .illo figcaption {
+    font-size: .975rem;
+  }
   .illo img {
     width: 100%;
   }
@@ -105,10 +121,10 @@ blockquote {
 
 }
 
-@media screen and (min-width: 36em) {
+@media screen and (min-width: 60em) {
 
   body {
-    font-size: 1.05rem;
+    font-size: 1.333rem;
 
     margin: 0;
     padding: 0 0.75em;
@@ -137,10 +153,12 @@ blockquote {
     position: sticky;
     top: 1em; left: 0;
     float: left;
-    margin-left: -84%;
-    width: 80%;
-    xwidth: 127.273%;
-    background-color: var(--background);
+    margin-left: -80%;
+    width: 76%;
+    margin-bottom: 1em;
+    padding: 2%;
+    background-color: #fff; /* var(--background);*/
+    border-radius: .5em;
   }
 
 }
@@ -178,18 +196,7 @@ blockquote {
 }
 
 
-/*h2 {
-  text-align: center;
-  font-size: 1.75rem;
-  line-height: 1.313;
-  padding: 1.313rem 0;
-  margin: 1.313rem 0;
-  border-bottom: 2px rgba(0, 0, 0, 0.8) solid;
-}
-h2 span {
-  display: block;
-  font-size: 1.313rem;
-}
+/*
 li {
 	font-kerning: normal;
 	font-variant-ligatures: common-ligatures, contextual;
@@ -203,20 +210,13 @@ li {
 */
 
 /* Links
-------------------------------
+------------------------------*/
 a {
   color: #222;
-  text-decoration: none;
-  background-image: linear-gradient(to top,
-    rgba(0,0,0,0) 5%,
-    rgba(0,0,0,.3) 5%,
-    rgba(0,0,0,.3) 10%,
-    rgba(0,0,0,0) 10%
-    );
-  text-shadow:
-    2px 0 0 #f5f1e5,
-    -2px 0 0 #f5f1e5;
-}*/
+  text-decoration: underline;
+  text-decoration-color: var(--translucent-black);
+  -webkit-text-decoration-color: var(--translucent-black);
+}
 
 
 /* Color
