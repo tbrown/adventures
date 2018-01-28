@@ -64,6 +64,13 @@ header {
 p + p {
   text-indent: 2.369em;
 }
+.q {
+  text-indent: -0.5rem;
+}
+p + .q {
+  text-indent: 1.869rem;
+}
+
 
 em,
 i,
@@ -87,11 +94,11 @@ blockquote {
   .content {
     padding: 0.1em 1em;
   }
-  
+
   .illo img {
     width: 100%;
   }
-  
+
   footer {
     padding-bottom: 9.969em;
   }
@@ -102,7 +109,6 @@ blockquote {
 
   body {
     font-size: 1.05rem;
-    color: red;
 
     margin: 0;
     padding: 0 0.75em;
@@ -118,21 +124,22 @@ blockquote {
     padding: 1.333em 3.157em 5.61em;
     outline: 0.178em pink solid;
   }
-  
-  .chapter {
+
+  .chapter-set {
     margin-right: 0;
     margin-left: auto;
-    width: 44%;
+    width: 56%;
     xmax-width: 30em;
   }
-  
+
   .illo {
     position: -webkit-sticky;
     position: sticky;
     top: 1em; left: 0;
     float: left;
-    margin-left: -130%;
-    width: 127.273%;
+    margin-left: -84%;
+    width: 80%;
+    xwidth: 127.273%;
     background-color: var(--background);
   }
 
@@ -142,17 +149,17 @@ blockquote {
 /* Header
 ------------------------------*/
 
-@media screen {  
+@media screen {
 
   header {
     margin: 1.777em 0;
     text-align: center;
   }
-  
+
   h1 {
     font-size: 2.369em;
   }
-  
+
   .credits {
     text-transform: uppercase;
     letter-spacing: .02em;
@@ -167,9 +174,9 @@ blockquote {
     font-size: 7.478em;
     line-height: 1;
   }
-  
+
 }
-  
+
 
 /*h2 {
   text-align: center;
@@ -193,12 +200,6 @@ li {
 	font-feature-settings: "kern", "liga", "clig", "calt", "lnum", "tnum";
 }
 
-.q {
-  text-indent: -0.554rem;
-}
-p + .q {
-  text-indent: 1.7779999999999998rem;
-}
 */
 
 /* Links
@@ -248,4 +249,3 @@ body.old-mr-toad { background-color: #666600; }
 body.johnny-chuck { background-color: #471F2F; }
 body.reddy-fox { background-color: #965c1d; }
 body.becky-bear { background-color: #233c63; } */
-
