@@ -73,13 +73,13 @@ h2 span {
 }
 
 p + p {
-  text-indent: 2.369em;
+  text-indent: 2.369rem;
 }
 .q {
-  text-indent: -0.5rem;
+  text-indent: -0.6rem;
 }
 p + .q {
-  text-indent: 1.869rem;
+  text-indent: 1.769rem;
 }
 
 em,
@@ -109,7 +109,10 @@ blockquote {
     text-align: center;
   }
   .illo figcaption {
+    font-family: "mallory-microplus";
     font-size: .975rem;
+    font-weight: 500;
+    xletter-spacing: 0.05em;
   }
   .illo img {
     width: 100%;
