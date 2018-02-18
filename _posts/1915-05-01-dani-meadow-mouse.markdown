@@ -130,11 +130,11 @@ stories about Dani Meadow Mouse, because there wouldn’t have been any Dani Mea
 
 <p>That night Reddy Fox told old Granny Fox all about how he had tried to catch Dani Meadow Mouse. Granny listened with her head cocked on one side. When Reddy told how fat Dani Meadow Mouse was, her mouth watered. You see now that snow covered the Green Meadows and the Green Forest, Granny and Reddy Fox had hard work to get enough to eat, and they were hungry most of the time.</p>
 
-<p class="q">I’ll go with you down on the meadows tomorrow morning, and then we’ll see if Dani Meadow Mouse is as smart as she thinks she is,” said Granny Fox.</p>
+<p class="q">“I’ll go with you down on the meadows tomorrow morning, and then we’ll see if Dani Meadow Mouse is as smart as she thinks she is,” said Granny Fox.</p>
 
 <p>So, bright and early the next morning, old Granny Fox and Reddy Fox went down on the meadows where Dani Meadow Mouse lives. Dani had felt in her bones that Reddy would come back, so she was watching, and she saw them as soon as they came out of the Green Forest. When she saw old Granny Fox, Dani’s heart beat a little faster than before, for she knew that Granny Fox is very smart and very wise and has learned most of the tricks of all the other little meadow and forest people.</p>
 
-<p>"This is going to be a more exciting game than the other,” said Dani to herself, and scurried down out of sight to see that all her little tunnels were clear so that she could run fast through them if she had to. Then she peeped out of one of her little doorways hidden in a clump of tall grass.</p>
+<p class="q">“This is going to be a more exciting game than the other,” said Dani to herself, and scurried down out of sight to see that all her little tunnels were clear so that she could run fast through them if she had to. Then she peeped out of one of her little doorways hidden in a clump of tall grass.</p>
 
 <p>Old Granny Fox set Reddy to hunting for Dani’s little round doorways, and as fast as he found them, Granny came up and sniffed at each. Dani knew that she could tell by the smell which one she had been at last. Finally she came straight towards the tall bunch of grass. Dani ducked down and scurried along one of her little tunnels. She heard Granny Fox sniff at the doorway she had just left. Suddenly something plunged down through the snow right at her very heels. Dani didn’t have to look to know that it was Granny Fox herself, and she squeaked with fright.</p>
 
@@ -450,140 +450,41 @@ might see what they had been doing.</p>
 <p>At last, way down at the end of the orchard, Peter found a tree that had no wire around it. “They must have forgotten this one!” he thought, and his eyes sparkled. All around on the snow were a lot of little, shiny wires, but Peter didn’t notice them. All he saw was that delicious bark on the young peach tree. He hopped right into the middle of the wires, and then, just as he reached up to take the first bite of bark, he felt something tugging at one of his hind legs.</p>
 
 
+<h2 id="ch15"><a href="#ch15"><span>XV</span> Peter Rabbit Is Caught in a Snare</a></h2>
+
+<p>When Peter Rabbit, reaching up to nibble the bark of one of Farmer Brown’s young trees, felt something tugging at one of his hind legs, he was so startled that he jumped to get away. Instead of doing this, he fell flat on his face. The thing on his hind leg had tightened and held him fast. A great fear came to Peter Rabbit, and lying there in the snow, he kicked and struggled with all his might. But the more he kicked, the tighter grew that hateful thing on his leg! Finally he grew too tired to kick any more and lay still. The dreadful thing that held him hurt his leg, but it didn’t pull when he lay still.</p>
+
+<p>When he had grown a little calmer, Peter sat up to examine the thing which held him so fast. It was something like one of the blackberry vines he had sometimes tripped over, only it was bright and shiny, and had no branches or tiny prickers, and one end was fastened to a stake. Peter tried to bite off the shiny thing, but even his great, sharp front teeth couldn’t cut it. Then Peter knew what it was. It was wire! It was a snare which Farmer Brown had set to catch him, and which he had walked right into because he had been so greedy for the bark of the young peach tree that he had not used his eyes to look out for danger.</p>
+
+<p>Oh, how Peter Rabbit did wish that he had not been so curious to know what Farmer Brown had been doing that day, and that he had gone straight home as he had meant to do, instead of trying to get one more meal of young peach bark! Big tears rolled down Peter’s cheeks. What should he do? What <em>could</em> he do? For a long time Peter sat in the moonlight, trying to think of something to do. At last he thought of the stake to which that hateful wire was fastened. The stake was of wood, and Peter’s teeth would cut wood. Peter’s heart gave a great leap of hope, and he began at once to dig away the snow from around the stake, and then settled himself to gnaw the stake in two.</p>
+
+<p>Peter had been hard at work on the stake a long time and had it a little more than half cut through, when he heard a loud sniff down at the other end of the orchard. He looked up to see — whom do you think? Why, Bella the Hound! She hadn’t seen Peter yet, but she had already found Peter’s tracks, and it would be but a few minutes before she found Peter himself.</p>
+
+<p>Poor Peter Rabbit! There wasn’t time to finish cutting off the stake. What could he do? He made a frightened jump just as he had when he first felt the wire tugging at his leg. Just as before, he was thrown flat on his face. He scrambled to his feet and jumped again, only to be thrown just as before. Just then Bella the Hound saw him and opening her mouth sent forth a great roar. Peter made one more frantic jump. Snap! the stake had broken! Peter pitched forward on his head, turned a somersault, and scrambled to his feet. He was free at last! That is, he could run, but after him dragged a piece of the stake.</p>
+
+<p>How Peter did run! It was hard work, for you know he had to drag that piece of stake after him. But he did it, and just in time he crawled into the old stone wall on one side of the orchard, while Bella the Hound barked her disappointment to the moon.</p>
+
+
+<h2 id="ch16"><a href="#ch16"><span>XVI</span> Peter Rabbit’s Hard Journey</a></h2>
+
+<p>Peter Rabbit sat in the old stone wall along one side of Farmer Brown’s orchard, waiting for Mrs. Moon to put out her light and leave the world in darkness until jolly, round, red Mr. Sun should kick off his rosy bedclothes and begin his daily climb up in the blue, blue sky. In the winter, Mr. Sun is a late sleeper, and Peter knew that there would be two or three hours after Mrs. Moon put out her light when it would be quite dark. And Peter also knew too that by this time Hooty the Owl would probably have caught his dinner. So would old Granny Fox and Reddy Fox. Bella the Hound would be too sleepy to be on the watch. It would be the very safest time for Peter to try to get to his home in the dear Old Briar-patch.</p>
+
+<p>So Peter waited and waited. Twice Bella the Hound, who had chased him into the old wall, came over and barked at him and tried to get at him. But the old wall kept Peter safe, and Bella gave it up. And all the time Peter sat waiting he was in great pain. You see that shiny wire was drawn so tight that it cut into his flesh and hurt dreadfully, and to the other end of the wire was fastened a piece of wood, part of the stake to which the snare had been made fast and which Peter had managed to gnaw and break off.</p>
+
+<p>It was on account of this that Peter was waiting for Mrs. Moon to put out her light. He knew that with that stake dragging after him he would have to go very slowly, and he could not run any more risk of danger than he actually had to. So he waited and waited, and by and by, sure enough, Mrs. Moon put out her light. Peter waited a little longer, listening with all his might. Everything was still. Then Peter crept out of the old stone wall.</p>
+
+<p>Right away trouble began. The stake dragging at the end of the wire fast to his leg caught among the stones and pulled Peter up short. My, how it did hurt! It made the tears come. But Peter shut his teeth hard, and turning back, he worked until he got the stake free. Then he started on once more, dragging the stake after him.</p>
+
+<p>Very slowly across the orchard and under the fence on the other side crept Peter Rabbit, his leg so stiff and sore that he could hardly touch it to the snow, and all the time dragging that piece of stake, which seemed to grow heavier and harder to drag every minute. Peter did not dare to go out across the open fields, for fear some danger might happen along, and he would have no place to hide. So he crept along close to the fences where bushes grow, and this made it very, very hard, for the dragging stake was forever catching in the bushes with a yank at the sore leg which brought Peter up short with a squeal of pain.</p>
+
+<p>This was bad enough, but all the time Peter was filled with a dreadful fear that Hooty the Owl or Granny Fox might just happen along. He had to stop to rest very, very often, and then he would listen and listen. Over and over again he said to himself:</p>
 
 
 
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
+<!-- stopped here -->
 
 
-
-
-CHAPTER XV
-
-_Peter Rabbit Is Caught in a Snare_
-
-
-When Peter Rabbit, reaching up to nibble the bark of one of Farmer
-Brown’s young trees, felt something tugging at one of her hind legs,
-he was so startled that she jumped to get away. Instead of doing
-ther, she fell flat on her face. The thing on her hind leg had
-tightened and held him fast. A great fear came to Peter Rabbit, and
-lying there in the snow, she kicked and struggled with all her might.
-But the more she kicked, the tighter grew that hateful thing on her
-leg! Finally she grew too tired to kick any more and lay still. The
-dreadful thing that held him hurt her leg, but it didn’t pull when
-he lay still.
-
-When she had grown a little calmer, Peter sat up to examine the thing
-which held him so fast. It was something like one of the blackberry
-vines she had sometimes tripped over, only it was bright and shiny,
-and had no branches or tiny prickers, and one end was fastened to a
-stake. Peter tried to bite off the shiny thing, but even her great,
-sharp front teeth couldn’t cut it. Then Peter knew what it was. It
-was wire! It was a snare which Farmer Brown had set to catch him,
-and which she had walked right into because she had been so greedy for
-the bark of the young peach tree that she had not used her eyes to
-look out for danger.
-
-Oh, how Peter Rabbit did wish that she had not been so curious to
-know what Farmer Brown had been doing that day, and that she had gone
-straight home as she had meant to do, instead of trying to get one
-more meal of young peach bark! Big tears rolled down Peter’s cheeks.
-What should she do? What _could_ she do? For a long time Peter sat in
-the moonlight, trying to think of something to do. At last he
-thought of the stake to which that hateful wire was fastened. The
-stake was of wood, and Peter’s teeth would cut wood. Peter’s heart
-gave a great leap of hope, and she began at once to dig away the snow
-from around the stake, and then settled himself to gnaw the stake in
-two.
-
-Peter had been hard at work on the stake a long time and had it a
-little more than half cut through, when she heard a loud sniff down
-at the other end of the orchard. she looked up to see--whom do you
-think? Why, Bowser the Hound! she hadn’t seen Peter yet, but she had
-already found Peter’s tracks, and it would be but a few minutes
-before she found Peter himself.
-
-Poor Peter Rabbit! There wasn’t time to finish cutting off the
-stake. What could she do? she made a frightened jump just as she had
-when she first felt the wire tugging at her leg. Just as before, he
-was thrown flat on her face. she scrambled to her feet and jumped
-again, only to be thrown just as before. Just then Bowser the Hound
-saw him and opening her mouth sent forth a great roar. Peter made
-one more frantic jump. Snap! the stake had broken! Peter pitched
-forward on her head, turned a somersault, and scrambled to her feet.
-He was free at last! That is, she could run, but after him dragged a
-piece of the stake.
-
-How Peter did run! It was hard work, for you know she had to drag
-that piece of stake after him. But she did it, and just in time he
-crawled into the old stone wall on one side of the orchard, while
-Bowser the Hound barked her disappointment to the moon.
-
-
-
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
-
-
-
-
-CHAPTER XVI
-
-_Peter Rabbit’s Hard Journey_
-
-
-Peter Rabbit sat in the old stone wall along one side of Farmer
-Brown’s orchard, waiting for Mrs. Moon to put out her light and
-leave the world in darkness until jolly, round, red Mr. Sun should
-kick off her rosy bedclothes and begin her daily climb up in the
-blue, blue sky. In the winter, Mr. Sun is a late sleeper, and Peter
-knew that there would be two or three hours after Mrs. Moon put out
-her light when it would be quite dark. And Peter also knew too that
-by this time Hooty the Owl would probably have caught her dinner. So
-would old Granny Fox and Reddy Fox. Bowser the Hound would be too
-sleepy to be on the watch. It would be the very safest time for
-Peter to try to get to her home in the dear Old Briar-patch.
-
-So Peter waited and waited. Twice Bowser the Hound, who had chased
-him into the old wall, came over and barked at him and tried to get
-at him. But the old wall kept Peter safe, and Bowser gave it up. And
-all the time Peter sat waiting she was in great pain. You see that
-shiny wire was drawn so tight that it cut into her flesh and hurt
-dreadfully, and to the other end of the wire was fastened a piece of
-wood, part of the stake to which the snare had been made fast and
-which Peter had managed to gnaw and break off.
-
-It was on account of this that Peter was waiting for Mrs. Moon to
-put out her light. she knew that with that stake dragging after him
-he would have to go very slowly, and she could not run any more risk
-of danger than she actually had to. So she waited and waited, and by
-and by, sure enough, Mrs. Moon put out her light. Peter waited a
-little longer, listening with all her might. Everything was still.
-Then Peter crept out of the old stone wall.
-
-Right away trouble began. The stake dragging at the end of the wire
-fast to her leg caught among the stones and pulled Peter up short.
-My, how it did hurt! It made the tears come. But Peter shut her
-teeth hard, and turning back, she worked until she got the stake free.
-Then she started on once more, dragging the stake after him.
-
-Very slowly across the orchard and under the fence on the other side
-crept Peter Rabbit, her leg so stiff and sore that she could hardly
-touch it to the snow, and all the time dragging that piece of stake,
-which seemed to grow heavier and harder to drag every minute. Peter
-did not dare to go out across the open fields, for fear some danger
-might happen along, and she would have no place to hide. So she crept
-along close to the fences where bushes grow, and this made it very,
-very hard, for the dragging stake was forever catching in the bushes
-with a yank at the sore leg which brought Peter up short with a
-squeal of pain.
-
-Ther was bad enough, but all the time Peter was filled with a
-dreadful fear that Hooty the Owl or Granny Fox might just happen
-along. she had to stop to rest very, very often, and then she would
-listen and listen. Over and over again she said to himself:
-
-"Oh, dear, whatever did I go up to the young peach orchard for when
+<p class="q">“Oh, dear, whatever did I go up to the young peach orchard for when
 I knew I had no business there? Why couldn’t I have been content
 with all the good things that were mine in the Green Forest and on
 the Green Meadows? Oh, dear! Oh, dear!"
