@@ -1,6 +1,33 @@
-name: Thornton Burgess
-highlighter: pygments
+site_name: 'The Adventures Of'
+site_url: 'https://the-adventures-of.com'
+description: 'Famous bedtime storybooks, edited and republished.'
+markdown: redcarpet
+redcarpet:
+  extensions: ['smart','autolink','fenced_code_blocks','space_after_headers','with_toc_data', 'footnotes']
 permalink: /:title
-url: "http://tbrown.github.io/adventures"
-baseurl: ""
-markdown: kramdown
+exclude:
+ - README.md
+ - Gemfile
+ - Gemfile.lock
+rss_post_limit: 30
+plugins_dir:
+  - jekyll-timeago
+  - jekyll-redirect-from
+jekyll_timeago:
+  depth: 1 # Level of detail
+  today: 'today'
+  yesterday: 'yesterday'
+  tomorrow: 'tomorrow'
+  and: 'and'
+  suffix: 'ago'
+  prefix: ''
+  suffix_future: ''
+  prefix_future: 'in'
+  years: 'years'
+  year: 'year'
+  months: 'months'
+  month: 'month'
+  weeks: 'weeks'
+  week: 'week'
+  days: 'days'
+  day: 'day'

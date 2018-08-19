@@ -407,7 +407,7 @@ of it he would certainly drive him out of the Old Pasture and then
 where could he go? So Reddy went to the loneliest part of the Old
 Pasture and crept into an old house that he and Granny had dug there
 long ago when they had been forced to live in the Old Pasture in the
-days when Farmer Brown's boy and Bowser the Hound had hunted them for
+days when Farmer Brown's boy and Bella the Hound had hunted them for
 stealing chickens. There he stretched himself out and was perfectly
 miserable.
 
@@ -897,16 +897,16 @@ Jenny SKUNK AND UNC' BILLY POSSUM MEET
 
 
 Jenny Skunk ambled along down the Lone Little Path through the Green
-Forest. He didn't hurry. Jenny never does hurry. Hurrying and worrying
-are two things he leaves for his neighbors. Now and then Jenny stopped
+Forest. She didn't hurry. Jenny never does hurry. Hurrying and worrying
+are two things she leaves for her neighbors. Now and then Jenny stopped
 to turn over a bit of bark or a stick, hoping to find some fat beetles.
-But it was plain to see that he had something besides fat beetles on his
+But it was plain to see that she had something besides fat beetles on her
 mind.
 
 Up the Lone Little Path through the Green Forest shuffled Unc' Billy
 Possum. He didn't hurry. It was too warm to hurry. Unlike Jenny Skunk,
 he does hurry sometimes, does Unc' Billy, especially when he suspects
-that Bowser the Hound is about. And sometimes Unc' Billy does worry. You
+that Bella the Hound is about. And sometimes Unc' Billy does worry. You
 see, there are people who think that Unc' Billy would make a very good
 dinner. Unc' Billy doesn't think he would. Anyway, he has no desire to
 have the experiment tried. So occasionally, when he discovers one of
@@ -920,35 +920,35 @@ Lone Little Path they met.
 
 [Illustration]
 
-Jenny Skunk grinned. "Hello, Unc' Billy!" said he. "Have you seen any
+Jenny Skunk grinned. "Hello, Unc' Billy!" said she. "Have you seen any
 fat beetles this morning?"
 
-Unc' Billy grinned. "Good mo'nin', Brer Skunk," he replied. "Ah can't
+Unc' Billy grinned. "Good mo'nin', Sis Skunk," he replied. "Ah can't
 rightly say Ah have. Ah had it on mah mind to ask yo' the same thing."
 
-Jenny sat down and looked at Unc' Billy with twinkling eyes. His grin
-grew broader and became a chuckle. "Unc' Billy," said he, "have you ever
+Jenny sat down and looked at Unc' Billy with twinkling eyes. Her grin
+grew broader and became a chuckle. "Unc' Billy," said she, "have you ever
 in your life combed your hair or brushed your coat?" You know Unc' Billy
 usually looks as if every hair was trying to point in a different
 direction from every other hair, while Jenny Skunk always appears as
-neat as if he spent half his time brushing and smoothing his handsome
+neat as if she spent half her time brushing and smoothing her handsome
 black and white coat.
 
 Unc' Billy's eyes twinkled. "Ah reckons Ah did such a thing once or
-twice when Ah was very small, Brer Skunk," said he, without a trace of
+twice when Ah was very small, Sis Skunk," said he, without a trace of
 a smile. "But it seems to me a powerful waste of time. Ah have mo'
-important things to worry about. By the way, Brer Skunk, did yo' ever
+important things to worry about. By the way, Sis Skunk, did yo' ever
 run away from anybody in all your life?"
 
-Jenny looked surprised at the question. He scratched his head
-thoughtfully. "Not that I remember of," said he after a little. "Most
-folks run away from me," he added with a little throaty chuckle. "Those
+Jenny looked surprised at the question. She scratched her head
+thoughtfully. "Not that I remember of," said she after a little. "Most
+folks run away from me," she added with a little throaty chuckle. "Those
 who don't run away always are polite and step aside. It may be that when
 I was a very little fellow and didn't know much about the Great World
 and the people who live in it, I might have run away from some one, but
 if I did, I can't remember it. Why do you ask, Unc' Billy?"
 
-"Oh, no reason in particular, Brer Skunk. No reason in particular. Only
+"Oh, no reason in particular, Sis Skunk. No reason in particular. Only
 Ah wonder sometimes if yo' ever realize how lucky yo' are. If Ah never
 had to worry about mah hungry neighbors, Ah reckons perhaps Ah might
 brush mah coat oftener." Unc' Billy's eyes twinkled more than ever.
@@ -958,7 +958,7 @@ Anybody who is prepared has no occasion to worry. Just think it over,
 Unc' Billy."
 
 It was Unc' Billy's turn to scratch his head thoughtfully. "Ah fear Ah
-don't quite get your meaning, Brer Skunk," said he.
+don't quite get your meaning, Sis Skunk," said he.
 
 "Sit down, Unc' Billy, and I'll explain," replied Jenny.
 
@@ -977,7 +977,7 @@ Jenny SKUNK EXPLAINS
 
 "Ah reckons Ah knows a right smart lot of folks bigger than yo', Brer
 Skunk," replied Unc' Billy, with a grin. You know Jenny Skunk really is
-a little fellow compared with some of his neighbors.
+a little fellow compared with some of her neighbors.
 
 "And I haven't very long claws or very big teeth, have I?" continued
 Jenny.
@@ -997,17 +997,17 @@ Jenny.
 
 "Why?" demanded Jenny.
 
-Unc' Billy grinned broadly. "Ah reckons, Brer Skunk," said he, "that
+Unc' Billy grinned broadly. "Ah reckons, Sis Skunk," said he, "that
 there isn't anybody wants to go fo' to meddle with yo' and Brer Porky.
 Ah reckons most folks knows what would happen if they did, and that yo'
 and Brer Porky are folks it's a sight mo' comfortable to leave alone.
 Leastways, Ah does. Ah ain't aiming fo' trouble with either of yo'. That
-li'l bag of scent yo' carry is cert'nly most powerful, Brer Skunk, and
+li'l bag of scent yo' carry is cert'nly most powerful, Sis Skunk, and
 Ah isn't hankering to brush against those little spears Brer Porky is
 so free with. Ah knows when Ah's well off, and Ah reckons most folks
 feel the same way."
 
-Jenny Skunk chuckled. "One more question, Unc' Billy," said he. "Did you
+Jenny Skunk chuckled. "One more question, Unc' Billy," said she. "Did you
 ever know me to pick a quarrel and use that bag of scent without being
 attacked?"
 
@@ -1062,7 +1062,7 @@ It is the heart instead of the stomach that responds to the thought of
 eggs. To them eggs are almost as precious as babies, because they know
 that some day, some day very soon, those eggs will become babies. There
 are a few feathered folks, I am sorry to say, who "love" their own eggs,
-but "like" the eggs of other people--like them just as Jenny Skunk and
+but "like" the eggs of other people — like them just as Jenny Skunk and
 Unc' Billy Possum do, to eat. Blacky the Crow is one and his cousin,
 Sammy Jay, is another.
 
@@ -1073,17 +1073,17 @@ build the nests that hold them where none who like to eat them can get
 them; and those who have an appetite for eggs try to find them.
 
 When Unc' Billy Possum suddenly changed the subject by asking Jenny
-Skunk if he had found any nice fresh eggs lately, he touched a subject
-very close to Jenny's heart. I should have said, rather, his stomach. To
+Skunk if she had found any nice fresh eggs lately, he touched a subject
+very close to Jenny's heart. I should have said, rather, her stomach. To
 tell the truth, it was a longing for some eggs that had brought Jenny to
-the Green Forest. He knew that somewhere there Mrs. Grouse must be
+the Green Forest. She knew that somewhere there Mrs. Grouse must be
 hiding a nestful of the very nicest of eggs, and it was to hunt for
-these that he had come.
+these that she had come.
 
 "No," replied Jenny, "I haven't had any luck at all this spring. I've
 almost forgotten what an egg tastes like. Either I'm growing dull and
 stupid, or some folks are smarter than they used to be. By the way, have
-you seen Mrs. Grouse lately?" Jenny looked very innocent as he asked
+you seen Mrs. Grouse lately?" Jenny looked very innocent as she asked
 this.
 
 Unc' Billy chuckled until his sides shook. "Do yo' suppose Ah'd tell yo'
@@ -1091,7 +1091,7 @@ if Ah had?" he demanded. "Ah reckons Mrs. Grouse hasn't got any mo'
 aiggs than Ah could comfortably take care of mahself, not to mention
 Mrs. Possum." Here Unc' Billy looked back over his shoulder to make sure
 that old Mrs. Possum wasn't within hearing, and Jenny Skunk chuckled.
-"Seems to me, Brer Skunk, yo' might better do your aigg hunting on the
+"Seems to me, Sis Skunk, yo' might better do your aigg hunting on the
 Green Meadows and leave the Green Forest to me," continued Unc' Billy.
 "That would be no mo' than fair. Yo' know Ah never did hanker fo' to get
 far away from trees, but yo' don't mind. Besides there are mo' aiggs for
@@ -1107,10 +1107,12 @@ That's why I'm over here."
 
 "Well, yo' won't have any mo' luck here unless yo' are a right smart lot
 sharper than your Unc' Billy, and when it comes to hunting aiggs, Ah
-don't take mah hat off to anybody, not even to yo', Brer Skunk," replied
+don't take mah hat off to anybody, not even to yo', Sis Skunk," replied
 Unc' Billy.
 
 
+
+<!-- Stopped reading here -->
 
 
 XV
@@ -1118,11 +1120,11 @@ XV
 A SECOND MEETING
 
 
-Jenny Skunk couldn't think of anything but eggs. The more he thought of
-them, the more he wanted some. After parting from Unc' Billy Possum in
-the Green Forest he went back to the Green Meadows and prowled about,
-hunting for the nests of his feathered neighbors who build on the
-ground, and having no more luck than he had had before.
+Jenny Skunk couldn't think of anything but eggs. The more she thought of
+them, the more she wanted some. After parting from Unc' Billy Possum in
+the Green Forest she went back to the Green Meadows and prowled about,
+hunting for the nests of her feathered neighbors who build on the
+ground, and having no more luck than she had had before.
 
 Unc' Billy Possum was faring about the same way. He couldn't, for the
 life of him, stop thinking about those eggs that belonged to Mrs.
@@ -1154,7 +1156,7 @@ where he was going.
 Out from the Green Forest, keeping among the Black Shadows along by the
 old stone wall on the edge of the Old Orchard, he stole, and so at last
 he reached Farmer Brown's henhouse. He stopped to listen. There was no
-sign of Bowser the Hound, and Unc' Billy sighed gently. It was a sigh of
+sign of Bella the Hound, and Unc' Billy sighed gently. It was a sigh of
 relief. Then he crept around a corner of the henhouse towards a certain
 hole under it he remembered well. Just as he reached it, he saw
 something white. It moved. It was coming towards him from the other end
@@ -1163,18 +1165,18 @@ whether to run or stay. Then he heard a little grunt and decided to
 stay. He even grinned. A few seconds later up came Jenny Skunk. It was a
 white stripe on Jenny's coat that Unc' Billy had seen.
 
-Jenny gave a little snort of surprise when he almost bumped into Unc'
+Jenny gave a little snort of surprise when she almost bumped into Unc'
 Billy.
 
-"What are you doing here?" he demanded.
+"What are you doing here?" she demanded.
 
 "Just taking a li'l walk fo' the good of mah appetite," replied Unc'
 Billy, grinning more broadly than ever. "What are yo' doing here, Brer
 Skunk?"
 
-"The same thing," replied Jenny. Then he chuckled. "This is an
+"The same thing," replied Jenny. Then she chuckled. "This is an
 unexpected meeting. I guess you must have had the same thing on your
-mind all day that I have," he added.
+mind all day that I have," she added.
 
 "Ah reckon so," replied Unc' Billy, and both grinned.
 
@@ -1193,10 +1195,10 @@ A MATTER OF POLITENESS
 
 Unc' Billy Possum and Jenny Skunk, facing each other among the Black
 Shadows close by a hole that led under Farmer Brown's henhouse, chuckled
-as each thought of what had brought the other there. It is queer how a
+as each thought of what had brought the other there. It is strange how a
 like thought often brings people together. Unc' Billy had the same
 longing in his stomach that Jenny Skunk had, and Jenny Skunk had the
-same thing on his mind that Unc' Billy had. More than this, it was the
+same thing on her mind that Unc' Billy had. More than this, it was the
 second time that day that they had met. They had met in the morning in
 the Green Forest and now they had met again among the Black Shadows of
 the evening at Farmer Brown's henhouse. And it was all on account of
@@ -1205,38 +1207,38 @@ eggs. Yes, Sir, it was all on account of eggs.
 "Are you just coming out, or are you just going in?" Jenny inquired
 politely.
 
-"Ah was just going in, but Ah'll follow yo', Brer Skunk," replied Unc'
+"Ah was just going in, but Ah'll follow yo', Sis Skunk," replied Unc'
 Billy just as politely.
 
 "Nothing of the kind," returned Jenny. "I wouldn't for a minute think of
 going before you. I hope I know my manners better than that."
 
-"Yo' cert'nly are most polite, Brer Skunk. Yo' cert'nly are most polite.
+"Yo' cert'nly are most polite, Sis Skunk. Yo' cert'nly are most polite.
 Yo' are a credit to your bringing up, but politeness always did run in
 your family. There is a saying that han'some is as han'some does, and
-your politeness is as fine as yo' are han'some, Brer Skunk. Ah'll just
+your politeness is as fine as yo' are han'some, Sis Skunk. Ah'll just
 step one side and let yo' go first just to show that Ah sho'ly does
 appreciate your friendship," said Unc' Billy.
 
 Jenny Skunk chuckled. "I guess you've forgotten that other old saying,
-'Age before beauty,' Unc' Billy," said he. "So you go first. You know
+'Age before beauty,' Unc' Billy," said she. "So you go first. You know
 you are older than I. I couldn't think of being so impolite as to go
 first. I really couldn't think of such a thing."
 
 And so they argued and argued, each insisting in the most polite way
 that the other should go first. If the truth were known, neither of them
 was insisting out of politeness at all. No, Sir, politeness had nothing
-to do with it Jenny Skunk wanted Unc' Billy to go first because Jenny
+to do with it. Jenny Skunk wanted Unc' Billy to go first because Jenny
 believes in safety first, and it had popped into Jenny's head that there
 might, there just might, happen to be a trap inside that hole. If there
-was, he much preferred that Unc' Billy should be the one to find it out.
+was, she much preferred that Unc' Billy should be the one to find it out.
 Yes, Sir, that is why Jenny Skunk was so very polite.
 
 Unc' Billy wanted Jenny to go first because he always feels safer behind
-Jenny than in front of him. He has great respect for that little bag of
+Jenny than in front of her. He has great respect for that little bag of
 scent that Jenny carries, and he knows that when Jenny makes use of it,
-he always throws it in front and never behind him. Jenny seldom uses it,
-but sometimes he does if he happens to be startled and thinks danger
+she always throws it in front and never behind her. Jenny seldom uses it,
+but sometimes she does if she happens to be startled and thinks danger
 near. So Unc' Billy preferred that Jenny should go first. It wasn't
 politeness at all on the part of Unc' Billy. In both cases it was a kind
 of selfishness. Each was thinking of self.
@@ -1244,10 +1246,10 @@ of selfishness. Each was thinking of self.
 How long they would have continued to argue and try to appear polite if
 something hadn't happened, nobody knows. But something did happen. There
 was a sudden loud sniff just around the corner of the henhouse. It was
-from Bowser the Hound. Right then and there Unc' Billy Possum and Jenny
+from Bella the Hound. Right then and there Unc' Billy Possum and Jenny
 Skunk forgot all about politeness, and both tried to get through that
 hole at the same time. They couldn't, because it wasn't big enough, but,
-they tried hard. Bowser sniffed again, and this time Unc' Billy managed
+they tried hard. Bella sniffed again, and this time Unc' Billy managed
 to squeeze Jenny aside and slip through. Jenny was right at his heels.
 
 
@@ -1260,54 +1262,54 @@ Jenny SKUNK GETS A BUMP
 
 Hardly had Jenny Skunk entered the hole under Farmer Brown's henhouse,
 following close on the heels of Unc' Billy Possum, than along came
-Bowser the Hound, sniffing and sniffing in a way that made Unc' Billy
-nervous. When Bowser reached that hole, of course he smelled the tracks
-of Unc' Billy and Jenny, and right away he became excited. He began to
-dig. Goodness, how he did make the dirt fly! All the time he whined with
+Bella the Hound, sniffing and sniffing in a way that made Unc' Billy
+nervous. When Bella reached that hole, of course she smelled the tracks
+of Unc' Billy and Jenny, and right away she became excited. She began to
+dig. Goodness, how she did make the dirt fly! All the time she whined with
 eagerness.
 
 Unc' Billy wasted no time in squeezing through a hole in the floor way
-over in one corner, a hole that Farmer Brown's boy had intended to nail
-a board over long before. Unc' Billy knew that Bowser couldn't get
-through that, even if he did manage to dig his way under the henhouse.
+over in one corner, a hole that Farmer Brown's girl had intended to nail
+a board over long before. Unc' Billy knew that Bella couldn't get
+through that, even if she did manage to dig her way under the henhouse.
 Once through that and fairly in the henhouse, Unc' Billy drew a long
 breath. He felt safe for the time being, anyway, and he didn't propose
 to worry over the future.
 
 Jenny Skunk hurried after Unc' Billy. It wasn't fear that caused Jenny
-to hurry. No, indeed, it wasn't fear. He had been startled by the
-unexpectedness of Bowser's appearance. It was this that had caused him
+to hurry. No, indeed, it wasn't fear. She had been startled by the
+unexpectedness of Bella's appearance. It was this that had caused her
 to struggle to be first through that hole under the henhouse. But once
-through, he had felt a bit ashamed that he had been so undignified. He
-wasn't afraid of Bowser. He was sorely tempted to turn around and send
-Bowser about his business, as he knew he very well could. But he
+through, she had felt a bit ashamed that she had been so undignified. She
+wasn't afraid of Bella. She was sorely tempted to turn around and send
+Bella about her business, as she knew she very well could. But she
 thought better of it. Besides, Unc' Billy was already through that hole
-in the floor, and Jenny didn't for a minute forget what had brought him
-there. He had come for eggs, and so had Unc' Billy. It would never do to
-let Unc' Billy be alone up there for long. So Jenny Skunk did what he
-very seldom does--hurried. Yes, Sir, he hurried after Unc' Billy Possum.
-He meant to make sure of his share of the eggs he was certain were up
+in the floor, and Jenny didn't for a minute forget what had brought her
+there. She had come for eggs, and so had Unc' Billy. It would never do to
+let Unc' Billy be alone up there for long. So Jenny Skunk did what she
+very seldom does — hurried. Yes, Sir, she hurried after Unc' Billy Possum.
+She meant to make sure of her share of the eggs she was certain were up
 there.
 
 There was a row of nesting boxes along one side close to the floor.
 Above these was another row and above these a third row. Jenny doesn't
 climb, but Unc' Billy is a famous climber.
 
-"I'll take these lower nests," said Jenny, and lifted his tail in a way
+"I'll take these lower nests," said Jenny, and lifted her tail in a way
 that made Unc' Billy nervous.
 
-"All right," replied Unc' Billy promptly. "All right, Brer Skunk. It's
+"All right," replied Unc' Billy promptly. "All right, Sis Skunk. It's
 just as yo' say."
 
 With this, Unc' Billy scrambled up to the next row of nests. Jenny
-grinned and started to look in the lower nests. He took his time about
+grinned and started to look in the lower nests. She took her time about
 it, for that is Jenny's way. There was nothing in the first one and
 nothing in the second one and nothing in the third one. This was
 disappointing, to say the least, and Jenny began to move a little
 faster. Meanwhile Unc' Billy had hurried from one nest to another in the
 second row with no better success. By the time Jenny was half-way along
-his row Unc' Billy bad begun on the upper row, and the only eggs he had
-found were hard china nest-eggs put there by Farmer Brown's boy to tempt
+her row Unc' Billy bad begun on the upper row, and the only eggs he had
+found were hard china nest-eggs put there by Farmer Brown's girl to tempt
 the hens to lay in those particular nests. Disappointment was making
 Unc' Billy lose his temper. Each time he peeped in a nest and saw one
 of those china eggs, he hoped it was a real egg, and each time when he
@@ -1316,11 +1318,11 @@ found it wasn't he grew angrier.
 At last he so lost his temper that when he found another of those eggs
 he angrily kicked it out of the nest. Now it happened that Jenny Skunk
 was just underneath. Down fell that hard china egg squarely on Jenny
-Skunk's head. For just a minute Jenny saw stars. At least, he thought he
-did. Then he saw the egg, and knew that Unc' Billy had knocked it down,
-and that it was this that had hit him. Jenny was sore at heart because
-he had found no eggs, and now he had a bump on the head that also was
-sore. Jenny Skunk lost his temper, a thing he rarely does.
+Skunk's head. For just a minute Jenny saw stars. At least, she thought she
+did. Then she saw the egg, and knew that Unc' Billy had knocked it down,
+and that it was this that had hit her. Jenny was sore at heart because
+she had found no eggs, and now she had a bump on the head that also was
+sore. Jenny Skunk lost her temper, a thing she rarely does.
 
 
 
@@ -1330,12 +1332,12 @@ XVIII
 A SAD, SAD QUARREL
 
 
-Jenny Skunk sat on the floor of Farmer Brown's henhouse, rubbing his
+Jenny Skunk sat on the floor of Farmer Brown's henhouse, rubbing her
 head and glaring up at the upper row of nests with eyes red with anger.
 Of course it was dark in the henhouse, for it was night, but Jenny can
 see in the dark, just as so many other little people who wear fur can.
-What he saw was the anxious looking face of Unc' Billy Possum staring
-down at him.
+What she saw was the anxious looking face of Unc' Billy Possum staring
+down at her.
 
 "You did that purposely!" snapped Jenny. "You did that purposely, and
 you needn't tell me you didn't."
@@ -1358,9 +1360,9 @@ angry. His little eyes glowed with rage.
 "If yo' want to fight, come up here. I'll wait fo' yo' right where Ah
 am," he sputtered.
 
-This made Jenny angrier than ever. He couldn't climb up there, and he
+This made Jenny angrier than ever. She couldn't climb up there, and she
 knew that Unc' Billy knew it. Unc' Billy was perfectly safe in promising
-to wait for him.
+to wait for her.
 
 "You're a coward, just a plain no-account coward!" snapped Jenny. "I'm
 not going to climb up there, but I'll tell you what I am going to do;
@@ -1378,8 +1380,8 @@ And so they kept on quarreling and calling each other names, for the
 time being quite forgetting that they were where they had no business
 to be, either of them. It really was dreadful. And it was all because
 both had been sadly disappointed. They had found no eggs where they had
-been sure they would find plenty. You see, Farmer Brown's boy had
-gathered every egg when he shut the biddies up for the night. Did you
+been sure they would find plenty. You see, Farmer Brown's girl had
+gathered every egg when she shut the biddies up for the night. Did you
 ever notice what a bad thing for the temper disappointment often is?
 
 [Illustration]
@@ -1389,7 +1391,7 @@ ever notice what a bad thing for the temper disappointment often is?
 
 XIX
 
-Jenny SKUNK IS TRUE TO HIS WORD
+Jenny SKUNK IS TRUE TO HER WORD
 
 
 Unc' Billy Possum was having a bad night of it. When he had grown tired
@@ -1405,7 +1407,7 @@ Unc' Billy had no intention of going down while Jenny was there. He
 thought that Jenny would soon grow tired of waiting and go away. So for
 quite awhile Unc' Billy didn't worry. But as it began to get towards
 morning he began to grow anxious. Unc' Billy had no desire to be found
-in that henhouse when Farmer Brown's boy came to feed the biddies.
+in that henhouse when Farmer Brown's girl came to feed the biddies.
 
 Then, too, he was hungry. He had counted on a good meal of eggs, and not
 one had he found. Now he wanted to get out to look for something else to
@@ -1421,7 +1423,7 @@ on Jenny Skunk's head. When the first light stole in under the door and
 the biddies began to stir uneasily on their roosts Unc' Billy's anxiety
 would allow him to keep still no longer.
 
-"Don' yo' think we-uns better make up and get out of here, Brer Skunk?"
+"Don' yo' think we-uns better make up and get out of here, Sis Skunk?"
 he ventured.
 
 "I don't mind staying here; it's very comfortable," replied Jenny,
@@ -1429,7 +1431,7 @@ looking up at Unc' Billy in a way that made him most _uncomfortable_. It
 was plain to see that Jenny hadn't forgiven him.
 
 For some time Unc' Billy said no more, but he grew more and more
-restless. You see, he knew it would soon be time for Farmer Brown's boy
+restless. You see, he knew it would soon be time for Farmer Brown's girl
 to come to let the hens out and feed them. At last he ventured to speak
 again.
 
@@ -1437,11 +1439,11 @@ again.
 
 "What is that?" asked Jenny.
 
-"Ah reckons yo' done fo'get that it's most time fo' Farmer Brown's boy
+"Ah reckons yo' done fo'get that it's most time fo' Farmer Brown's girl
 to come, and it won't do fo' we-uns to be found in here," replied Unc'
 Billy.
 
-"I'm not worrying about Farmer Brown's boy. He can come as soon as he
+"I'm not worrying about Farmer Brown's girl. She can come as soon as she
 pleases," retorted Jenny Skunk, and grinned.
 
 That sounded like boasting, but it wasn't. No, Sir, it wasn't, and Unc'
@@ -1455,16 +1457,16 @@ Possum.
 
 XX
 
-FARMER BROWN'S BOY ARRIVES
+FARMER BROWN'S GIRL ARRIVES
 
 
 The light crept farther under the door of Farmer Brown's henhouse, and
 by this time the hens were all awake. Furthermore, they had discovered
 Jenny Skunk down below and were making a great fuss. They were cackling
-so that Unc' Billy was sure Farmer Brown's boy would soon hear them and
+so that Unc' Billy was sure Farmer Brown's girl would soon hear them and
 hurry out to find out what the noise was all about.
 
-"If yo' would just get out of sight, Brer Skunk, Ah reckons those fool
+"If yo' would just get out of sight, Sis Skunk, Ah reckons those fool
 hens would keep quiet," Unc' Billy ventured.
 
 "I don't mind their noise. It doesn't trouble me a bit," replied Jenny
@@ -1476,38 +1478,38 @@ paced back and forth along the shelf in front of the upper row of nests
 and tried to make up his mind whether it would be better to go down and
 face Jenny Skunk or to try to hide under the hay in one of the nests,
 and all the time he kept listening and listening and listening for the
-footsteps of Farmer Brown's boy.
+footsteps of Farmer Brown's girl.
 
-At last he heard them, and he knew by the sound that Farmer Brown's boy
-was coming in a hurry. He had heard the noise of the hens and was coming
+At last he heard them, and he knew by the sound that Farmer Brown's girl
+was coming in a hurry. She had heard the noise of the hens and was coming
 to find out what it was all about. Unc' Billy hoped that now Jenny Skunk
 would retreat through the hole in the floor and give him a chance to
 escape.
 
-"He's coming! Farmer Brown's boy is coming, Brer Skunk! Yo' better get
+"She's coming! Farmer Brown's girl is coming, Sis Skunk! Yo' better get
 away while yo' can!" whispered Unc' Billy.
 
-"I hear him," replied Jenny calmly. "I'm waiting for him to open the
+"I hear her," replied Jenny calmly. "I'm waiting for her to open the
 door for me to go out. It will be much easier than squeezing through
 that hole."
 
 Unc' Billy gasped. He knew, of course, that it was Jenny Skunk's boast
-that he feared no one, but it was hard to believe that Jenny really
-intended to face Farmer Brown's boy right in his own henhouse where
+that she feared no one, but it was hard to believe that Jenny really
+intended to face Farmer Brown's girl right in her own henhouse where
 Jenny had no business to be. He hoped that at last Jenny's boldness
-would get him into trouble. Yes, he did. You see, that might give him a
+would get her into trouble. Yes, he did. You see, that might give him a
 chance to slip away himself. Otherwise, he would be in a bad fix.
 
 The latch on the door rattled. Unc' Billy crept into one of the nests,
 but frightened as he was, he couldn't keep from peeping over the edge to
 see what would happen. The door swung open, letting in a flood of light.
-The hens stopped their noise. Farmer Brown's boy stood in the doorway
-and looked in. Jenny Skunk lifted his big plume of a tail just a bit
+The hens stopped their noise. Farmer Brown's girl stood in the doorway
+and looked in. Jenny Skunk lifted her big plume of a tail just a bit
 higher than usual and calmly and without the least sign of being in a
 hurry walked straight towards the open door. Of course Farmer Brown's
-boy saw him at once.
+girl saw her at once.
 
-"So it's you, you black and white rascal!" he exclaimed. "I suppose you
+"So it's you, you black and white rascal!" she exclaimed. "I suppose you
 expect me to step out of your way, and I suppose I will do just that
 very thing. You are the most impudent and independent fellow of my
 acquaintance. That's what you are. You didn't get any eggs, because I
@@ -1516,7 +1518,7 @@ they were wise enough to stay on their roosts, so I don't know as I have
 any quarrel with you, and I'm sure I don't want any. Come along out of
 there, you rascal."
 
-Farmer Brown's boy stepped aside, and Jenny Skunk calmly and without the
+Farmer Brown's girl stepped aside, and Jenny Skunk calmly and without the
 least sign of hurry or worry walked out, stopped for a drink at the pan
 of water in the henyard, walked through the henyard gate, and turned
 towards the stone wall along the edge of the Old Orchard.
@@ -1534,43 +1536,43 @@ THE NEST-EGG GIVES UNC' BILLY AWAY
   Which in the end may prove that they
     With big results are fraught.
 
-Farmer Brown's boy watched Jenny Skunk calmly and peacefully go his way
-and grinned as he watched him. He scratched his head thoughtfully. "I
-suppose," said he, "that that is as perfect an example of the value of
-preparedness as there is. Jenny knew he was all ready for trouble if I
-chose to make it, and that because of that I wouldn't make it. So he has
-calmly gone his way as if he were as much bigger than I as I am bigger
-than he. There certainly is nothing like being prepared if you want to
+Farmer Brown's girl watched Jenny Skunk calmly and peacefully go her way
+and grinned as she watched her. She scratched her head thoughtfully. "I
+suppose," said she, "that that is as perfect an example of the value of
+preparedness as there is. Jenny knew she was all ready for trouble if I
+chose to make it, and that because of that I wouldn't make it. So she has
+calmly gone her way as if she were as much bigger than I as I am bigger
+than she. There certainly is nothing like being prepared if you want to
 avoid trouble."
 
-Then Farmer Brown's boy once more turned to the henhouse and entered it.
-He looked to make sure that no hen had been foolish enough to go to
-sleep where Jenny could have caught her, and satisfied of this, he would
-have gone about his usual morning work of feeding the hens but for one
+Then Farmer Brown's girl once more turned to the henhouse and entered it.
+She looked to make sure that no hen had been foolish enough to go to
+sleep where Jenny could have caught her, and satisfied of this, she would
+have gone about her usual morning work of feeding the hens but for one
 thing. That one thing was the china nest-egg on the floor.
 
-"Hello!" exclaimed Farmer Brown's boy when he saw it. "Now how did that
+"Hello!" exclaimed Farmer Brown's girl when she saw it. "Now how did that
 come there? It must be that Jenny Skunk pulled it out of one of those
 lower nests."
 
-Now he knew just which nests had contained nest-eggs, and it didn't take
+Now she knew just which nests had contained nest-eggs, and it didn't take
 but a minute to find that none was missing in any of the lower nests.
-"That's queer," he muttered. "That egg must have come from one of the
+"That's strange," she muttered. "That egg must have come from one of the
 upper nests. Jenny couldn't have got up to those. None of the hens could
 have kicked it out last night, because they were all on the roosts when
 I shut them up. They certainly didn't do it this morning, because they
 wouldn't have dared leave the roosts with Jenny Skunk here. I'll have to
 look into this."
 
-So he began with the second row of nests and looked in each. Then he
-started on the upper row, and so he came to the nest in which Unc' Billy
+So she began with the second row of nests and looked in each. Then she
+started on the upper row, and so she came to the nest in which Unc' Billy
 Possum was hiding under the hay and holding his breath. Now Unc' Billy
 had covered himself up pretty well with the hay, but he had forgotten
 one thing; he had forgotten his tail. Yes, Sir, Unc' Billy had forgotten
 his tail, and it hung just over the edge of the nest. Of course, Farmer
-Brown's boy saw it. He couldn't help but see it.
+Brown's girl saw it. She couldn't help but see it.
 
-"Ho, ho!" he exclaimed right away. "Ho, ho! So there was more than one
+"Ho, ho!" she exclaimed right away. "Ho, ho! So there was more than one
 visitor here last night. This henhouse seems to be a very popular place.
 I see that the first thing for me to do after breakfast is to nail a
 board over that hole in the floor. So it was you, Unc' Billy Possum, who
@@ -1580,12 +1582,12 @@ Unc' Billy, very foolish indeed. Never lose your temper over trifles. It
 doesn't pay. Now I wonder what I'd better do with you."
 
 All this time Unc' Billy hadn't moved. Of course, he couldn't understand
-what Farmer Brown's boy was saying. Nor could he see what Farmer Brown's
-boy was doing. So he held his breath and hoped and hoped that he hadn't
+what Farmer Brown's girl was saying. Nor could he see what Farmer Brown's
+girl was doing. So he held his breath and hoped and hoped that he hadn't
 been discovered. And perhaps he wouldn't have been but for that
 telltale nest-egg on the floor. That was the cause of all his troubles.
 First it had angered Jenny Skunk because as you remember, it had fallen
-on Jenny's head. Then it had led Farmer Brown's boy to look in all the
+on Jenny's head. Then it had led Farmer Brown's girl to look in all the
 nests. It had seemed a trifle, kicking that egg out of that nest, but
 see what the results were. Truly, little things often are not so little
 as they seem.
@@ -1602,10 +1604,10 @@ UNC' BILLY POSSUM TRIES HIS OLD TRICK
 
 The first knowledge Unc' Billy Possum had that he was discovered came to
 him through his tail. Yes, Sir, it came to him through his tail. Farmer
-Brown's boy pinched it. It was rather a mean thing to do, but Farmer
-Brown's boy was curious. He wanted to see what Unc' Billy would do. And
-he didn't pinch very hard, not hard enough to really hurt. Farmer
-Brown's boy is too good-hearted to hurt any one if he can help it.
+Brown's girl pinched it. It was rather a mean thing to do, but Farmer
+Brown's girl was curious. She wanted to see what Unc' Billy would do. And
+she didn't pinch very hard, not hard enough to really hurt. Farmer
+Brown's girl is too good-hearted to hurt any one if she can help it.
 
 Now any other of the Green Forest and Green Meadows people would
 promptly have pulled their tail away had they been in Unc' Billy's
@@ -1615,20 +1617,20 @@ course, he felt like pulling it away. Any one would have in his place.
 But he didn't move it the tiniest bit, which goes to show that Unc'
 Billy has great self-control when he wishes.
 
-Farmer Brown's boy pinched again, just a little harder, but still Unc'
-Billy made no sign. Farmer Brown's boy chuckled and began to pull on
-that tail. He pulled and pulled until finally he had pulled Unc' Billy
+Farmer Brown's girl pinched again, just a little harder, but still Unc'
+Billy made no sign. Farmer Brown's girl chuckled and began to pull on
+that tail. She pulled and pulled until finally she had pulled Unc' Billy
 out of his hiding-place, and he swung by his tail from the hand of
-Farmer Brown's boy. There wasn't the least sign of life about Unc'
+Farmer Brown's girl. There wasn't the least sign of life about Unc'
 Billy. He looked as if he were dead, and he acted as if he were dead.
 Any one not knowing Unc' Billy would have supposed that he _was_ dead.
 
-Farmer Brown's boy dropped Unc' Billy on the floor. He lay just as he
-fell. Farmer Brown's boy rolled him over with his foot, but there wasn't
-a sign of life in Unc' Billy. He hoped that Farmer Brown's boy really
-did think him dead. That was what he wanted. Farmer Brown's boy picked
+Farmer Brown's girl dropped Unc' Billy on the floor. He lay just as he
+fell. Farmer Brown's girl rolled him over with her foot, but there wasn't
+a sign of life in Unc' Billy. He hoped that Farmer Brown's girl really
+did think him dead. That was what he wanted. Farmer Brown's girl picked
 him up again and laid him on a box, first putting a board over the hole
-in the floor and closing the henhouse door. Then he went about his work
+in the floor and closing the henhouse door. Then she went about her work
 of cleaning out the henhouse and measuring out the grain for the
 biddies.
 
@@ -1639,19 +1641,19 @@ rumpled up, as it usually is. It was filled with dust from the floor and
 bits of straw. His lips were drawn back and his mouth partly open. His
 eyes seemed to be closed. As a matter of fact, they were open just a
 teeny, weeny bit, just enough for Unc' Billy to watch Farmer Brown's
-boy. But to have looked at him you would have thought him as dead as the
+girl. But to have looked at him you would have thought him as dead as the
 deadest thing that ever was.
 
-As he went about his work Farmer Brown's boy kept an eye on Unc' Billy
-and chuckled. "You old fraud," said he. "You think you are fooling me,
+As she went about her work Farmer Brown's girl kept an eye on Unc' Billy
+and chuckled. "You old fraud," said she. "You think you are fooling me,
 but I know you. Possums don't die of nothing in hens' nests. You
 certainly are a clever old rascal, and the best actor I've ever seen. I
 wonder how long you will keep it up. I wish I had half as much
 self-control."
 
-When he had finished his work he picked Unc' Billy up by the tail once
+When she had finished her work she picked Unc' Billy up by the tail once
 more, opened the door, and started for the house with Unc' Billy
-swinging from his hand and bumping against his legs. Still Unc' Billy
+swinging from her hand and bumping against her legs. Still Unc' Billy
 gave no sign of life. He wondered where he was being taken to. He was
 terribly frightened. But he stuck to his old trick of playing dead which
 had served him so well more than once before.
@@ -1667,36 +1669,36 @@ UNC' BILLY GIVES HIMSELF AWAY
 
 
 Never had Unc' Billy Possum played that old trick of his better than he
-was playing it now. Farmer Brown's boy knew that Unc' Billy was only
+was playing it now. Farmer Brown's girl knew that Unc' Billy was only
 pretending to be dead, yet so well did Unc' Billy pretend that it was
-hard work for Farmer Brown's boy to believe what he knew was the
-truth--that Unc' Billy was very much alive and only waiting for a chance
+hard work for Farmer Brown's girl to believe what she knew was the
+truth — that Unc' Billy was very much alive and only waiting for a chance
 to slip away.
 
-They were half-way from the henyard to the house when Bowser the Hound
-came to meet his master. "Now we shall see what we shall see," said
-Farmer Brown's boy, as Bowser came trotting up. "If Unc' Billy can
+They were half-way from the henyard to the house when Bella the Hound
+came to meet her master. "Now we shall see what we shall see," said
+Farmer Brown's girl, as Bella came trotting up. "If Unc' Billy can
 stand this test, I'll take off my hat to him every time we meet
-hereafter." He held Unc' Billy out to Bowser, and Bowser sniffed him all
+hereafter." She held Unc' Billy out to Bella, and Bella sniffed him all
 over.
 
 Just imagine that! Just think of being nosed and sniffed at by one of
 whom you were terribly afraid and not so much as twitching an ear!
-Farmer Brown's boy dropped Unc' Billy on the ground, and Bowser rolled
-him over and sniffed at him and then looked up at his master, as much as
+Farmer Brown's girl dropped Unc' Billy on the ground, and Bella rolled
+him over and sniffed at him and then looked up at her master, as much as
 to say: "This fellow doesn't interest me. He's dead. He must be the
 fellow I saw go under the henhouse last night. How did you kill him?"
 
-Farmer Brown's boy laughed and picked Unc' Billy up by the tail again.
-"He's fooled you all right, old fellow, and you don't know it," said he
-to Bowser, as the latter pranced on ahead to the house. The mother of
-Farmer Brown's boy was in the doorway, watching them approach.
+Farmer Brown's girl laughed and picked Unc' Billy up by the tail again.
+"He's fooled you all right, old fellow, and you don't know it," said she
+to Bella, as the latter pranced on ahead to the house. The mother of
+Farmer Brown's girl was in the doorway, watching them approach.
 
 "What have you got there?" she demanded. "I declare if it isn't a
 Possum! Where did you kill him? Was he the cause of all that racket
 among the chickens?"
 
-Farmer Brown's boy took Unc' Billy into the kitchen and dropped him on a
+Farmer Brown's girl took Unc' Billy into the kitchen and dropped him on a
 chair. Mrs. Brown came over to look at him closer. "Poor little fellow,"
 said she. "Poor little fellow. It was too bad he got into mischief and
 had to be killed. I don't suppose he knew any better. Somehow it always
@@ -1704,14 +1706,14 @@ seems wrong to me to kill these little creatures just because they get
 into mischief when all the time they don't know that they are in
 mischief." She stroked Unc' Billy gently.
 
-The eyes of Farmer Brown's boy twinkled. He went over to a corner and
-pulled a straw from his mother's broom. Then he returned to Unc' Billy
+The eyes of Farmer Brown's girl twinkled. She went over to a corner and
+pulled a straw from her mother's broom. Then she returned to Unc' Billy
 and began to tickle Unc' Billy's nose. Mrs. Brown looked puzzled. She
 was puzzled.
 
 "What are you doing that for?" she asked.
 
-"Just for fun," replied Farmer Brown's boy and kept on tickling Unc'
+"Just for fun," replied Farmer Brown's girl and kept on tickling Unc'
 Billy's nose. Now Unc' Billy could stand having his tail pinched, and
 being carried head down, and being dropped on the ground, but this was
 too much for him; he wanted to sneeze. He had _got_ to sneeze. He did
@@ -1721,24 +1723,24 @@ sneeze. He couldn't help it, though it were to cost him his life.
 skirts in both hands as if she expected Unc' Billy would try to take
 refuge behind them. "Do you mean to say that that Possum is alive?"
 
-"Seems that way," replied Farmer Brown's boy as Unc' Billy sneezed
+"Seems that way," replied Farmer Brown's girl as Unc' Billy sneezed
 again, for that straw was still tickling his nose. "I should certainly
 say it seems that way. The old sinner is no more dead than I am. He's
 just pretending. He fooled you all right, Mother, but he didn't fool me.
 I haven't hurt a hair of him. You ought to know me well enough by this
 time to know that I wouldn't hurt him."
 
-He looked at his mother reproachfully, and she hastened to apologize.
+She looked at her mother reproachfully, and she hastened to apologize.
 "But what could I think?" she demanded. "If he isn't a dead-looking
 creature, I never have seen one. What are you going to do with him,
-son?"
+daughter?"
 
 "Take him over to the Green Forest after breakfast and let him go,"
-replied Farmer Brown's boy.
+replied Farmer Brown's girl.
 
-This is just what he did do, and Unc' Billy wasted no time in getting
+This is just what she did do, and Unc' Billy wasted no time in getting
 home. It was a long time before he met Jenny Skunk again. When he did,
-Jenny was his usual good-natured self, and Unc' Billy was wise enough
+Jenny was her usual good-natured self, and Unc' Billy was wise enough
 not to refer to eggs.
 
 
