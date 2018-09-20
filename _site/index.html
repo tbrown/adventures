@@ -6,7 +6,7 @@
 	<title>Adventures!</title>
   
   <!-- Styles -->
-	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/styles/main.css">
 
   <!-- Fonts -->
 	<link rel="stylesheet" href="https://use.typekit.net/ycy5dmz.css">
@@ -28,8 +28,9 @@
 	</p>
 </header>
 
-<div class="content" id="content">
-  	<div id="home">
+<div class="wrap">
+<main>
+  <div id="home">
   <h2>Blog Posts</h2>
   <ul class="posts">
     
@@ -38,13 +39,20 @@
   </ul>
 </div>
 
-</div>
+</main>
 
+<!--<div class="content" id="content">
+</div>-->
+  
 <footer>
 </footer>
+</div>
+
+<!-- Scripts -->
+<script src="/scripts/main.js"></script>
 
 <script type="text/javascript">
-<!--
+// <!--
     function toggle_class(id) {
        var e = document.getElementById(id);
        if(e.className == 'hidden')

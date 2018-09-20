@@ -1,0 +1,418 @@
+@import 'reset.css';
+
+/*
+------------------------------------------------
+The Adventures Of
+Designed by Tim Brown
+22 Aug 2018
+------------------------------------------------ */
+
+
+/* Variables & basics
+------------------------------------------------ */
+
+:root {
+  font-size: .975rem;
+
+  /* Colors 
+  ------------------------
+  Text gray: #444
+  Accent red: #f00
+  ------------------------*/
+  --faint-white: rgba(255, 255, 255, 0.1);
+  --faint-black: rgba(0, 0, 0, 0.1);
+  --translucent-black: rgba(0, 0, 0, 0.4);
+
+  --color-text: #333; /* Dark gray */
+  --color-text-light: #666;
+  --color-background: #f5f1e5; /* Off white: #f5f1e5 */
+  --color-link: #222;
+  --color-link-visited: purple;
+  --color-link-hover: red;
+
+  --color-reverse-text: #fff;
+  --color-reverse-text-light: #ccc;
+  --color-reverse-background: #000;
+  --color-reverse-link: white;
+  --color-reverse-link-visited: gray;
+  --color-reverse-link-hover: yellow;
+
+  /* Book colors */
+  --color-allbooks: #60503e; /* Brownish */
+  --color-blacky: #181e24; /* Black */
+  --color-dani: #645e23; /* Yellowish */
+  --color-paddy: #772a09; /* Mahogany */
+  --color-becky: #233c63; /* Blue */
+  --color-old-mrs-toad: #666600; /* Pond green */
+  --color-johnny: #471f2f; /* Maroon */
+  --color-reddy: #965c1d; /* Rust orange */
+
+  
+
+  /* Spacing
+  ------------------------
+  Scale: http://www.modularscale.com/?1.3&&1.333
+  ------------------------*/
+  --scale-ms3: 2.369;
+  --scale-ms2: 1.777;
+  --scale-ms1: 1.333;
+  --scale-ms0: 1;
+  --scale-ms-1: .75;
+  --scale-ms-2: .563;
+  
+  --space-thin: .1em;
+  --space-hairline: .01em;
+
+  /* Other :root styles */
+  border-color: var(--faint-white);
+}
+
+body {
+  font-family: "Benton Mod RE Reg", Verdana, sans-serif;
+  line-height: 1.45;
+
+  font-kerning: normal;
+	font-variant-ligatures: common-ligatures contextual;
+	-moz-font-feature-settings: "kern", "liga", "clig", "calt";
+	-ms-font-feature-settings: "kern", "liga", "clig", "calt";
+	-webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+	font-feature-settings: "kern", "liga", "clig", "calt";
+
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  
+  color: var(--color-text);
+  background: url(/styles/clothTrans15.png) var(--color-allbooks);
+  border-color: var(--faint-white);
+}
+body.paddy-beaver {
+  background-color: var(--color-paddy);
+}
+
+p { margin: 0; }
+p + p { text-indent: 2.369rem; }
+.q { text-indent: -0.6rem; }
+p + .q { text-indent: 1.769rem; }
+
+h1, .alpha {
+  font-size: calc(var(--scale-ms3) * 1rem);
+
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+h2, .beta {
+  text-align: center;
+  font-size: calc(var(--scale-ms1) * 1rem);
+  line-height: var(--scale-ms1);
+  padding: calc(var(--scale-ms1) * 1rem) 0;
+  margin: calc(var(--scale-ms1) * 1rem) 0;
+  border-bottom: 2px rgba(0, 0, 0, 0.8) solid;
+}
+h2 span {
+  display: block;
+  font-size: calc(var(--scale-ms1) * 1rem);
+}
+
+h3, .gamma {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+h4, .delta {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--color-text-light);
+}
+h5, .epsilon {
+  font-size: 1rem;
+  font-weight: bold;
+}
+h1, .alpha,
+h2, .beta,
+h3, .gamma,
+h4, .delta {
+  line-height: 1.2;
+}
+h5, .epsilon {
+  line-height: 1.3;
+}
+
+em, i {
+  font-family: "Benton Mod RE It", Verdana, sans-serif;
+  font-style: italic;
+}
+strong {
+  font-weight: 700;
+}
+ol, ul {
+  margin: 0 0 calc(var(--scale-ms0) * 1em);
+  margin-left: calc(var(--scale-ms0) * (1em + var(--space-thin)));
+}
+li {
+  margin-bottom: calc(var(--scale-ms-2) * 1em);
+}
+ol { list-style-type: decimal; }
+ol ol { list-style-type: lower-alpha; }
+ol ol ol { list-style-type: lower-roman; }
+
+ul { list-style-type: disc; }
+ul ul { list-style-type: circle; }
+ul ul ul { list-style-type: square; }
+
+ol ol,
+ol ul,
+ul ul,
+ul ol {
+  margin-top: calc(var(--scale-ms-2) * 1em);
+}
+
+table {
+  margin: 0 0 calc(var(--scale-ms0) * 1em);
+  width: 100%;
+}
+caption {
+  font-style: italic;
+  color: var(--color-text-light);
+}
+th {
+  font-weight: 700;
+}
+th,
+td {
+  border: var(--space-hairline) var(--color-text-light) solid;
+  padding: calc(var(--scale-ms-1) * 1em);
+}
+
+blockquote {
+  margin: 1em 0 1em calc(var(--scale-ms3) * 1em);
+  font-family: "Benton Mod RE It", Verdana, sans-serif;
+  font-style: italic;
+}
+blockquote em {
+  font-style: normal;
+}
+
+cite {
+  font-style: italic;
+}
+cite em {
+  font-style: normal;
+}
+blockquote cite:before {
+  content: "— ";
+}
+ins {
+  text-decoration: underline;
+  color: green;
+}
+del {
+  text-decoration: strike-through;
+  color: red;
+}
+sup, sub {
+  font-size: calc(var(--scale-ms-1) * 1em);
+  font-weight: 700;
+  color: var(--color-text-light);
+  text-transform: uppercase;
+  letter-spacing: var(--space-hairline);
+  /* Future improvements:
+    - Use appropriate optical size
+    - Optically adjust text-decoration thickness in child links
+  */
+}
+sup { vertical-align: super; }
+sub { vertical-align: sub; }
+
+abbr, acronym {
+  letter-spacing: var(--space-hairline);
+  font-variant-caps: all-small-caps;
+  font-feature-settings: "kern", "liga", "clig", "calt", "c2sc", "smcp";
+}
+.numbers {
+  letter-spacing: var(--space-hairline);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum";
+}
+.nowrap {
+  white-space: nowrap;
+}
+
+
+/* Links
+------------------------------------------------ */
+a {
+  text-decoration: underline;
+  text-decoration-color: var(--translucent-black);
+  -webkit-text-decoration-color: var(--translucent-black);
+  color: var(--color-link);
+}
+a:visited {
+  text-decoration-color: var(--color-link-visited);
+  -webkit-text-decoration-color: var(--color-link-visited);
+  color: var(--color-link-visited);
+}
+a:hover,
+a:active {
+  text-decoration-color: var(--color-link-hover);
+  -webkit-text-decoration-color: var(--color-link-hover);
+  color: var(--color-link-hover);
+}
+
+
+/* Composition
+------------------------------------------------ */
+@media screen {
+  main {
+    padding: 0.1em 1em;
+    background-color: var(--color-background);
+  }
+  .illo img {
+    width: 100%;
+  }
+  .illo {
+    margin-bottom: 1em;
+    padding: 2%;
+    border-radius: .5em;
+    text-align: center;
+    background-color: #fff;
+  }
+  .illo figcaption {
+    font-family: "mallory-microplus";
+    font-size: calc(var(--scale-ms1) * 1rem);
+    font-weight: 500;
+    word-spacing: .2em;
+    color: var(--color-text-light);
+  }
+  footer {
+    padding-bottom: 9.969em;
+  }
+}
+
+@media screen and (min-width: 60em) {
+   /* At this point, horizontal margins should stop
+   growing. */
+  :root {
+    font-size: calc(var(--scale-ms1) * 1rem);
+  }
+  body {
+    margin: 0;
+    padding: 0 0.75em;
+    border-width: 0.178em;
+    border-style: solid;
+  }
+  main {
+    position: relative;
+    margin: 0 auto;
+    border-radius: 0.232em;
+    padding: 1.333em 3.157em 5.61em;
+    outline: 0.178em var(--faint-black) solid;
+  }
+  .chapter-set {
+    margin-right: 0;
+    margin-left: auto;
+    width: 56%;
+  }
+  .illo {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 1em; left: 0;
+    float: left;
+    margin-left: -80%;
+    width: 76%;
+  }
+}
+
+
+/* Nav
+------------------------------------------------ */
+nav {
+  height: 50vh;
+  position: fixed;
+  bottom: 0;
+  right: .5em;
+  max-width: 50vw;
+}
+nav h1 {
+  font-size: 4.105rem;
+}
+nav.shown {
+  bottom: 0;
+  -webkit-transition: bottom .5s;
+  transition: bottom .5s;
+}
+nav.hidden {
+  bottom: calc(-50vh + 1em);
+  -webkit-transition: bottom .5s;
+  transition: bottom .5s;
+}
+nav p {
+  margin: calc(var(--scale-ms-2) * 1em) 0 calc(var(--scale-ms-2) * 1em);
+  margin-left: calc(var(--scale-ms0) * (1em + var(--space-thin)));
+}
+.toc {
+  background-color: #fff;
+  height: 100%;
+  padding: .238em 1.333em 1em calc(var(--scale-ms3) * 1em);
+  overflow: scroll;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-radius: .422em .422em 0 0;
+
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+
+  font-family: "mallory-microplus";
+  font-size: calc(var(--scale-ms-1) * 1rem);
+
+  font-kerning: normal;
+	font-variant-ligatures: common-ligatures contextual;
+	font-variant-numeric: tabular-nums;
+	-moz-font-feature-settings: "kern", "liga", "clig", "calt", "tnum";
+	-ms-font-feature-settings: "kern", "liga", "clig", "calt", "tnum";
+	-webkit-font-feature-settings: "kern", "liga", "clig", "calt", "tnum";
+	font-feature-settings: "kern", "liga", "clig", "calt", "tnum";
+}
+
+
+
+/* Header
+------------------------------*/
+@media screen {
+  header {
+    margin: 1.777em 1em;
+    text-align: center;
+  }
+  h1 {
+    font-size: 2.369em;
+  }
+  .credits {
+    text-transform: uppercase;
+    letter-spacing: .02em;
+  }
+}
+@media screen and (min-width: 36em) {
+  h1 {
+    font-family: "benton-modern-display-conden", serif;
+    font-size: 14vw;
+    line-height: 1;
+  }
+}
+@media screen and (min-width: 90em) {
+  h1 {
+    font-size: 9.75rem;
+  }
+}
+
+
+
+/* Color
+---------------------------*/
+header {
+  color: var(--translucent-black);
+  text-shadow: 0 -0.178em 0 var(--faint-black);
+}
+header h1 {
+  color: white;
+}
+

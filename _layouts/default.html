@@ -6,7 +6,7 @@
 	<title>{{page.title}}</title>
   
   <!-- Styles -->
-	<link rel="stylesheet" href="{{site.baseurl}}/css/style.css">
+	<link rel="stylesheet" href="{{site.baseurl}}/styles/main.css">
 
   <!-- Fonts -->
 	<link rel="stylesheet" href="https://use.typekit.net/ycy5dmz.css">
@@ -28,15 +28,23 @@
 	</p>
 </header>
 
-<div class="content" id="content">
-  	{{content}}
-</div>
+<div class="wrap">
+<main>
+  {{content}}
+</main>
 
+<!--<div class="content" id="content">
+</div>-->
+  
 <footer>
 </footer>
+</div>
+
+<!-- Scripts -->
+<script src="/scripts/main.js"></script>
 
 <script type="text/javascript">
-<!--
+// <!--
     function toggle_class(id) {
        var e = document.getElementById(id);
        if(e.className == 'hidden')
