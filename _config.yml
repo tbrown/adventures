@@ -1,7 +1,7 @@
 site_name: 'The Adventures Of'
 site_url: 'https://the-adventures-of.com'
 description: 'Famous bedtime storybooks, edited and republished.'
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ['smart','autolink','fenced_code_blocks','space_after_headers','with_toc_data', 'footnotes']
 permalink: /:title
