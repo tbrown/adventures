@@ -5,6 +5,7 @@ title: "Blacky the Crow"
 tags: stories
 slug: blacky-the-crow
 date: 1922-01-01
+season: ❄️ winter
 ---
 
 1. [Blacky The Crow Makes A Discovery](#ch1)

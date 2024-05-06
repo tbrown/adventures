@@ -5,6 +5,7 @@ title: "The Adventures of Becky Bear"
 tags: stories
 slug: becky-bear
 date: 1916-04-01
+season: 🌷 spring
 ---
 
 1. [Becky Bear Goes Fishing](#ch1)

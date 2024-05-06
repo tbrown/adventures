@@ -4,6 +4,7 @@ title: "The Adventures of Johnny Chuck"
 tags: stories
 slug: johnny-chuck
 date: 1913-01-02
+season: 🌷 spring
 ---
 
 <h2 id="ch1"><span>I</span> GENTLE SISTER SOUTH WIND ARRIVES</h2>

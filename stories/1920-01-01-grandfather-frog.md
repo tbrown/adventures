@@ -5,6 +5,7 @@ title: "<em>The Adventures of</em> Grandfather Frog"
 tags: stories
 slug: grandfather-frog
 date: 1920-02-01
+season: 🌻 summer
 ---
 
 1. [Dani Meadow Mouse Is Worried](#ch1)

@@ -5,6 +5,7 @@ title: "The Adventures of Old Mrs. Toad"
 tags: stories
 slug: old-mrs-toad
 date: 1916-05-01
+season: 🌷 spring
 ---
 
 <h2 id="ch1"><span>I</span> Jimmy Skunk Is Puzzled</h2>

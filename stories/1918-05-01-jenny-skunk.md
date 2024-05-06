@@ -5,6 +5,7 @@ title: “The Adventures of Jenny Skunk"
 tags: stories
 slug: jenny-skunk
 date: 1918-05-01
+season: 🌷 spring
 ---
 
 	   I. Peter Rabbit Plans a Joke                           1

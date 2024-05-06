@@ -75,6 +75,17 @@ html {
 }
 
 
+/* WEB FONTS */
+@font-face {
+  src: url('/fonts/MalloryMP-Medium.woff2') format("woff2"),
+       url('/fonts/MalloryMP-Medium.woff') format("woff");
+  font-family: 'mallory-microplus';
+  font-style: normal;
+  font-weight: 500;
+}
+
+
+
 
 /*
 ------------------------------------------------

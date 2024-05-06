@@ -5,6 +5,7 @@ title: "The Adventures of Bella the Hound"
 tags: stories
 slug: bella-the-hound
 date: 1920-01-01
+season: ❄️ winter
 ---
 
 1. [Old Man Coyote Leads Bella Away](#ch1)

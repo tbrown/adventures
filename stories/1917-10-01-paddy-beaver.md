@@ -4,6 +4,7 @@ tags: stories
 title: <em>The Adventures of</em> Paddy Beaver
 slug: paddy-beaver
 date: 1917-10-01
+season: 🍁 fall
 ---
 
 <section class="chapter-set">
