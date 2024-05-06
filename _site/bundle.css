@@ -147,6 +147,7 @@ Designed by Tim Brown
   --scale-ms0: 1;
   --scale-ms-1: .75;
   --scale-ms-2: .563;
+  --scale-ms-3: .422;
   
   --space-thin: .1em;
   --space-hairline: .01em;
@@ -177,9 +178,16 @@ body {
   background-position: top center;
   border-color: var(--faint-white);
 }
+
 body.paddy-beaver { background-color: var(--color-paddy); }
+.posts a.paddy-beaver { background-color: var(--color-paddy); }
+
 body.dani-meadow-mouse { background-color: var(--color-dani); }
+.posts a.dani-meadow-mouse { background-color: var(--color-dani); }
+
 body.johnny-chuck { background-color: var(--color-johnny); }
+.posts a.johnny-chuck { background-color: var(--color-johnny); }
+
 body.becky-bear { background-color: var(--color-becky); }
 body.reddy-fox { background-color: var(--color-reddy); }
 body.old-mrs-toad { background-color: var(--color-old-mrs-toad); }
@@ -527,21 +535,48 @@ header h1 {
   grid-gap: 1em;
   list-style-type: none;
 }
+.posts a {
+  color: var(--color-text);
+  text-decoration: none;
+  transition: all 0.1s ease-in-out;
+
+  padding: calc(var(--scale-ms-1) * 1em);
+  background: url(/images/site/clothTrans15.png) var(--color-allbooks);
+  background-position: top center;
+
+  border-width: 0.178em;
+  border-style: solid;
+  border-color: var(--faint-white);
+  border-radius: 0.232em;
+  box-shadow: 0 .2em .1em rgba(0,0,0,0.3);
+}
+
 .posts li {
   width: 100%;
   height: 100%;
-  padding: 1em;
-  background-color: white;
-  box-shadow: 0 0 .1em rgba(0,0,0,0.1);
-  border-radius: 0.5em;
+  padding: calc(var(--scale-ms-3) * 1em);
+  background-color: var(--color-background);
+  border-radius: 0.232em;
+
+  font-family: mallory-microplus;
+  font-weight: 500;
+  font-size: calc(var(--scale-ms0) * 1rem);
+  text-align: center;
 }
-.posts li:hover {
-  box-shadow: 0 0 .3em rgba(0,0,0,0.3);
+.posts a:hover {
+  scale: 1.03;
+  box-shadow: 0 .2em .5em rgba(0,0,0,0.5);
+}
+
+
+.title {
+  display: block;
+  margin: calc(var(--scale-ms-2) * 1em) 0;
 }
 .season {
   display: inline-block;
-  background-color: #eee;
   padding: .1em .6em;
   border-radius: .3em;
+  border: 1px solid rgba(0,0,0,0.2);
   font-size: .7rem;
 }

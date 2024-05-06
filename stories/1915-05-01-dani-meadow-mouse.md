@@ -1,6 +1,6 @@
 ---
 layout: stories
-title: "<em>The Adventures of</em> Dani Meadow Mouse"
+title: "Dani Meadow Mouse"
 tags: stories
 slug: dani-meadow-mouse
 date: 1915-05-01
