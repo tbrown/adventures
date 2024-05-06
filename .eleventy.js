@@ -7,4 +7,5 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("*.html"); // Copy HTML files as-is
   eleventyConfig.addPassthroughCopy("*.css"); // Copy CSS files as-is
   eleventyConfig.setTemplateFormats(["md", "html", "css"]);
+  eleventyConfig.addPassthroughCopy({"*": "."});
 };
