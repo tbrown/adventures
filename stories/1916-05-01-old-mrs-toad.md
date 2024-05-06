@@ -4,7 +4,6 @@ layout: stories
 title: "The Adventures of Old Mrs. Toad"
 tags: stories
 slug: old-mrs-toad
-permalink: "{{ slug }}"
 date: 1916-05-01
 ---
 

@@ -4,7 +4,6 @@ layout: stories
 title: "<em>The Adventures of</em> Grandfather Frog"
 tags: stories
 slug: grandfather-frog
-permalink: "{{ slug }}"
 date: 1920-02-01
 ---
 

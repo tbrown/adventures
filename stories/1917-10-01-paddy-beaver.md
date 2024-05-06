@@ -3,7 +3,6 @@ layout: stories
 tags: stories
 title: <em>The Adventures of</em> Paddy Beaver
 slug: paddy-beaver
-permalink: "{{ slug }}"
 date: 1917-10-01
 ---
 

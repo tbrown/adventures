@@ -4,7 +4,6 @@ layout: stories
 title: “The Adventures of Jenny Skunk"
 tags: stories
 slug: jenny-skunk
-permalink: "{{ slug }}"
 date: 1918-05-01
 ---
 

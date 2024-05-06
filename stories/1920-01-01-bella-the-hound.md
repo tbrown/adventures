@@ -4,7 +4,6 @@ layout: stories
 title: "The Adventures of Bella the Hound"
 tags: stories
 slug: bella-the-hound
-permalink: "{{ slug }}"
 date: 1920-01-01
 ---
 

@@ -4,7 +4,6 @@ layout: stories
 title: "The Adventures of Becky Bear"
 tags: stories
 slug: becky-bear
-permalink: "{{ slug }}"
 date: 1916-04-01
 ---
 

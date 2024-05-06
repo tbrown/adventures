@@ -4,7 +4,6 @@ layout: stories
 title: "Blacky the Crow"
 tags: stories
 slug: blacky-the-crow
-permalink: "{{ slug }}"
 date: 1922-01-01
 ---
 
