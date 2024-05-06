@@ -1,0 +1,4 @@
+{
+    "layout": "stories.html",
+    "permalink": "/{{ page.fileSlug | slugify }}/index.html"
+}
