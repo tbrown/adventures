@@ -15,8 +15,8 @@
 	<link href="//fastly-cloud.typenetwork.com/projects/1261/fontface.css?661346a0" rel="stylesheet" type="text/css">
 
   <!-- iOS icon -->
-	<link rel="icon" type="image/png" href="/css/icon.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/css/icon.png">
+	<link rel="icon" type="image/png" href="/images/site/icon.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/site/icon.png">
 </head>
 <body class="grandfather-frog">
 

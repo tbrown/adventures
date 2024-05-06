@@ -3,7 +3,7 @@ layout: stories
 title: "The Adventures of Johnny Chuck"
 tags: stories
 slug: johnny-chuck
-permalink: "{{ slug }}"
+permalink: "{{ slug }}.html"
 date: 1913-01-02
 ---
 
