@@ -1,13 +1,18 @@
 ---
-layout: default
-title: Adventures!
+layout: stories
+title: <em>The Adventures of</em>
 ---
 
 <div id="home">
-  <h2>Blog Posts</h2>
   <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date: "%Y" }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+    {%- for post in collections.stories -%}
+      <a href="{{ post.url }}">
+      <li>
+          <img src="/images/thumb-{{post.data.slug}}.png" alt="" width="100%"/>
+          <span class="title">{{ post.data.title }}</span>
+          <span class="season">{{ post.data.season}}</span>
+      </li>
+      </a>
+    {%- endfor -%}
   </ul>
 </div>
