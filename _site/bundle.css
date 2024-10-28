@@ -186,6 +186,8 @@ body {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
+
+  hanging-punctuation: first;
   
   color: var(--color-text);
   background: url(/images/site/clothTrans15.png) var(--color-allbooks);
@@ -441,6 +443,19 @@ a:active {
     margin-left: -80%;
     width: 76%;
   }
+}
+
+
+/* Endcap illustrations
+------------------------------------------------ */
+.endcap {
+  margin: 6em auto 2em;
+  width: 20%;
+  text-align: center;
+}
+.endcap img {
+  mix-blend-mode: multiply;
+  width: 100%;
 }
 
 
