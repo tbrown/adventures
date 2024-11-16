@@ -97,6 +97,13 @@ html {
   font-style: normal;
   font-weight: 500;
 }
+@font-face {
+  src: url('/fonts/Parkly-WideRough.woff2') format("woff2"),
+       url('/fonts/Parkly-WideRough.woff') format("woff");
+  font-family: 'parkly-wide';
+  font-style: normal;
+  font-weight: 400;
+}
 
 
 
@@ -438,7 +445,7 @@ a:active {
   .illo {
     position: -webkit-sticky;
     position: sticky;
-    top: 4em; left: 0;
+    top: 7rem; left: 0;
     float: left;
     margin-left: -80%;
     width: 76%;
@@ -512,7 +519,7 @@ nav p {
 /* Header
 ------------------------------*/
 body {
-  margin-top: 3rem;
+  margin-top: 2rem;
   xpadding-top: 20rem;
   xborder: none;
   height: 100%;
@@ -523,22 +530,30 @@ body {
   left: -0.178em;
   z-index: 1;
   margin: 0;
-  padding: 10px;
+  padding: .4rem 0 0 1rem;
   width: calc(100dvw + 0.178em);
-  height: 3rem;
+  height: 2rem;
   color: white;
   background-color: rgb(28, 28, 28);
   text-align: left;
-  text-indent: 2em;
+  xtext-indent: 2em;
+
+  p i {
+    font-family: parkly-wide;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    line-height: 1;
+  }
 }
 .story-stuff-wrap {
-  outline: 1px blue solid;
   height: 22rem;
 }
 #story-stuff.small {
   position: fixed;
-  top: 3em; left: 0.178em;
+  top: 2em; left: 0.178em;
   width: calc(100dvw - (0.178em * 2));
+  padding: 0 0 0.2rem 0.6rem;
   z-index: 1;
   background: url(/images/site/clothTrans15.png) var(--color-allbooks);
   background-position: top center;
@@ -546,19 +561,24 @@ body {
   text-align: left;
   * {
     display: inline;
+    margin-right: 0.3em;
   }
   h1 {
-    font-size: 2.369rem;
+    font-size: calc(var(--scale-ms1) * .9rem);
+    line-height: 2;
     em {
       display: none;
     }
   }
 }
 .paddy-beaver #story-stuff.small { background-color: var(--color-paddy); }
-#chapternav {
-  position: fixed;
-  top: 4em; right: 0;
-  z-index: 2;
+
+header a:link,
+header a:visited,
+header a:active,
+header a:hover {
+  color: var(--color-reverse-text);
+  text-decoration: none;
 }
 
 
@@ -570,16 +590,41 @@ body {
   h1 {
     font-size: 2.369em;
   }
+  .release-year {
+    display: inline-block;
+    padding: .3em .8em .2em;
+    letter-spacing: 0.05em;
+    color: var(--color-reverse-text-light);
+    background-color: rgba(0,0,0,0.1);
+    background-color: rgba(255,255,255,0.1);
+    xborder: 1px solid rgba(0,0,0,0.3);
+    border-radius: .1em;
+  }
   .credits {
     text-transform: uppercase;
     letter-spacing: .02em;
   }
+  #chapternav {
+    position: fixed;
+    top: 3em; right: 0;
+    z-index: 2;
+
+    font-family: parkly-wide;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    line-height: 1;
+
+    color: var(--color-reverse-text-light);
+
+  }
 }
 @media screen and (min-width: 36em) {
-  h1 {
+  .large h1 {
+    margin: 0.2em 0;
     font-family: "Benton Mod Disp Cond Lt", serif;
     font-size: 14vw;
-    line-height: 1;
+    line-height: 0.9;
     > em {
       font-family: "Benton Mod Disp Cond Lt It", serif;
       font-style: italic;
@@ -587,7 +632,7 @@ body {
   }
 }
 @media screen and (min-width: 90em) {
-  h1 {
+  .large h1 {
     font-size: 9.75rem;
   }
 }
@@ -636,9 +681,12 @@ header h1 {
   background-color: var(--color-background);
   border-radius: 0.232em;
 
-  font-family: mallory-microplus;
-  font-weight: 500;
   font-size: calc(var(--scale-ms0) * 1rem);
+  font-family: parkly-wide;
+  font-weight: 400;
+  font-size: calc(var(--scale-ms1) * 1rem);
+  line-height: 1;
+  letter-spacing: 0.03em;
   text-align: center;
 }
 .posts a:hover {
@@ -661,6 +709,10 @@ header h1 {
   border-radius: .3em;
   border: 1px solid rgba(0,0,0,0.2);
   font-size: .7rem;
+  letter-spacing: 0;
+  line-height: 1.5;
+  font-family: mallory-microplus;
+  font-weight: 500;
 }
 
 :root {

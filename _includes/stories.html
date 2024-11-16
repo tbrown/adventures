@@ -7,14 +7,14 @@
       <p><a href="/"><i>The Adventures of&hellip;</i></a></p>
    </section>
    <div class="story-stuff-wrap">
-   <section id="story-stuff">
+   <section id="story-stuff" class="large">
       <h1>
          <em>The Adventures of</em> 
          <a href="/{{ slug }}">{{ title }}</a>
       </h1>
-      <p>{{page.date|date: "%Y" }} &bull; 2024</p>
+      <p class="release-year">{{page.date|date: "%Y" }} &bull; 2024</p>
    
-      <p id="chapternav" onclick="toggle_class('nav');">Chapters</p>
+      <a id="chapternav" href="#nav" onclick="toggle_class('nav');">Contents</a>
       <!--<p onclick="story_header('story-stuff');">Storystuff</p>-->
    </section>
    </div>
@@ -53,9 +53,11 @@
     }
     window.addEventListener('scroll', () => {
     const storyHeader = document.getElementById('story-stuff');
-      if (window.scrollY > 600) {
+      if (window.scrollY > 480) {
         storyHeader.classList.add('small');
+        storyHeader.classList.remove('large');
     } else {
+        storyHeader.classList.add('large');
         storyHeader.classList.remove('small');
     }
 });
