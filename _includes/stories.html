@@ -1,20 +1,23 @@
 {% include "header.html" %}
 
 <body class="{{ slug }}">
-	<a href="/">Home test</a>
 
 <header>
-	<p><i>The Famous Bedtime Story Books</i></p>
-	<p>by <b class="credits">Thornton W. Burgess</b><br />
-  	<i>revised by</i> <b class="credits">Tim Brown</b> <i>&</i> <b class="credits">daughters</b><br />
-  	<i>illustrated by</i> <b class="credits">Chris Silverman</b><br />
-
-	</p>
-	<h1>
-      <em>The Adventures of</em> 
-      <span>{{ title }}</span>
-   </h1>
-	<p>{{page.date|date: "%Y" }} &bull; 2024</p>
+   <section class="site-stuff">
+      <p><a href="/"><i>The Adventures of&hellip;</i></a></p>
+   </section>
+   <div class="story-stuff-wrap">
+   <section id="story-stuff">
+      <h1>
+         <em>The Adventures of</em> 
+         <a href="/{{ slug }}">{{ title }}</a>
+      </h1>
+      <p>{{page.date|date: "%Y" }} &bull; 2024</p>
+   
+      <p id="chapternav" onclick="toggle_class('nav');">Chapters</p>
+      <!--<p onclick="story_header('story-stuff');">Storystuff</p>-->
+   </section>
+   </div>
 </header>
 
 <div class="wrap">
@@ -41,6 +44,21 @@
        else
           e.className = 'hidden';
     }
+    function story_header(id) {
+       var e = document.getElementById(id);
+       if(e.className == 'small')
+          e.className = 'large';
+       else
+          e.className = 'small';
+    }
+    window.addEventListener('scroll', () => {
+    const storyHeader = document.getElementById('story-stuff');
+      if (window.scrollY > 600) {
+        storyHeader.classList.add('small');
+    } else {
+        storyHeader.classList.remove('small');
+    }
+});
 //-->
 </script>
 </body>

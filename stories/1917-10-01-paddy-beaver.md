@@ -742,12 +742,31 @@ season: 🍁 fall
   <figcaption>The End</figcaption>
 </figure>
 
-<!-- Manually smarten quotes in chapter titles and blockquotes -->
-<!-- Mark up the blockquotes -->
-
 <nav id="nav" class="shown">
-  <p onclick="toggle_class('nav');">Chapters</p>
   <section class="toc">
-    <p><a href="/">All stories</a></p>
     <ol>
-      <li><a href="#ch1">Paddy the Beaver Begins Work</a></li>       <li><a href="#ch2">Paddy Plans a Pond</a></li>       <li><a href="#ch3">Paddy Has Many Visitors</a></li>       <li><a href="#ch4">Sammy Jay Speaks Her Mind</a></li>       <li><a href="#ch5">Paddy Keeps Her Promise</a></li>       <li><a href="#ch6">Farmer Brown’s Girl Grows Curious</a></li>       <li><a href="#ch7">Farmer Brown’s Girl Gets Another Surprise</a></li>       <li><a href="#ch8">Peter Rabbit Gets a Ducking</a></li>       <li><a href="#ch9">Paddy Plans a House</a></li>       <li><a href="#ch10">Paddy Starts Her House</a></li>       <li><a href="#ch11">Peter Rabbit and Mary Muskrat Are Puzzled</a></li>       <li><a href="#ch12">Mary Muskrat Learns Something</a></li>       <li><a href="#ch13">The Strange Storehouse</a></li>       <li><a href="#ch14">A Footprint in the Mud</a></li>       <li><a href="#ch15">Sammy Jay Makes Paddy a Call</a></li>       <li><a href="#ch16">Old Man Coyote Is Very Crafty</a></li>       <li><a href="#ch17">Old Man Coyote Is Disappointed</a></li>       <li><a href="#ch18">Old Man Coyote Tries Another Plan</a></li>       <li><a href="#ch19">Paddy and Sammy Jay Become Friends</a></li>       <li><a href="#ch20">Sammy Jay Offers to Help Paddy</a></li>       <li><a href="#ch21">Paddy and Sammy Jay Work Together</a></li>       <li><a href="#ch22">Paddy Finishes Her Harvest</a></li>     </ol>        </section> </nav>
+      <li><a href="#ch1">Paddy the Beaver Begins Work</a></li>
+      <li><a href="#ch2">Paddy Plans a Pond</a></li>
+      <li><a href="#ch3">Paddy Has Many Visitors</a></li>
+      <li><a href="#ch4">Sammy Jay Speaks Her Mind</a></li>
+      <li><a href="#ch5">Paddy Keeps Her Promise</a></li>
+      <li><a href="#ch6">Farmer Brown’s Girl Grows Curious</a></li>
+      <li><a href="#ch7">Farmer Brown’s Girl Gets Another Surprise</a></li>
+      <li><a href="#ch8">Peter Rabbit Gets a Ducking</a></li>
+      <li><a href="#ch9">Paddy Plans a House</a></li>
+      <li><a href="#ch10">Paddy Starts Her House</a></li>
+      <li><a href="#ch11">Peter Rabbit and Mary Muskrat Are Puzzled</a></li>
+      <li><a href="#ch12">Mary Muskrat Learns Something</a></li>
+      <li><a href="#ch13">The Strange Storehouse</a></li>
+      <li><a href="#ch14">A Footprint in the Mud</a></li>
+      <li><a href="#ch15">Sammy Jay Makes Paddy a Call</a></li>
+      <li><a href="#ch16">Old Man Coyote Is Very Crafty</a></li>
+      <li><a href="#ch17">Old Man Coyote Is Disappointed</a></li>
+      <li><a href="#ch18">Old Man Coyote Tries Another Plan</a></li>
+      <li><a href="#ch19">Paddy and Sammy Jay Become Friends</a></li>
+      <li><a href="#ch20">Sammy Jay Offers to Help Paddy</a></li>
+      <li><a href="#ch21">Paddy and Sammy Jay Work Together</a></li>
+      <li><a href="#ch22">Paddy Finishes Her Harvest</a></li>
+    </ol>
+  </section>
+</nav>

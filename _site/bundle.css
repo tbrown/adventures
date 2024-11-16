@@ -168,8 +168,8 @@ Designed by Tim Brown
 
   /* Other :root styles */
   border-color: var(--faint-white);
-  margin-top: 200px;
-  background-color: black;
+  xmargin-top: 200px;
+  xbackground-color: black;
 }
 
 body {
@@ -438,7 +438,7 @@ a:active {
   .illo {
     position: -webkit-sticky;
     position: sticky;
-    top: 1em; left: 0;
+    top: 4em; left: 0;
     float: left;
     margin-left: -80%;
     width: 76%;
@@ -462,24 +462,22 @@ a:active {
 /* Nav
 ------------------------------------------------ */
 nav {
-  height: 50vh;
+  height: 50dvh;
   position: fixed;
-  bottom: 0;
-  right: .5em;
+  top: 6em;
+  right: 0;
   max-width: 50vw;
 }
 nav h1 {
   font-size: 4.105rem;
 }
 nav.shown {
-  bottom: 0;
-  -webkit-transition: bottom .5s;
-  transition: bottom .5s;
+  display: block;
+  transition: opacity .2s;
 }
 nav.hidden {
-  bottom: calc(-50vh + 1em);
-  -webkit-transition: bottom .5s;
-  transition: bottom .5s;
+  display: none;
+  transition: opacity 0s;
 }
 nav p {
   margin: calc(var(--scale-ms-2) * 1em) 0 calc(var(--scale-ms-2) * 1em);
@@ -488,10 +486,10 @@ nav p {
 .toc {
   background-color: #fff;
   height: 100%;
-  padding: .238em 1.333em 1em calc(var(--scale-ms3) * 1em);
+  padding: 1em 1.333em 1em calc(var(--scale-ms3) * 1em);
   overflow: scroll;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-radius: .422em .422em 0 0;
+  border-radius: .422em;
 
   -webkit-hyphens: none;
   -ms-hyphens: none;
@@ -513,6 +511,57 @@ nav p {
 
 /* Header
 ------------------------------*/
+body {
+  margin-top: 3rem;
+  xpadding-top: 20rem;
+  xborder: none;
+  height: 100%;
+}
+.site-stuff {
+  position: fixed;
+  top: 0; /*calc(-6.5em + -0.178em);*/
+  left: -0.178em;
+  z-index: 1;
+  margin: 0;
+  padding: 10px;
+  width: calc(100dvw + 0.178em);
+  height: 3rem;
+  color: white;
+  background-color: rgb(28, 28, 28);
+  text-align: left;
+  text-indent: 2em;
+}
+.story-stuff-wrap {
+  outline: 1px blue solid;
+  height: 22rem;
+}
+#story-stuff.small {
+  position: fixed;
+  top: 3em; left: 0.178em;
+  width: calc(100dvw - (0.178em * 2));
+  z-index: 1;
+  background: url(/images/site/clothTrans15.png) var(--color-allbooks);
+  background-position: top center;
+  border-top: 0.178em solid var(--faint-white);
+  text-align: left;
+  * {
+    display: inline;
+  }
+  h1 {
+    font-size: 2.369rem;
+    em {
+      display: none;
+    }
+  }
+}
+.paddy-beaver #story-stuff.small { background-color: var(--color-paddy); }
+#chapternav {
+  position: fixed;
+  top: 4em; right: 0;
+  z-index: 2;
+}
+
+
 @media screen {
   header {
     margin: 1.777em 1em;

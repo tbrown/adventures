@@ -1,4 +1,6 @@
 ---
+eleventyExcludeFromCollections: true
+
 layout: stories
 title: "Dani Meadow Mouse"
 tags: stories

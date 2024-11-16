@@ -1,4 +1,6 @@
 ---
+eleventyExcludeFromCollections: true
+
 layout: stories
 title: "The Adventures of Johnny Chuck"
 tags: stories
