@@ -643,11 +643,12 @@ body {
 @media screen and (min-width: 36em) {
   .large h1 {
     margin: 0.2em 0;
-    font-family: "Benton Mod Disp Cond Lt", serif;
+    font-family: benton-modern-display-conden, serif;
+    font-weight: 300;
+    font-style: normal;
     font-size: 14vw;
     line-height: 0.9;
     > em {
-      font-family: "Benton Mod Disp Cond Lt It", serif;
       font-style: italic;
     }
   }
