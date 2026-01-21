@@ -104,9 +104,74 @@ season: 🍁 fall
 </nav>
 ```
 
+## Character & Language Edits
+
+Stories are updated from the original Thornton W. Burgess texts for modern readers. Two CSV files define the changes:
+
+### `edits-characters.csv`
+
+Defines character gender changes and name updates for better balance:
+
+| Column | Description |
+|--------|-------------|
+| Male/Female/Nonbinary | Gender designation (marked with `1`) |
+| Name | Updated character name |
+| Original name | Name in original Burgess text |
+| Appearances | Number of book appearances |
+| Personality | Character notes |
+
+**Key changes include:**
+- Paddy Beaver → she/her
+- Sammy Jay → she/her  
+- Jerry Muskrat → Mary Muskrat (she/her)
+- Bobby Coon → Bonnie Coon (she/her)
+- Happy Jack Squirrel → Happy Jill Squirrel (she/her)
+- Jimmy Skunk → Jenny Skunk (she/her)
+- Bowser the Hound → Bella the Hound (she/her)
+- Old Jed Thumper → Old Sue Thumper (she/her)
+- Farmer Brown's Boy → Farmer Brown's Girl (she/her)
+- Unc' Billy Possum → Uncle Billy Possum (he/him)
+- Ol' Mistah Buzzard → Old Buzzard (they/them)
+- Black Pussy → Princess the Cat
+
+### `edits-language.csv`
+
+Defines word replacements for outdated language and dialect standardization:
+
+| Category | Examples |
+|----------|----------|
+| Modern sensitivities | queer → strange |
+| Eye dialect | Ah → I, yo' → you, mah → my, fo' → for |
+| Phonetic spellings | cert'nly → certainly, sho'ly → surely, li'l' → little |
+| Dialect words | gwine → going, aiggs → eggs, doan → don't |
+| Regional | Brer → Brother, ol' Virginny → old Virginia |
+
+### Dialect Standardization Policy
+
+The original stories contain "eye dialect" — phonetic spelling meant to represent Southern speech patterns. This was common in early 20th-century literature but is now recognized as problematic:
+
+- It perpetuates stereotypes
+- It marks certain speech as "other" compared to default white speech  
+- It's harder for children to read
+
+**Characters most affected:** Uncle Billy Possum and Old Buzzard
+
+**Approach:** Standardize all dialect to standard English while preserving character personality. Characters can still sound folksy ("I reckon", "right smart") without problematic phonetic spellings.
+
+**When standardizing dialect:**
+1. Convert phonetic spellings to standard words (see CSV)
+2. Keep colloquial phrases that don't rely on misspelling
+3. Maintain character voice through word choice and rhythm, not spelling
+4. Apply changes to both dialogue and narrator descriptions
+
+When editing stories, always:
+1. Check both CSV files for applicable changes
+2. Update all character names and pronouns consistently
+3. Replace outdated language throughout
+4. Standardize all eye dialect to standard English
+
 ## Conventions
 
-- **Gender updates:** Characters have been updated for gender balance (e.g., Paddy uses she/her)
 - **Chapter IDs:** Use `ch1`, `ch2`, etc.
 - **Image naming:** Page numbers from original books, e.g., `p014-15-coyote.jpg`
 - **Roman numerals:** Wrapped in `<span>` inside chapter headings for styling

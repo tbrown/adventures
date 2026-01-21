@@ -46,7 +46,7 @@ Pool began to smile once more, and the Laughing Brook to gurgle and then
 to laugh and finally to sing merrily.
 
 She touched the little banks of snow that remained, and straightway
-they melted and disappeared. She kissed the eight babies of Unc' Billy
+they melted and disappeared. She kissed the eight babies of Uncle Billy
 Possum, and they kicked off the bedclothes under which old Mrs. Possum
 had tucked them and scrambled out of the big hollow tree to play.
 
@@ -73,8 +73,8 @@ Gentle Sister South Wind smiled at Peter. "There are a lot of things in
 this world that you will never understand, Peter Rabbit. You will just
 have to believe them without understanding them and be content to know
 that they are so," she said, and hurried over to the Green Forest to
-tell Unc' Billy Possum that his old friend, Ol' Mistah Buzzard, was on
-his way up from ol' Virginny.
+tell Uncle Billy Possum that his old friend, Old Buzzard, was on
+his way up from old Virginia.
 
 
 
@@ -409,7 +409,7 @@ You see, not since he was a little Chuck and had run away from old
 Mother Chuck with Peter Rabbit, had he ever been very far from his own
 door-step. He had always been content to grow fat and roly-poly right
 near his own home, and listen to the tales of the great world from Jimmy
-Skunk and Peter Rabbit and Bobby Coon and Unc' Billy Possum, all of whom
+Skunk and Peter Rabbit and Bobby Coon and Uncle Billy Possum, all of whom
 are great travelers.
 
 But now, here he was, actually setting forth, and without a home to come
@@ -1370,7 +1370,7 @@ So he walked on down to the far corner of the old orchard, straight to
 the place from which he had seen Reddy Fox jump. When he got there, of
 course he saw Johnny Chuck's new house right away.
 
-"Ho!" cried Farmer Brown's boy. "Brer Fox was hunting Chucks. I'll keep
+"Ho!" cried Farmer Brown's boy. "Brother Fox was hunting Chucks. I'll keep
 my eye on this, and if Mr. Chuck makes any trouble in my garden, I'll
 know where to catch him."
 

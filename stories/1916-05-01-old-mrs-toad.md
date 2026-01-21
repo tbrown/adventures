@@ -125,20 +125,20 @@ cried. "He can sing about as much as I can, and that is not at all."
 
 Jimmy grinned. "I think he's crazy, if you ask me," said he. "And yet he
 was just as earnest about it as if it were really so. I think he must have
-eaten something that has gone to his head. There's Unc' Billy Possum over
+eaten something that has gone to his head. There's Uncle Billy Possum over
 there. Let's ask him what he thinks."
 
-So Jimmy and Peter joined Unc' Billy, and Jimmy told the story about Old
-Mr. Toad all over again. Unc' Billy chuckled and laughed just as they had
+So Jimmy and Peter joined Uncle Billy, and Jimmy told the story about Old
+Mr. Toad all over again. Uncle Billy chuckled and laughed just as they had
 at the idea of Old Mr. Toad's saying he had a beautiful voice. But Unc'
 Billy has a shrewd little head on his shoulders. After a few minutes he
 stopped laughing.
 
-"Ah done learn a right smart long time ago that Ah don' know all there is
-to know about mah neighbors," said he. "We-uns done think of Brer Toad as
-ugly-lookin' fo' so long that we-uns may have overlooked something. Ah don'
-reckon Brer Toad can sing, but Ah 'lows that perhaps he thinks he can. What
-do you-alls say to we-uns going down to the Smiling Pool and finding out
+"I learned a right smart long time ago that I don't know all there is
+to know about my neighbors," said he. "We've thought of Brother Toad as
+ugly-looking for so long that we may have overlooked something. I don't
+reckon Brother Toad can sing, but I allow that perhaps he thinks he can. What
+do you all say to us going down to the Smiling Pool and finding out
 what he really is up to?"
 
 "The very thing!" cried Peter, kicking up his heels. You know Peter is
@@ -147,7 +147,7 @@ always ready to go anywhere or do anything that will satisfy his curiosity.
 Jimmy Skunk thought it over for a few minutes, and then he decided that as
 he hadn't anything in particular to do, and as he might find some fat
 beetles on the way, he would go too. So off they started after Old Mr.
-Toad, Peter Rabbit in the lead as usual, Unc' Billy Possum next, grinning
+Toad, Peter Rabbit in the lead as usual, Uncle Billy Possum next, grinning
 as only he can grin, and in the rear Jimmy Skunk, taking his time and
 keeping a sharp eye out for fat beetles.
 
@@ -156,14 +156,14 @@ keeping a sharp eye out for fat beetles.
 
 Now, though Old Mr. Toad was hurrying as fast as ever he could and was
 quite out of breath, he wasn't getting along very fast compared with the
-way Peter Rabbit or Jimmy Skunk or Unc' Billy Possum could cover the
+way Peter Rabbit or Jimmy Skunk or Uncle Billy Possum could cover the
 ground. You see he cannot make long jumps like his cousin, Grandfather
 Frog, but only little short hops.
 
-So Peter and Jimmy and Unc' Billy took their time about following him. They
+So Peter and Jimmy and Uncle Billy took their time about following him. They
 stopped to hunt for fat beetles for Jimmy Skunk, and at every little patch
 of sweet clover for Peter Rabbit to help himself. Once they wasted a lot of
-time while Unc' Billy Possum hunted for a nest of Carol the Meadow Lark, on
+time while Uncle Billy Possum hunted for a nest of Carol the Meadow Lark, on
 the chance that he would find some fresh eggs there. He didn't find the
 nest for the very good reason that Carol hadn't built one yet. Peter was
 secretly glad. You know he doesn't eat eggs, and he is always sorry for his
@@ -188,9 +188,9 @@ Mr. Toad.
 
 "Do you suppose he hid somewhere, and we passed him?" asked Peter.
 
-Unc' Billy shook his head. "Ah don' reckon so," said he. "We-uns done been
-foolin' away our time, an' Brer Toad done stole a march on us. Ah reckons
-we-uns will find him sittin' on the bank here somewhere."
+Uncle Billy shook his head. "I don't reckon so," said he. "We've been
+fooling away our time, and Brother Toad stole a march on us. I reckon
+we'll find him sitting on the bank here somewhere."
 
 So right away the three separated to look for Old Mr. Toad. All along the
 bank of the Smiling Pool they looked. They peeped under old leaves and
@@ -254,7 +254,7 @@ would he could see none of them. They were hylas, the tiny cousins of
 Stickytoes the Tree Toad.
 
 Listening to all these joyous voices, Peter forgot for a time what had
-brought him to the Smiling Pool. But Jimmy Skunk and Unc' Billy Possum
+brought him to the Smiling Pool. But Jimmy Skunk and Uncle Billy Possum
 didn't forget. They were still hunting for Old Mr. Toad.
 
 "Well, old Mr. Dreamer, have you found him yet?" asked Jimmy Skunk,
@@ -272,7 +272,7 @@ but I don't believe in giving up without another try. Stop your dreaming
 and come help us hunt."
 
 So Peter stopped his dreaming and joined in the search. Now there was one
-place where neither Peter nor Jimmy nor Unc' Billy had thought of looking.
+place where neither Peter nor Jimmy nor Uncle Billy had thought of looking.
 That was in the Smiling Pool itself. They just took it for granted that Old
 Mr. Toad was somewhere on the bank. Presently Peter came to a place where
 the bank was very low and the water was shallow for quite a little distance
@@ -296,11 +296,11 @@ Toad!
 "Where?" demanded Jimmy.
 
 "In the water," declared Peter. "He's sitting right over there where the
-water is shallow, and he didn't notice me at all. Let's get Unc' Billy, and
+water is shallow, and he didn't notice me at all. Let's get Uncle Billy, and
 then creep over to the edge of the Smiling Pool and watch to see if Old Mr.
 Toad really does try to sing."
 
-So they hunted up Unc' Billy Possum, and the three stole very softly over
+So they hunted up Uncle Billy Possum, and the three stole very softly over
 to the edge of the Smiling Pool, where the bank was low and the water
 shallow. Sure enough, there sat Old Mr. Toad with just his head out of
 water. And while they were watching him, something very strange happened.
@@ -313,15 +313,15 @@ as if they might pop out of his head.
 [Illustration: "If he don't watch out, he'll blow up and bust!" exclaimed
 Jimmy.]
 
-"Listen!" whispered Unc' Billy Possum. "Do mah ol' ears hear right? 'Pears
-to me that that song is coming right from where Brer Toad is sitting."
+"Listen!" whispered Uncle Billy Possum. "Do my old ears hear right? Appears
+to me that that song is coming right from where Brother Toad is sitting."
 
 It certainly did appear so, and of all the songs that glad spring day there
 was none sweeter. Indeed there were few as sweet. The only trouble was the
 song was so very short. It lasted only for two or three seconds. And when
 it ended, Old Mr. Toad looked quite his natural self again; just as
 commonplace, almost ugly, as ever. Peter looked at Jimmy Skunk, Jimmy
-looked at Unc' Billy Possum, and Unc' Billy looked at Peter. And no one had
+looked at Uncle Billy Possum, and Uncle Billy looked at Peter. And no one had
 a word to say. Then all three looked back at Old Mr. Toad.
 
 And even as they looked, his throat began to swell and swell and swell,
@@ -344,7 +344,7 @@ bag. And I didn't know he had any such bag there at all."
 "I wish," said Peter Rabbit, feeling of his throat, "that I had a music bag
 like that in my throat."
 
-And then he joined in the laugh of Jimmy and Unc' Billy, but still with
+And then he joined in the laugh of Jimmy and Uncle Billy, but still with
 something of a look of wistfulness in his eyes.
 
 
@@ -1391,7 +1391,7 @@ use for his old friends."
 
 Pretty soon along came Johnny Chuck, and he was very much put out because
 he had been treated by Old Mr. Toad just as Peter Rabbit had. Striped
-Chipmunk told the same story. So did Unc' Billy Possum. It was the same
+Chipmunk told the same story. So did Uncle Billy Possum. It was the same
 with all of Old Mr. Toad's old friends and neighbors, excepting Bobby Coon,
 who, you know, is Buster Bear's little cousin. To him Old Mr. Toad was very
 polite and talked a great deal about Buster Bear, and thought that Bobby

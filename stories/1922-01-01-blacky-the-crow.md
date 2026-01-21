@@ -2095,9 +2095,9 @@ Robin's eggs. It is a very long time since I have been lucky enough
 to taste a hen's egg, and now is my chance. I don't like having to go
 inside that henhouse, even though it is barely inside the door. I'm
 suspicious of doors. They have a way of closing most unexpectedly.
-I might see if I cannot get Unc' Billy Possum to bring one of those eggs
+I might see if I cannot get Uncle Billy Possum to bring one of those eggs
 out for me. But that plan won't do, come to think of it, because I can't
-trust Unc' Billy. The old sinner is too fond of eggs himself. I would be
+trust Uncle Billy. The old sinner is too fond of eggs himself. I would be
 willing to divide with him, but he would be sure to eat his first, and
 I fear that it would taste so good that he would eat the other. No. I've
 got to get one of those eggs myself. It is the only way I can be sure of

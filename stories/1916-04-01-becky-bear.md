@@ -1434,9 +1434,9 @@ part and crept under the thickest hemlock-tree she could find.
 
 But it was of no use. The sharp eyes of Sammy Jay and Blacky the Crow
 saw her. They actually flew into the very tree under which she was
-hiding, and how they did scream! Pretty soon Ol' Mistah Buzzard came
+hiding, and how they did scream! Pretty soon Old Buzzard came
 dropping down out of the blue, blue sky and took a seat on a convenient
-dead tree, where he could see all that went on. Ol' Mistah Buzzard began
+dead tree, where he could see all that went on. Old Buzzard began
 to grin as soon as he saw that tin pail on Becky's neck. Then came
 others — Redtail the Hawk, Scrapper the Kingbird, Redwing the Blackbird,
 Drummer the Woodpecker, Welcome Robin, Charlotte Chickadee, Jeremy

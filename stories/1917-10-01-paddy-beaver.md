@@ -288,7 +288,7 @@ season: 🍁 fall
 
 <p>So Mary dived down to the bottom of the pond and dug up mud and piled it on the foundation and was happy. The little stars looked down and twinkled merrily as they watched the two workers. So the foundation grew and grew down under the water. Mary was very much surprised at the size of it. It was ever and ever so much bigger than the foundation for her own house. You see, she had forgotten how much bigger Paddy is.</p>
 
-<p>Each night Mary and Paddy worked, resting during the daytime. Occasionally Bonnie Coon or Reddy Fox or Unc' Billy Possum or Jenny Skunk would come to the edge of the pond to see what was going on. Peter Rabbit came every night. But they couldn’t see much because, you know, Paddy and Mary were working under water.</p>
+<p>Each night Mary and Paddy worked, resting during the daytime. Occasionally Bonnie Coon or Reddy Fox or Uncle Billy Possum or Jenny Skunk would come to the edge of the pond to see what was going on. Peter Rabbit came every night. But they couldn’t see much because, you know, Paddy and Mary were working under water.</p>
 
 <p>But at last Peter was rewarded. There, just above the water, was a splendid platform of mud and grass and sticks. A great many sticks were carefully laid as soon as the platform was above the water, for Paddy was very particular about this. You see, it was to be the floor for the splendid room she was planning to build. When it suited her, she began to pile mud in the very middle.</p>
 
