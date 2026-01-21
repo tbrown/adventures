@@ -649,6 +649,8 @@ body {
     font-size: 14vw;
     line-height: 0.9;
     > em {
+      font-family: benton-modern-display-conden, serif;
+      font-weight: 300;
       font-style: italic;
     }
   }
