@@ -1,6 +1,5 @@
 ---
 eleventyExcludeFromCollections: true
-
 layout: stories
 title: "Dani Meadow Mouse"
 tags: stories
@@ -118,8 +117,7 @@ season: ❄️ winter
   </figure>
 </aside>
 
-<p>Dani Meadow Mouse had not enjoyed anything so much for a long time as she did that game of hide and seek. She tickled and chuckled all the afternoon as she thought about it. Of course Reddy had been “it.” He had been “it” all the time, for never once had he caught Dani Meadow Mouse. If he had — well, there wouldn’t have been any more
-stories about Dani Meadow Mouse, because there wouldn’t have been any Dani Meadow Mouse any more.</p>
+<p>Dani Meadow Mouse had not enjoyed anything so much for a long time as she did that game of hide and seek. She tickled and chuckled all the afternoon as she thought about it. Of course Reddy had been “it.” He had been “it” all the time, for never once had he caught Dani Meadow Mouse. If he had — well, there wouldn’t have been any more stories about Dani Meadow Mouse, because there wouldn’t have been any Dani Meadow Mouse any more.</p>
 
 <p>But Dani never let herself think about this. She had enjoyed the game all the more because it had been such a dangerous game. It had been such fun to dive into one of her little round doorways in the snow, run along one of her own little tunnels, and then peep out at another doorway and watch Reddy Fox digging as fast as ever he could at the doorway Dani had just left. Finally Reddy had given up in disgust and gone off muttering angrily to try to find something else for dinner. Dani had sat up on the snow and watched him go. In her funny little squeaky voice Dani shouted:</p>
 
@@ -153,8 +151,7 @@ stories about Dani Meadow Mouse, because there wouldn’t have been any Dani Mea
 
 <p class="q">“Ha!” cried Granny Fox, “I almost got her that time!”</p>
 
-<p>Then she ran ahead a little way over the snow, listening as before. <em>Plunge!</em> Into the snow she went again. It was lucky for her that Dani had just turned into another tunnel, for otherwise she would
-surely have caught her.</p>
+<p>Then she ran ahead a little way over the snow, listening as before. <em>Plunge!</em> Into the snow she went again. It was lucky for her that Dani had just turned into another tunnel, for otherwise she would surely have caught her.</p>
 
 <p>Granny Fox blew the snow out of her nose. “Next time I’ll get her!” said she.</p>
 
@@ -223,8 +220,7 @@ surely have caught her.</p>
 
 <p>The next morning, before jolly, round, red Mr. Sun was out of bed, old Granny Fox trotted down onto the meadows and straight over to where, down under the snow, lay the old fence-post. It had snowed again, and all the little doorways of Dani Meadow Mouse were covered up with soft, fleecy snow. Behind Granny Fox limped Reddy Fox, grumbling to himself.</p>
 
-<p>When they reached the place where the old fence-post lay buried under the snow, old Granny Fox stretched out as flat as she could. Then she told Reddy to cover her up with the new soft snow. Reddy did as he was told, but all the time he grumbled. “Now you go off to the Green Forest and keep out of sight,” said Granny Fox. “By and by
-I’ll bring you some Meadow Mouse for your breakfast,” and Granny Fox chuckled to think how smart she was and how she was going to catch Dani Meadow Mouse.</p>
+<p>When they reached the place where the old fence-post lay buried under the snow, old Granny Fox stretched out as flat as she could. Then she told Reddy to cover her up with the new soft snow. Reddy did as he was told, but all the time he grumbled. “Now you go off to the Green Forest and keep out of sight,” said Granny Fox. “By and by I’ll bring you some Meadow Mouse for your breakfast,” and Granny Fox chuckled to think how smart she was and how she was going to catch Dani Meadow Mouse.</p>
 
 
 <h2 id="ch8"><a href="#ch8"><span>VIII</span> Brother North Wind Proves a Friend</a></h2>
@@ -348,8 +344,7 @@ I’ll bring you some Meadow Mouse for your breakfast,” and Granny Fox chuckle
 
 <p class="q">“Just what I say,” replied Charlotte, almost turning a somersault in the air. “There’s a million eggs of insects on those young peach trees, but I’m clearing them all off as fast as I can. They’re mighty fine eating, Peter Rabbit, mighty fine eating!” And with that Charlotte had said good-by and flitted away.</p>
 
-<p>Peter was thinking of that young orchard now, as he sat in the moonlight trying to make up his mind where to go. The thought of those young peach trees made his mouth water. It was a long way up to the orchard on the hill, a very long way, and Peter was wondering if it really was safe to go. He had just about made up his mind to
-try it, for Peter is very, very fond of the bark of young peach trees, when <em>thump!</em> something dropped out of the sky at his very feet.</p>
+<p>Peter was thinking of that young orchard now, as he sat in the moonlight trying to make up his mind where to go. The thought of those young peach trees made his mouth water. It was a long way up to the orchard on the hill, a very long way, and Peter was wondering if it really was safe to go. He had just about made up his mind to try it, for Peter is very, very fond of the bark of young peach trees, when <em>thump!</em> something dropped out of the sky at his very feet.</p>
 
 <p>It startled Peter so that he nearly tumbled over backward. And right at the same instant came the fierce, angry scream of Hooty the Owl. That almost made Peter’s heart stop beating, although he knew that Hooty couldn’t get him down there in the Old Briar-patch. When Peter got his wits together and his heart didn’t go so jumpy, he looked to see what had dropped so close to him out of the sky. His big eyes grew bigger than ever, and he rubbed them to make quite sure that he really saw what he thought she saw. Yes, there was no doubt about it — there at his feet lay Dani Meadow Mouse!</p>
 
@@ -428,16 +423,14 @@ try it, for Peter is very, very fond of the bark of young peach trees, when <em>
 
 <p>Now though Peter didn’t know it, he was in the very worst kind of mischief. You see, when he took off all the bark all the way around the young peach tree he killed the tree, for you know it is on the inside of the bark that the sap which gives life to a tree and makes it grow goes up from the roots to all the branches. So when Peter ate the bark all the way around the trunk of the young tree, he had made it impossible for the sap to come up in the spring. Oh, it was the worst kind of mischief that Peter Rabbit was in.</p>
 
-<p>But Peter didn’t know it, and he kept right on filling that big stomach of his and enjoying it so much that he forgot to watch out for danger. Suddenly, just as he had begun on another tree, a great roar right behind him made him jump almost out of his skin. He knew that voice, and without waiting to even look behind him, he started
-for the stone wall on the other side of the orchard. Right at his heels, her great mouth wide open, was Bella the Hound.</p>
+<p>But Peter didn’t know it, and he kept right on filling that big stomach of his and enjoying it so much that he forgot to watch out for danger. Suddenly, just as he had begun on another tree, a great roar right behind him made him jump almost out of his skin. He knew that voice, and without waiting to even look behind him, he started for the stone wall on the other side of the orchard. Right at his heels, her great mouth wide open, was Bella the Hound.</p>
 
 
 <h2 id="ch14"><a href="#ch14"><span>XIV</span> Farmer Brown Sets a Trap</a></h2>
 
 <p>Peter Rabbit was in trouble. He had got into mischief and now, like everyone who gets into mischief, he wished that he hadn’t. The worst of it was that he was a long way from his home in the dear Old Briar-patch, and he didn’t know how he ever could get back there again. Where was he? Why, in the stone wall on one side of Farmer Brown’s young peach orchard. How Peter blessed the old stone wall in which he had found a safe hiding-place! Bella had hung around nearly all night, so that Peter had not dared to try to go home. Now it was daylight, and Peter knew it would not be safe to put his nose outside.</p>
 
-<p>Peter was worried, so worried that he couldn’t go to sleep as he usually does in the daytime. So he sat hidden in the old wall and waited and watched. By and by he saw Farmer Brown and Farmer Brown’s girl come out into the orchard. Right away they saw the mischief which Peter had done, and he could tell by the sound of their voices that they were very, very angry. They went away, but before long they were back again, and all day long Peter watched them work putting something around each of the young peach-trees. Peter grew so curious that he forgot all about his troubles and how far away from home he was. He could hardly wait for night to come so that he
-might see what they had been doing.</p>
+<p>Peter was worried, so worried that he couldn’t go to sleep as he usually does in the daytime. So he sat hidden in the old wall and waited and watched. By and by he saw Farmer Brown and Farmer Brown’s girl come out into the orchard. Right away they saw the mischief which Peter had done, and he could tell by the sound of their voices that they were very, very angry. They went away, but before long they were back again, and all day long Peter watched them work putting something around each of the young peach-trees. Peter grew so curious that he forgot all about his troubles and how far away from home he was. He could hardly wait for night to come so that he might see what they had been doing.</p>
 
 <p>Just as jolly, round, red Mr. Sun started to go to bed behind the Purple Hills, Farmer Brown and his girl started back to the house. Farmer Brown was smiling now.</p>
 
@@ -488,110 +481,53 @@ might see what they had been doing.</p>
 <!-- stopped here -->
 
 
-<p class="q">“Oh, dear, whatever did I go up to the young peach orchard for when
-I knew I had no business there? Why couldn’t I have been content
-with all the good things that were mine in the Green Forest and on
-the Green Meadows? Oh, dear! Oh, dear!"
+<p class="q">“Oh, dear, whatever did I go up to the young peach orchard for when I knew I had no business there? Why couldn’t I have been content with all the good things that were mine in the Green Forest and on the Green Meadows? Oh, dear! Oh, dear!"
 
-Just as jolly, round, red Mr. Sun began to light up the Green
-Meadows, Peter Rabbit reached the dear Old Briar-patch. Dani Meadow
-Mouse was sitting on the edge of it anxiously watching for him.
-Peter crawled up and started to creep in along one of her little
-private paths. she got in himself, but the dragging stake caught
-among the brambles, and Peter just fell down in the snow right where
-he was, too tired and worn out to move.
+Just as jolly, round, red Mr. Sun began to light up the Green Meadows, Peter Rabbit reached the dear Old Briar-patch. Dani Meadow Mouse was sitting on the edge of it anxiously watching for him.
+Peter crawled up and started to creep in along one of her little private paths. she got in himself, but the dragging stake caught among the brambles, and Peter just fell down in the snow right where he was, too tired and worn out to move.
 
 </section>
 
 
 <section class="chapter-set">
 
+<h2 id="ch17"><a href="#ch17"><span>XVII</span> Dani Meadow Mouse Becomes Worried</a></h2>
+
+<aside class="illo">
+  <figure>
+    <img src="/images/dani/dani-helps-peter.jpg" />
+    <figcaption>Dani helps Peter.</figcaption>
+  </figure>
+</aside>
+
+<p>Dani Meadow Mouse limped around through the dear Old Briar-patch, where she had lived with Peter Rabbit ever since she had squirmed out of the claws of Hooty the Owl and dropped there, right at the feet of Peter Rabbit. Dani limped because she was still lame and sore from Hooty’s terrible claws, but she didn’t let herself think much about that, because she was so thankful to be alive at all. So she limped around in the Old Briar-patch, picking up seed which had fallen on the snow, and sometimes pulling down a few of the red berries which cling all winter to the wild rose bushes. The seeds in these were very nice indeed, and Dani always felt especially good after a meal of them.</p>
+
+<p>Dani Meadow Mouse had grown very fond of Peter Rabbit, for Peter had been very, very good to her. Dani felt that she never, never could repay all of Peter’s kindness. It had been very good of Peter to offer to share the Old Briar-patch with Dani, because Dani was so far from her own home that it would not be safe for her to try to get back there. But Peter had done more than that. He had taken care of Dani, such good care, during the first few days after Dani’s escape from Hooty the Owl. He had brought good things to eat while Dani was too weak and sore to get things for herself. Oh, Peter had been very good indeed to her!</p>
+
+<p>But now, as Dani limped around, she was not happy. No, sir, she was not happy. The truth is, Dani Meadow Mouse was worried. It was a different kind of worry from any she had known before. You see, for the first time in her life, Dani was worrying about someone else.
+She was worrying about Peter Rabbit. Peter had been gone from the Old Briar-patch a whole night and a whole day. He often was gone all night, but never all day too. Dani was sure that something had happened to Peter. She thought of how she had begged Peter not to go up to Farmer Brown’s young peach orchard. She had felt in her bones that it was not safe, that something dreadful would happen to Peter.
+How Peter had laughed at her and bravely started off! Why hadn’t he come home?</p>
+
+<p>As she limped around, Dani talked to herself:</p>
+
+<blockquote>
+  <p>“Why cannot people be content<br>
+  With all the good things that are sent,<br>
+  And mind their own affairs at home<br>
+  Instead of going forth to roam?"</p>
+</blockquote>
+
+<p>It was now the second night since Peter Rabbit had gone away. Dani Meadow Mouse couldn’t sleep at all. Round and round through the Old Briar-patch she limped, and finally sat down at the edge of it to wait and watch. At last, just as jolly, round, red Mr. Sun sent his first long rays of light across the Green Meadows, Dani saw something crawling towards the Old Briar-patch. She rubbed her eyes and looked again. It was—no, it couldn’t be—yes, it <em>was</em> Peter Rabbit! But what was the matter with him? Always before Peter had come home lipperty-lipperty-lipperty-lip, but now he was crawling, actually <em>crawling</em>! Dani Meadow Mouse didn’t know what to make of it.</p>
+
+<p>Nearer and nearer came Peter. Something was following him. No, Peter was dragging something after him. At last Peter started to crawl along one of her little private paths into the Old Briar-patch. The thing dragging behind caught in the brambles, and Peter fell headlong in the snow, too tired and worn out to move. Then Dani saw what the trouble was. A wire was fast to one of Peter’s long hind legs, and to the other end of the wire was fastened part of a stake.
+Peter had been caught in a snare! Dani hurried over to Peter and tears stood in her eyes.</p>
+
+<p>"Poor Peter Rabbit! Oh, I’m so sorry, Peter!" she whispered.</p>
 
 
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
+</section>
 
-
-dani-helps-peter.jpg
-
-
-
-CHAPTER XVII
-
-_Dani Meadow Mouse Becomes Worried_
-
-
-Dani Meadow Mouse limped around through the dear Old Briar-patch,
-where she had lived with Peter Rabbit ever since she had squirmed out
-of the claws of Hooty the Owl and dropped there, right at the feet
-of Peter Rabbit. Dani limped because she was still lame and sore
-from Hooty’s terrible claws, but she didn’t let himself think much
-about that, because she was so thankful to be alive at all. So he
-limped around in the Old Briar-patch, picking up seed which had
-fallen on the snow, and sometimes pulling down a few of the red
-berries which cling all winter to the wild rose bushes. The seeds in
-these were very nice indeed, and Dani always felt especially good
-after a meal of them.
-
-Dani Meadow Mouse had grown very fond of Peter Rabbit, for Peter
-had been very, very good to him. Dani felt that she never, never
-could repay all of Peter’s kindness. It had been very good of Peter
-to offer to share the Old Briar-patch with Dani, because Dani was
-so far from her own home that it would not be safe for him to try to
-get back there. But Peter had done more than that. she had taken care
-of Dani, such good care, during the first few days after Dani’s
-escape from Hooty the Owl. she had brought good things to eat while
-Dani was too weak and sore to get things for himself. Oh, Peter had
-been very good indeed to him!
-
-But now, as Dani limped around, she was not happy. No, sir, she was
-not happy. The truth is, Dani Meadow Mouse was worried. It was a
-different kind of worry from any she had known before. You see, for
-the first time in her life, Dani was worrying about someone else.
-He was worrying about Peter Rabbit. Peter had been gone from the Old
-Briar-patch a whole night and a whole day. she often was gone all
-night, but never all day too. Dani was sure that something had
-happened to Peter. she thought of how she had begged Peter not to go
-up to Farmer Brown’s young peach orchard. she had felt in her bones
-that it was not safe, that something dreadful would happen to Peter.
-How Peter had laughed at him and bravely started off! Why hadn’t he
-come home?
-
-As she limped around, Dani talked to himself:
-
-  “Why cannot people be content
-  With all the good things that are sent,
-  And mind their own affairs at home
-  Instead of going forth to roam?"
-
-It was now the second night since Peter Rabbit had gone away. Dani
-Meadow Mouse couldn’t sleep at all. Round and round through the Old
-Briar-patch she limped, and finally sat down at the edge of it to
-wait and watch. At last, just as jolly, round, red Mr. Sun sent her
-first long rays of light across the Green Meadows, Dani saw
-something crawling towards the Old Briar-patch. she rubbed her eyes
-and looked again. It was--no, it couldn’t be--yes, it _was_ Peter
-Rabbit! But what was the matter with him? Always before Peter had
-come home lipperty-lipperty-lipperty-lip, but now she was crawling,
-actually _crawling_! Dani Meadow Mouse didn’t know what to make of
-it.
-
-Nearer and nearer came Peter. Something was following him. No, Peter
-was dragging something after him. At last Peter started to crawl
-along one of her little private paths into the Old Briar-patch. The
-thing dragging behind caught in the brambles, and Peter fell
-headlong in the snow, too tired and worn out to move. Then Dani saw
-what the trouble was. A wire was fast to one of Peter’s long hind
-legs, and to the other end of the wire was fastened part of a stake.
-Peter had been caught in a snare! Dani hurried over to Peter and
-tears stood in her eyes.
-
-"Poor Peter Rabbit! Oh, I’m so sorry, Peter!" she wherpered.
-
-
-
-<h2 id="ch1"><a href="#ch1"><span>I</span> Dani Meadow Mouse Is Worried</a></h2>
-
-
+<section class="chapter-set">
 
 
 CHAPTER XVIII
@@ -599,22 +535,9 @@ CHAPTER XVIII
 _Dani Meadow Mouse Returns a Kindness_
 
 
-There Peter Rabbit lay. she had dragged that piece of stake a long
-way, a very long way, indeed. But now she could drag it no farther,
-for it had caught in the bramble bushes. So Peter just dropped on
-the snow and cried. Yes, sir, she cried! You see she was so tired and
-worn out and frightened, and her leg was so stiff and sore and hurt
-him so! And then it was so dreadful to actually get home and be
-stopped right on your very own doorstep. So Peter just lay there and
-cried. Just supposing old Granny Fox should come poking around and
-find Peter caught that way! All she would have to do would be to get
-hold of that hateful stake caught in the bramble bushes and pull
-Peter out where she could get him. Do you wonder that Peter cried?
+There Peter Rabbit lay. she had dragged that piece of stake a long way, a very long way, indeed. But now she could drag it no farther, for it had caught in the bramble bushes. So Peter just dropped on the snow and cried. Yes, sir, she cried! You see she was so tired and worn out and frightened, and her leg was so stiff and sore and hurt him so! And then it was so dreadful to actually get home and be stopped right on your very own doorstep. So Peter just lay there and cried. Just supposing old Granny Fox should come poking around and find Peter caught that way! All she would have to do would be to get hold of that hateful stake caught in the bramble bushes and pull Peter out where she could get him. Do you wonder that Peter cried?
 
-By and by she became aware that someone was wiping away her tears. It
-was Dani Meadow Mouse. And Dani was singing in a funny little
-voice. Pretty soon Peter stopped crying and listened, and this is
-what she heard:
+By and by she became aware that someone was wiping away her tears. It was Dani Meadow Mouse. And Dani was singing in a funny little voice. Pretty soon Peter stopped crying and listened, and this is what she heard:
 
   “Isn’t any use to cry!
     Not a bit! Not a bit!
@@ -630,43 +553,25 @@ what she heard:
 Peter smiled in spite of himself.
 
 "That’s right! That’s right! Smile away, Peter Rabbit. Smile away!
-Your troubles, sir, are all to-day. And between you and me, I don’t
-believe they are so bad as you think they are. Now you lie still
-just where you are, while I go see what can be done."
+Your troubles, sir, are all to-day. And between you and me, I don’t believe they are so bad as you think they are. Now you lie still just where you are, while I go see what can be done."
 
-With that off wherked Dani Meadow Mouse as spry as you please, in
-spite of her lame leg, and in a few minutes Peter knew by little
-twitches of the wire on her leg that Dani was doing something at
-the other end. she was. Dani Meadow Mouse had set out to gnaw that
-piece of stake all to splinters. So there she sat and gnawed and
-gnawed and gnawed. Jolly, round, red Mr. Sun climbed higher and
-higher in the sky, and Dani Meadow Mouse grew hungry, but still he
-kept right on gnawing at that bothersome stake.
+With that off wherked Dani Meadow Mouse as spry as you please, in spite of her lame leg, and in a few minutes Peter knew by little twitches of the wire on her leg that Dani was doing something at the other end. she was. Dani Meadow Mouse had set out to gnaw that piece of stake all to splinters. So there she sat and gnawed and gnawed and gnawed. Jolly, round, red Mr. Sun climbed higher and higher in the sky, and Dani Meadow Mouse grew hungry, but still he kept right on gnawing at that bothersome stake.
 
 [Illustration: Dani gnawed the stake which held Peter.]
 
-By and by, happening to look across the snow-covered Green Meadows,
-he saw something that made her heart jump. It was Farmer Brown’s boy
-coming straight over towards the dear Old Briar-patch.
+By and by, happening to look across the snow-covered Green Meadows, he saw something that made her heart jump. It was Farmer Brown’s boy coming straight over towards the dear Old Briar-patch.
 
-Dani didn’t say a word to Peter Rabbit, but gnawed faster than
-ever.
+Dani didn’t say a word to Peter Rabbit, but gnawed faster than ever.
 
 Farmer Brown’s boy was almost there when Dani stopped gnawing.
-There was only a tiny bit of the stake left now, and Dani hurried
-to tell Peter Rabbit that there was nothing to stop him now from
-going to her most secret retreat in the very heart of the Old
-Briar-patch. While Peter slowly dragged her way along, Dani trotted
-behind to see that the wire did not catch on the bushes.
+There was only a tiny bit of the stake left now, and Dani hurried to tell Peter Rabbit that there was nothing to stop him now from going to her most secret retreat in the very heart of the Old Briar-patch. While Peter slowly dragged her way along, Dani trotted behind to see that the wire did not catch on the bushes.
 
-They had safely reached Peter Rabbit’s secretest retreat when Farmer
-Brown’s boy came up to the edge of the dear Old Briar-patch.
+They had safely reached Peter Rabbit’s secretest retreat when Farmer Brown’s boy came up to the edge of the dear Old Briar-patch.
 
 "So this is where that rabbit that killed our peach tree lives!"
 said he. “We’ll try a few snares and put you out of mischief."
 
-And for the rest of the afternoon Farmer Brown’s boy was very busy
-around the edge of the Old Briar-patch.
+And for the rest of the afternoon Farmer Brown’s boy was very busy around the edge of the Old Briar-patch.
 
 
 
@@ -680,71 +585,33 @@ CHAPTER XIX
 _Peter Rabbit and Dani Meadow Mouse Live High_
 
 
-Peter Rabbit sat in her secretest place in the dear Old Briar-patch
-with one of her long hind legs all swelled up and terribly sore
-because of the fine wire fast around it and cutting into it. He
-could hear Farmer Brown’s boy going around on the edge of the dear
-Old Briar-patch and stopping every little while to do something. In
-spite of her pain, Peter was curious. Finally she called Dani Meadow
-Mouse.
+Peter Rabbit sat in her secretest place in the dear Old Briar-patch with one of her long hind legs all swelled up and terribly sore because of the fine wire fast around it and cutting into it. He could hear Farmer Brown’s boy going around on the edge of the dear Old Briar-patch and stopping every little while to do something. In spite of her pain, Peter was curious. Finally she called Dani Meadow Mouse.
 
 "Dani, you are small and can keep out of sight easier than I can.
-Go as near as ever you dare to Farmer Brown’s boy and find out what
-he is doing," said Peter Rabbit.
+Go as near as ever you dare to Farmer Brown’s boy and find out what he is doing," said Peter Rabbit.
 
-So Dani Meadow Mouse crept out as near to Farmer Brown’s boy as
-ever she dared and studied and studied to make out what Farmer
-Brown’s boy was doing. By and by she returned to Peter Rabbit.
+So Dani Meadow Mouse crept out as near to Farmer Brown’s boy as ever she dared and studied and studied to make out what Farmer Brown’s boy was doing. By and by she returned to Peter Rabbit.
 
-"I don’t know what he’s doing, Peter, but he’s putting something in
-every one of your private little paths leading into the Briar-patch
-from the Green Meadows."
+"I don’t know what he’s doing, Peter, but he’s putting something in every one of your private little paths leading into the Briar-patch from the Green Meadows."
 
 "Ha!" said Peter Rabbit.
 
-"There are little loops of that strange stuff you’ve got hanging to
-your leg, Peter," continued Dani Meadow Mouse.
+"There are little loops of that strange stuff you’ve got hanging to your leg, Peter," continued Dani Meadow Mouse.
 
 "Just so!" said Peter Rabbit.
 
-"And he’s put cabbage leaves and pieces of apple all around," said
-Dani.
+"And he’s put cabbage leaves and pieces of apple all around," said Dani.
 
 "We must be careful!" said Peter Rabbit.
 
-Peter’s leg was in a very bad way, indeed, and Peter suffered a
-great deal of pain. The worst of it was, she didn’t know how to get
-off the wire that was cutting into it so. she had tried to cut the
-wire with her big teeth, but she couldn’t do it. Dani Meadow Mouse
-had tried and tried to gnaw the wire, but it wasn’t the least bit of
-use. But Dani wasn’t easily discouraged, and she kept working and
-working at it. Once she thought she felt it slip a little. she said
-nothing, but kept right on working. Pretty soon she was sure that it
-slipped. she went right on working harder than ever. By and by she had
-it so loose that she slipped it right off of Peter’s leg, and Peter
-didn’t know anything about it. You see, that cruel wire snare had
-been so tight that Peter didn’t have any feeling except of pain left
-in her leg, and so when Dani Meadow Mouse pulled the cruel wire
-snare off, Peter didn’t know it until Dani held it up in front of
-him.
+Peter’s leg was in a very bad way, indeed, and Peter suffered a great deal of pain. The worst of it was, she didn’t know how to get off the wire that was cutting into it so. she had tried to cut the wire with her big teeth, but she couldn’t do it. Dani Meadow Mouse had tried and tried to gnaw the wire, but it wasn’t the least bit of use. But Dani wasn’t easily discouraged, and she kept working and working at it. Once she thought she felt it slip a little. she said nothing, but kept right on working. Pretty soon she was sure that it slipped. she went right on working harder than ever. By and by she had it so loose that she slipped it right off of Peter’s leg, and Peter didn’t know anything about it. You see, that cruel wire snare had been so tight that Peter didn’t have any feeling except of pain left in her leg, and so when Dani Meadow Mouse pulled the cruel wire snare off, Peter didn’t know it until Dani held it up in front of him.
 
 My, how thankful Peter was, and how she did thank Dani Meadow Mouse!
-But Dani said that it was nothing at all, just nothing at all, and
-that she owed more than that to Peter Rabbit for being so good to him
-and letting him live in the dear Old Briar-patch.
+But Dani said that it was nothing at all, just nothing at all, and that she owed more than that to Peter Rabbit for being so good to him and letting him live in the dear Old Briar-patch.
 
-It was a long time before Peter could hop as she used to, but after
-the first day she managed to get around. she found that Farmer Brown’s
-boy had spread those miserable wire snares in every one of her
-private little paths. But Peter knew what they were now. she showed
-Dani Meadow Mouse how he, because she was so small, could safely run
-about among the snares and steal all the cabbage leaves and apples
-which Farmer Brown’s boy had put there for bait.
+It was a long time before Peter could hop as she used to, but after the first day she managed to get around. she found that Farmer Brown’s boy had spread those miserable wire snares in every one of her private little paths. But Peter knew what they were now. she showed Dani Meadow Mouse how he, because she was so small, could safely run about among the snares and steal all the cabbage leaves and apples which Farmer Brown’s boy had put there for bait.
 
-Dani Meadow Mouse thought this great fun and a great joke on Farmer
-Brown’s boy. So every day she stole the bait, and she and Peter Rabbit
-lived high while Peter’s leg was getting well. And all the time
-Farmer Brown’s boy wondered why she couldn’t catch Peter Rabbit.
+Dani Meadow Mouse thought this great fun and a great joke on Farmer Brown’s boy. So every day she stole the bait, and she and Peter Rabbit lived high while Peter’s leg was getting well. And all the time Farmer Brown’s boy wondered why she couldn’t catch Peter Rabbit.
 
 
 
@@ -758,83 +625,38 @@ CHAPTER XX
 _Timid Dani Meadow Mouse_
 
 
-Dani Meadow Mouse is timid. Everybody says so, and what everybody
-says ought to be so. But just as anybody can make a mistake
-sometimes, so can everybody. Still, in this case, it is quite likely
-that everybody is right. Dani Meadow Mouse _is_ timid. Ask Peter
-Rabbit. Ask Sammy Jay. Ask Striped Chipmunk. They will all tell you
-the same thing. Sammy Jay might even tell you that Dani is afraid
-of her own shadow, or that she tries to run away from her own tail.
-Of course this isn’t true. Sammy Jay likes to say mean things. It
-isn’t fair to Dani Meadow Mouse to believe what Sammy Jay says.
+Dani Meadow Mouse is timid. Everybody says so, and what everybody says ought to be so. But just as anybody can make a mistake sometimes, so can everybody. Still, in this case, it is quite likely that everybody is right. Dani Meadow Mouse _is_ timid. Ask Peter Rabbit. Ask Sammy Jay. Ask Striped Chipmunk. They will all tell you the same thing. Sammy Jay might even tell you that Dani is afraid of her own shadow, or that she tries to run away from her own tail.
+Of course this isn’t true. Sammy Jay likes to say mean things. It isn’t fair to Dani Meadow Mouse to believe what Sammy Jay says.
 
-But the fact is Dani certainly is timid. More than ther, she isn’t
-ashamed of it--not the least little bit.
+But the fact is Dani certainly is timid. More than ther, she isn’t ashamed of it--not the least little bit.
 
-"You see, it’s this way," said Dani, as she sat on her doorstep one
-sunny morning talking to her friend, old Mrs. Toad. “If I weren’t
-afraid, I wouldn’t be all the time watching out, and if I weren’t
-all the time watching out, I wouldn’t have any more chance than that
-foolish red ant running across in front of you."
+"You see, it’s this way," said Dani, as she sat on her doorstep one sunny morning talking to her friend, old Mrs. Toad. “If I weren’t afraid, I wouldn’t be all the time watching out, and if I weren’t all the time watching out, I wouldn’t have any more chance than that foolish red ant running across in front of you."
 
-Old Mrs. Toad looked where Dani was pointing, and her tongue darted
-out and back again so quickly that Dani wasn’t sure that she saw it
-at all, but when she looked for the ant it was nowhere to be seen,
-and there was a satisfied twinkle in Mrs. Toad’s eyes. There was an
-answering twinkle in Dani’s own eyes as she continued.
+Old Mrs. Toad looked where Dani was pointing, and her tongue darted out and back again so quickly that Dani wasn’t sure that she saw it at all, but when she looked for the ant it was nowhere to be seen, and there was a satisfied twinkle in Mrs. Toad’s eyes. There was an answering twinkle in Dani’s own eyes as she continued.
 
-"No, sir," said he, “I wouldn’t stand a particle more chance than
-that foolish ant did. Now if I were big and strong, like Old Man
-Coyote, or had swift wings, like Skimmer the Swallow, or were so
-homely and ugly-looking that no one wanted me, like--like--" Dani
-hesitated and then finished rather lamely, “like some folks I know,
-I suppose I wouldn’t be afraid."
+"No, sir," said he, “I wouldn’t stand a particle more chance than that foolish ant did. Now if I were big and strong, like Old Man Coyote, or had swift wings, like Skimmer the Swallow, or were so homely and ugly-looking that no one wanted me, like--like--" Dani hesitated and then finished rather lamely, “like some folks I know, I suppose I wouldn’t be afraid."
 
-Old Mrs. Toad looked up sharply when Dani mentioned homely and
-ugly-looking people, but Dani was gazing far out across the Green
-Meadows and looked so innocent that Mrs. Toad concluded that he
-couldn’t have had him in mind.
+Old Mrs. Toad looked up sharply when Dani mentioned homely and ugly-looking people, but Dani was gazing far out across the Green Meadows and looked so innocent that Mrs. Toad concluded that he couldn’t have had him in mind.
 
-"Well," said he, thoughtfully scratching her nose, “I suppose you
-may be right, but for my part fear seems a very foolish thing. Now,
-I don’t know what it is. I mind my own business, and no one ever
-bothers me. I should think it would be a very uncomfortable
-feeling."
+"Well," said he, thoughtfully scratching her nose, “I suppose you may be right, but for my part fear seems a very foolish thing. Now, I don’t know what it is. I mind my own business, and no one ever bothers me. I should think it would be a very uncomfortable feeling."
 
-"It is," replied Dani, “but, as I said before, it is a very good
-thing to keep one on guard when there are as many watching for one
-as there are for me. Now there’s Mr. Blacksnake and--"
+"It is," replied Dani, “but, as I said before, it is a very good thing to keep one on guard when there are as many watching for one as there are for me. Now there’s Mr. Blacksnake and--"
 
-"Where?" exclaimed old Mrs. Toad, turning as pale as a toad can turn,
-and looking uneasily and anxiously in every direction.
+"Where?" exclaimed old Mrs. Toad, turning as pale as a toad can turn, and looking uneasily and anxiously in every direction.
 
-Dani turned her head to hide a smile. If old Mrs. Toad wasn’t
-showing fear, no one ever did. “Oh," said he, “I didn’t mean that he
-is anywhere around here now. What I was going to say was that there
-is Mr. Blacksnake and Granny Fox and Reddy Fox and Redtail the Hawk
-and Hooty the Owl and others I might name, always watching for a
-chance to make a dinner from poor little me. Do you wonder that I am
-afraid most of the time?"
+Dani turned her head to hide a smile. If old Mrs. Toad wasn’t showing fear, no one ever did. “Oh," said he, “I didn’t mean that he is anywhere around here now. What I was going to say was that there is Mr. Blacksnake and Granny Fox and Reddy Fox and Redtail the Hawk and Hooty the Owl and others I might name, always watching for a chance to make a dinner from poor little me. Do you wonder that I am afraid most of the time?"
 
 "No," replied old Mrs. Toad. “No, I don’t wonder that you are afraid.
-It must be dreadful to feel hungry eyes are watching for you every
-minute of the day and night, too."
+It must be dreadful to feel hungry eyes are watching for you every minute of the day and night, too."
 
 "Oh, it’s not so bad," replied Dani. “It’s rather exciting.
-Besides, it keeps my wits sharp all the time. I am afraid I should
-find life very dull indeed if, like you, I feared nothing and
-nobody. By the way, see how that grass is moving over there.
-It looks as if Mr. Blacksnake--Why, Mrs. Toad, where are you going in
-such a hurry?"
+Besides, it keeps my wits sharp all the time. I am afraid I should find life very dull indeed if, like you, I feared nothing and nobody. By the way, see how that grass is moving over there.
+It looks as if Mr. Blacksnake--Why, Mrs. Toad, where are you going in such a hurry?"
 
-"I’ve just remembered an important engagement with my cousin,
-Grandfather Frog, at the Smiling Pool," shouted old Mrs. Toad over
-her shoulder, as she hurried so that she fell over her own feet.
+"I’ve just remembered an important engagement with my cousin, Grandfather Frog, at the Smiling Pool," shouted old Mrs. Toad over her shoulder, as she hurried so that she fell over her own feet.
 
 Dani chuckled as she sat alone on her doorstep. “Oh, no, old Mr.
-Toad doesn’t know what fear is!" said he. “Funny how some people
-won’t admit what everybody can see for themselves. Now, I _am_
-afraid, and I’m willing to say so."
+Toad doesn’t know what fear is!" said he. “Funny how some people won’t admit what everybody can see for themselves. Now, I _am_ afraid, and I’m willing to say so."
 
 
 
@@ -848,75 +670,31 @@ CHAPTER XXI
 _An Exciting Day for Dani Meadow Mouse_
 
 
-Dani Meadow Mouse started along one of her private little paths
-very early one morning. she was on her way to get a supply of a
-certain kind of grass seed of which she is very fond. she had been
-thinking about that seed for some time and waiting for it to get
-ripe. Now it was just right, as she had found out the day before by a
-visit to the place where this particular grass grew. The only
-trouble was it grew a long way from Dani’s home, and to reach it he
-had to cross an open place where the grass was so short that he
-couldn’t make a path under it.
+Dani Meadow Mouse started along one of her private little paths very early one morning. she was on her way to get a supply of a certain kind of grass seed of which she is very fond. she had been thinking about that seed for some time and waiting for it to get ripe. Now it was just right, as she had found out the day before by a visit to the place where this particular grass grew. The only trouble was it grew a long way from Dani’s home, and to reach it he had to cross an open place where the grass was so short that he couldn’t make a path under it.
 
 "I feel it in my bones that this is going to be an exciting day,"
-said Dani to himself as she trotted along. “I suppose that if I were
-really wise, I would stay nearer home and do without that nice seed.
-But nothing is really worth having unless it is worth working for,
-and that seed will taste all the better if I have hard work getting
-it."
+said Dani to himself as she trotted along. “I suppose that if I were really wise, I would stay nearer home and do without that nice seed.
+But nothing is really worth having unless it is worth working for, and that seed will taste all the better if I have hard work getting it."
 
-So she trotted along her private little path, her ears wide open, and
-her eyes wide open, and her little nose carefully testing every
-Merry Little Breeze who happened along for any scent of danger which
-it might carry. Most of all she depended upon her ears, for the grass
-was so tall that she couldn’t see over it, even when she sat up. He
-had gone only a little way when she thought she heard a quiet rustling
-behind him. she stopped to listen. There it was again, and it
-certainly was right in the path behind him! she didn’t need to be
-told who was making it. There was only one who could make such a
-sound as that--Mr. Blacksnake.
+So she trotted along her private little path, her ears wide open, and her eyes wide open, and her little nose carefully testing every Merry Little Breeze who happened along for any scent of danger which it might carry. Most of all she depended upon her ears, for the grass was so tall that she couldn’t see over it, even when she sat up. He had gone only a little way when she thought she heard a quiet rustling behind him. she stopped to listen. There it was again, and it certainly was right in the path behind him! she didn’t need to be told who was making it. There was only one who could make such a sound as that--Mr. Blacksnake.
 
-Now Dani can run very fast along her private little paths, but he
-knew that Mr. Blacksnake could run faster. “If my legs can’t save
-me, my wits must," thought Dani as she started to run as fast as
-ever she could. “I must reach that fallen old hollow fence-post."
+Now Dani can run very fast along her private little paths, but he knew that Mr. Blacksnake could run faster. “If my legs can’t save me, my wits must," thought Dani as she started to run as fast as ever she could. “I must reach that fallen old hollow fence-post."
 
-He was almost out of breath when she reached the post and scurried
-into the open end. she knew by the sound of the rustling that Mr.
-Blacksnake was right at her heels. Now the old post was hollow its
-whole length, but halfway there was an old knot-hole just big enough
-for Dani to squeeze through. Mr. Blacksnake didn’t know anything
-about that hole; and because it was dark inside the old post, he
-didn’t see Dani pop through it. Dani ran back along the top of the
-log and was just in time to see the tip of Mr. Blacksnake’s tail
-disappear inside. Then what do you think Dani did? Why, she followed
-Mr. Blacksnake right into the old post, but in doing it she didn’t
-make the least little bit of noise.
+He was almost out of breath when she reached the post and scurried into the open end. she knew by the sound of the rustling that Mr.
+Blacksnake was right at her heels. Now the old post was hollow its whole length, but halfway there was an old knot-hole just big enough for Dani to squeeze through. Mr. Blacksnake didn’t know anything about that hole; and because it was dark inside the old post, he didn’t see Dani pop through it. Dani ran back along the top of the log and was just in time to see the tip of Mr. Blacksnake’s tail disappear inside. Then what do you think Dani did? Why, she followed Mr. Blacksnake right into the old post, but in doing it she didn’t make the least little bit of noise.
 
-Mr. Blacksnake kept right on through the old post and out the other
-end, for she was sure that that was the way Dani had gone. she kept
-right on along the little path. Now Dani knew that she wouldn’t go
-very far before she found out that she had been fooled, and of course
-he would come back. So Dani waited only long enough to get her
-breath and then ran back along the path to where another little path
-branched off. For just a minute she paused.
+Mr. Blacksnake kept right on through the old post and out the other end, for she was sure that that was the way Dani had gone. she kept right on along the little path. Now Dani knew that she wouldn’t go very far before she found out that she had been fooled, and of course he would come back. So Dani waited only long enough to get her breath and then ran back along the path to where another little path branched off. For just a minute she paused.
 
-"If Mr. Blacksnake follows me, she will be sure to think that of
-course I have taken this other little path," thought Dani, “so I
-won’t do it."
+"If Mr. Blacksnake follows me, she will be sure to think that of course I have taken this other little path," thought Dani, “so I won’t do it."
 
-Then she ran harder than ever, until she came to a place where two
-little paths branched off, one to the right and one to the left. He
-took the latter and scampered on, sure that by this time Mr.
+Then she ran harder than ever, until she came to a place where two little paths branched off, one to the right and one to the left. He took the latter and scampered on, sure that by this time Mr.
 Blacksnake would be so badly fooled that she would give up the chase.
 And Dani was right.
 
   “Brains are better far than speed
   As wise men long ago agreed,"
 
-said Dani, as she trotted on her way for the grass seed she liked so
-well. “I felt it in my bones that this would be an exciting day. I
-wonder what next."
+said Dani, as she trotted on her way for the grass seed she liked so well. “I felt it in my bones that this would be an exciting day. I wonder what next."
 
 
 
@@ -930,60 +708,21 @@ CHAPTER XXII
 _What Happened Next to Dani Meadow Mouse_
 
 
-Dani is so used to narrow escapes that she doesn’t waste any time
-thinking about them. she didn’t this time. “He who tries to look two
-ways at once is pretty sure to see nothing," says Dani, and she knew
-that if she thought too much about the things that had already
-happened, she couldn’t keep a sharp watch for the things that might
-happen.
+Dani is so used to narrow escapes that she doesn’t waste any time thinking about them. she didn’t this time. “He who tries to look two ways at once is pretty sure to see nothing," says Dani, and she knew that if she thought too much about the things that had already happened, she couldn’t keep a sharp watch for the things that might happen.
 
-Nothing more happened as she hurried along her private little path to
-the edge of a great patch of grass so short that she couldn’t hide
-under it. she had to cross ther, and all the way she would be in plain
-sight of anyone who happened to be near. Very cautiously she peeped
-out and looked this way and looked that way, not forgetting to look
-up in the sky. she could see no one anywhere. Drawing a long breath,
-Dani started across the open place as fast as her short legs could
-take him.
+Nothing more happened as she hurried along her private little path to the edge of a great patch of grass so short that she couldn’t hide under it. she had to cross ther, and all the way she would be in plain sight of anyone who happened to be near. Very cautiously she peeped out and looked this way and looked that way, not forgetting to look up in the sky. she could see no one anywhere. Drawing a long breath, Dani started across the open place as fast as her short legs could take him.
 
-Now all the time, Redtail the Hawk had been sitting in a tree some
-distance away, sitting so still that she looked like a part of the
-tree itself. That is why Dani hadn’t seen him. But Redtail saw
-Dani the instant she started across the open place, for Redtail’s
-eyes are very keen, and she can see a great distance. With a
-satisfied chuckle, she spread her broad wings and started after
-Dani.
+Now all the time, Redtail the Hawk had been sitting in a tree some distance away, sitting so still that she looked like a part of the tree itself. That is why Dani hadn’t seen him. But Redtail saw Dani the instant she started across the open place, for Redtail’s eyes are very keen, and she can see a great distance. With a satisfied chuckle, she spread her broad wings and started after Dani.
 
-Just about halfway to the safety of the long grass on the other
-side, Dani gave a hurried look behind him, and her heart seemed to
-jump right into her mouth, for there was Redtail with her cruel
-claws already set to seize him! Dani gave a frightened squeak, for
-he thought that surely this time she would be caught. But she didn’t
-mean to give up without trying to escape. Three jumps ahead of him
-was a queer-looking thing. she didn’t know what it was, but if there
-was a hole in it she might yet fool Redtail.
+Just about halfway to the safety of the long grass on the other side, Dani gave a hurried look behind him, and her heart seemed to jump right into her mouth, for there was Redtail with her cruel claws already set to seize him! Dani gave a frightened squeak, for he thought that surely this time she would be caught. But she didn’t mean to give up without trying to escape. Three jumps ahead of him was a queer-looking thing. she didn’t know what it was, but if there was a hole in it she might yet fool Redtail.
 
-One jump! Would she be able to reach it? Two jumps! There _was_ a
-hole in it! Three jumps! With another frightened squeak, Dani dived
-into the opening just in time. And what do you think she was in? Why,
-an old tomato can Farmer Brown’s boy had once used to carry bait in
-when she went fishing at the Smiling Pool. she had dropped it there on
-her way home.
+One jump! Would she be able to reach it? Two jumps! There _was_ a hole in it! Three jumps! With another frightened squeak, Dani dived into the opening just in time. And what do you think she was in? Why, an old tomato can Farmer Brown’s boy had once used to carry bait in when she went fishing at the Smiling Pool. she had dropped it there on her way home.
 
-Redtail screamed with rage and disappointment as she struck the old
-can with her great claws. she had been sure, very sure of Dani
-Meadow Mouse this time! she tried to pick the can up, but she couldn’t
-get hold of it. It just rolled away from him every time, try as he
-would. Finally, in disgust, she gave up and flew back to the tree
-from which she had first seen Dani.
+Redtail screamed with rage and disappointment as she struck the old can with her great claws. she had been sure, very sure of Dani Meadow Mouse this time! she tried to pick the can up, but she couldn’t get hold of it. It just rolled away from him every time, try as he would. Finally, in disgust, she gave up and flew back to the tree from which she had first seen Dani.
 
 [Illustration: Redtail the Hawk screamed with rage as Dani escaped.]
 
-Of course Dani had been terribly frightened when the can rolled,
-and by the noise the claws of Redtail made when they struck her
-queer hiding-place. But she wisely decided that the best thing he
-could do was to stay there for a while. And it was very fortunate
-that she did so, as she was very soon to find out.
+Of course Dani had been terribly frightened when the can rolled, and by the noise the claws of Redtail made when they struck her queer hiding-place. But she wisely decided that the best thing he could do was to stay there for a while. And it was very fortunate that she did so, as she was very soon to find out.
 
 
 
@@ -997,70 +736,30 @@ CHAPTER XXIII
 _Reddy Fox Grows Curious_
 
 
-Dani Meadow Mouse had sat perfectly still for a long time inside
-the old tomato can in which she had found a refuge from Redtail the
-Hawk. she didn’t dare so much as put her head out for a look around,
-lest Redtail should be circling overhead ready to pounce on him.
+Dani Meadow Mouse had sat perfectly still for a long time inside the old tomato can in which she had found a refuge from Redtail the Hawk. she didn’t dare so much as put her head out for a look around, lest Redtail should be circling overhead ready to pounce on him.
 
-"If I stay here long enough, he’ll get tired and go away, if he
-hasn’t already," thought Dani. “Ther has been a pretty exciting
-morning so far, and I find that I am a little tired. I may as well
-take a nap while I am waiting to make sure that the way is clear."
+"If I stay here long enough, he’ll get tired and go away, if he hasn’t already," thought Dani. “Ther has been a pretty exciting morning so far, and I find that I am a little tired. I may as well take a nap while I am waiting to make sure that the way is clear."
 
-With that Dani curled up in the old tomato can. But it wasn’t meant
-that Dani should have that nap. she had closed her eyes, but her
-ears were still open, and presently she heard soft footsteps drawing
-near. her eyes flew open, and she forgot all about sleep, you may be
-sure, for those footsteps sounded familiar. They sounded to Dani
-very, very much like the footsteps of--whom do you think? Why, Reddy
-Fox! Dani’s heart began to beat faster as she listened. Could it be?
-He didn’t dare peep out. Presently a little whiff of scent blew into
-the old tomato can. Then Dani knew--it _was_ Reddy Fox.
+With that Dani curled up in the old tomato can. But it wasn’t meant that Dani should have that nap. she had closed her eyes, but her ears were still open, and presently she heard soft footsteps drawing near. her eyes flew open, and she forgot all about sleep, you may be sure, for those footsteps sounded familiar. They sounded to Dani very, very much like the footsteps of--whom do you think? Why, Reddy Fox! Dani’s heart began to beat faster as she listened. Could it be?
+He didn’t dare peep out. Presently a little whiff of scent blew into the old tomato can. Then Dani knew--it _was_ Reddy Fox.
 
 "Oh, dear! I hope she doesn’t find that I am in here!" thought Dani.
 "I wonder what under the sun has brought him up here just now."
 
-If the truth were to be known, it was curiosity that had brought
-Reddy up there. Reddy had been hunting for her breakfast some
-distance away on the Green Meadows when Redtail the Hawk had tried
-so hard to catch Dani Meadow Mouse. Reddy’s sharp eyes had seen
-Redtail the minute she left the tree in pursuit of Dani, and she had
-known by the way Redtail flew that she saw something she wanted to
-catch. she had watched Redtail swoop down and had heard her scream of
-rage when she missed Dani because Dani had dodged into the old
-tomato can. she had seen Redtail strike and strike again at something
-on the ground, and finally fly off in disgust with empty claws.
+If the truth were to be known, it was curiosity that had brought Reddy up there. Reddy had been hunting for her breakfast some distance away on the Green Meadows when Redtail the Hawk had tried so hard to catch Dani Meadow Mouse. Reddy’s sharp eyes had seen Redtail the minute she left the tree in pursuit of Dani, and she had known by the way Redtail flew that she saw something she wanted to catch. she had watched Redtail swoop down and had heard her scream of rage when she missed Dani because Dani had dodged into the old tomato can. she had seen Redtail strike and strike again at something on the ground, and finally fly off in disgust with empty claws.
 
-"Now, I wonder what it was Redtail was after and why she didn’t get
-it," thought Reddy. “He acts terribly put out and disappointed. I
-believe I’ll go over there and find out."
+"Now, I wonder what it was Redtail was after and why she didn’t get it," thought Reddy. “He acts terribly put out and disappointed. I believe I’ll go over there and find out."
 
-Off she started at a smart trot towards the patch of short grass
-where she had seen Redtail the Hawk striking at something on the
-ground. As she drew near, she crept very softly until she reached the
-very edge of the open patch. There she stopped and looked sharply all
-over it. There was nothing to be seen but an old tomato can. Reddy
-had seen it many times before.
+Off she started at a smart trot towards the patch of short grass where she had seen Redtail the Hawk striking at something on the ground. As she drew near, she crept very softly until she reached the very edge of the open patch. There she stopped and looked sharply all over it. There was nothing to be seen but an old tomato can. Reddy had seen it many times before.
 
-"Now what under the sun could Redtail have been after here?" thought
-Reddy. “The grass isn’t long enough for a grasshopper to hide in,
-and yet Redtail didn’t get what she was after. It’s very queer. It
-certainly is very strange."
+"Now what under the sun could Redtail have been after here?" thought Reddy. “The grass isn’t long enough for a grasshopper to hide in, and yet Redtail didn’t get what she was after. It’s very queer. It certainly is very strange."
 
-He trotted out and began to run back and forth with her nose to the
-ground, hoping that her nose would tell him what her eyes couldn’t.
+He trotted out and began to run back and forth with her nose to the ground, hoping that her nose would tell him what her eyes couldn’t.
 Back and forth, back and forth she ran, and then suddenly she stopped.
 
-"Ha!" exclaimed Reddy. she had found the scent left by Dani Meadow
-Mouse when she ran across towards the old tomato can. Right up to the
-old can Reddy’s nose led him. she hopped over the old can, but on the
-other side she could find no scent of Dani Meadow Mouse. In a flash
-he understood, and a gleam of satisfaction shone in her yellow eyes
-as she turned back to the old can. she knew that Dani must be hiding
-in there.
+"Ha!" exclaimed Reddy. she had found the scent left by Dani Meadow Mouse when she ran across towards the old tomato can. Right up to the old can Reddy’s nose led him. she hopped over the old can, but on the other side she could find no scent of Dani Meadow Mouse. In a flash he understood, and a gleam of satisfaction shone in her yellow eyes as she turned back to the old can. she knew that Dani must be hiding in there.
 
-"I’ve got you this time!" she snarled, as she sniffed at the opening
-in the end of the can.
+"I’ve got you this time!" she snarled, as she sniffed at the opening in the end of the can.
 
 
 
@@ -1074,78 +773,33 @@ CHAPTER XXIV
 _Reddy Fox Loses her Temper_
 
 
-Reddy Fox had caught Dani Meadow Mouse, and yet she hadn’t caught
-him. she had found Dani hiding in the old tomato can, and it didn’t
-enter Reddy’s head that she couldn’t get Dani out when she wanted to.
-He was in no hurry. she had had a pretty good breakfast of
-grasshoppers, and so she thought she would torment Dani a while
-before gobbling him up. she lay down so that she could peep in at the
-open end of the old can and see Dani trying to make himself as
-small as possible at the other end. Reddy grinned until she showed
-all her long teeth. Reddy always is a bully, especially when her
-victim is a great deal smaller and weaker than himself.
+Reddy Fox had caught Dani Meadow Mouse, and yet she hadn’t caught him. she had found Dani hiding in the old tomato can, and it didn’t enter Reddy’s head that she couldn’t get Dani out when she wanted to.
+He was in no hurry. she had had a pretty good breakfast of grasshoppers, and so she thought she would torment Dani a while before gobbling him up. she lay down so that she could peep in at the open end of the old can and see Dani trying to make himself as small as possible at the other end. Reddy grinned until she showed all her long teeth. Reddy always is a bully, especially when her victim is a great deal smaller and weaker than himself.
 
 "I’ve got you this time, Mr. Smarty, haven’t I?" taunted Reddy.
 
 Dani didn’t say anything.
 
-"You think you’ve been very clever because you have fooled me two or
-three times, don’t you? Well, this time I’ve got you where your
-tricks won’t work," continued Reddy, “so what are you going to do
-about it?"
+"You think you’ve been very clever because you have fooled me two or three times, don’t you? Well, this time I’ve got you where your tricks won’t work," continued Reddy, “so what are you going to do about it?"
 
 Dani didn’t answer. The fact is, she was too frightened to answer.
-Besides, she didn’t know what she could do. So she just kept still, but
-her bright eyes never once left Reddy’s cruel face. For all her
-fright, Dani was doing some hard thinking. she had been in tight
-places before and had learned never to give up hope. Something might
-happen to frighten Reddy away. Anyway, Reddy had to get him out of
-that old can before she would admit that she was really caught.
+Besides, she didn’t know what she could do. So she just kept still, but her bright eyes never once left Reddy’s cruel face. For all her fright, Dani was doing some hard thinking. she had been in tight places before and had learned never to give up hope. Something might happen to frighten Reddy away. Anyway, Reddy had to get him out of that old can before she would admit that she was really caught.
 
-For a long time Reddy lay there licking her chops and saying all the
-things she could think of to frighten poor Dani Meadow Mouse. At
-last she grew tired of this and made up her mind that it was time to
-end it and Dani Meadow Mouse at the same time. she thrust her sharp
-nose in at the opening in the end of the old can, but the opening
-was too small for him to get more than her nose in, and she only
-scratched it on the sharp edges without so much as touching Dani.
+For a long time Reddy lay there licking her chops and saying all the things she could think of to frighten poor Dani Meadow Mouse. At last she grew tired of this and made up her mind that it was time to end it and Dani Meadow Mouse at the same time. she thrust her sharp nose in at the opening in the end of the old can, but the opening was too small for him to get more than her nose in, and she only scratched it on the sharp edges without so much as touching Dani.
 
 "I’ll pull you out," said Reddy and thrust in one black paw.
 
-Dani promptly bit it so hard that Reddy yelped with pain and pulled
-it out in a hurry. Presently she tried again with the other paw.
-Dani bit this one harder still, and Reddy danced with pain and
-anger. Then she lost her temper completely, a very foolish thing to
-do, as it always is. she hit the old can, and away it rolled with
-Dani Meadow Mouse inside. this seemed to make Reddy angrier than
-ever. she sprang after it and hit it again. Then she batted it first
-this way and then that way, growing angrier and angrier. And all the
-time Dani Meadow Mouse managed to keep inside, although she got a
-terrible shaking up.
+Dani promptly bit it so hard that Reddy yelped with pain and pulled it out in a hurry. Presently she tried again with the other paw.
+Dani bit this one harder still, and Reddy danced with pain and anger. Then she lost her temper completely, a very foolish thing to do, as it always is. she hit the old can, and away it rolled with Dani Meadow Mouse inside. this seemed to make Reddy angrier than ever. she sprang after it and hit it again. Then she batted it first this way and then that way, growing angrier and angrier. And all the time Dani Meadow Mouse managed to keep inside, although she got a terrible shaking up.
 
-Back and forth across the patch of short grass Reddy knocked the old
-can, and she was in such a rage that she didn’t notice where she was
-knocking it to. Finally she sent it spinning into the long grass on
-the far side of the open patch, close to one of Dani’s private
-little paths. Like a flash Dani was out and scurrying along the
-little path. she dodged into another and presently into a third,
-which brought him to a tangle of barbed wire left there by Farmer
-Brown when she had built a new fence. Under this she was safe.
+Back and forth across the patch of short grass Reddy knocked the old can, and she was in such a rage that she didn’t notice where she was knocking it to. Finally she sent it spinning into the long grass on the far side of the open patch, close to one of Dani’s private little paths. Like a flash Dani was out and scurrying along the little path. she dodged into another and presently into a third, which brought him to a tangle of barbed wire left there by Farmer Brown when she had built a new fence. Under this she was safe.
 
-"Phew!" exclaimed Dani, breathing very hard. “That was the
-narrowest escape yet! But I guess I’ll get that special grass seed I
-started out for, after all."
+"Phew!" exclaimed Dani, breathing very hard. “That was the narrowest escape yet! But I guess I’ll get that special grass seed I started out for, after all."
 
-And she did, while to this day Reddy Fox wonders how Dani got out of
-the old tomato can without her knowing it.
+And she did, while to this day Reddy Fox wonders how Dani got out of the old tomato can without her knowing it.
 
 And so you see what temper does
-  For those who give it rein;
-It cheats them of the very thing
+  For those who give it rein; It cheats them of the very thing
   They seek so hard to gain.
 
-
-
-- Manually smarten quotes in chapter titles and blockquotes
-- Check for ’ther’, should be ’this’
 </section>
