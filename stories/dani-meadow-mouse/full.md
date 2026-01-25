@@ -1,38 +1,12 @@
 ---
-eleventyExcludeFromCollections: true
 layout: stories
-title: "Dani Meadow Mouse"
 tags: stories
+title: Dani Meadow Mouse
 slug: dani-meadow-mouse
 date: 1915-05-01
 season: ❄️ winter
+permalink: /dani-meadow-mouse/
 ---
-
-1. [Dani Meadow Mouse Is Worried](#ch1)
-2. [Dani Meadow Mouse and her Short Tail](#ch2)
-3. [Dani Meadow Mouse Plays Hide and Seek](#ch3)
-4. [Old Granny Fox Tries for Dani Meadow Mouse](#ch4)
-5. [What Happened on the Green Meadows](#ch5)
-6. [Dani Meadow Mouse Remembers and Reddy Fox Forgets](#ch6)
-7. [Old Granny Fox Tries a New Plan](#ch7)
-8. [Brother North Wind Proves a Friend](#ch8)
-9. [Dani Meadow Mouse Is Caught at Last](#ch9)
-10. [A Strange Ride and How It Ended](#ch10)
-11. [Peter Rabbit Gets a Fright](#ch11)
-12. [The Old Briar Patch Has a New Tenant](#ch12)
-13. [Peter Rabbit Visits the Peach Orchard](#ch13)
-14. [Farmer Brown Sets a Trap](#ch14)
-15. [Peter Rabbit Is Caught in a Snare](#ch15)
-16. [Peter Rabbit’s Hard Journey](#ch16)
-17. [Dani Meadow Mouse Becomes Worried](#ch17)
-18. [Dani Meadow Mouse Returns a Kindness](#ch18)
-19. [Peter Rabbit and Dani Meadow Mouse Live High](#ch19)
-20. [Timid Dani Meadow Mouse](#ch20)
-21. [An Exciting Day for Dani Meadow Mouse](#ch21)
-22. [What Happened Next to Dani Meadow Mouse](#ch22)
-23. [Reddy Fox Grows Curious](#ch23)
-24. [Reddy Fox Loses Her Temper](#ch24)
-
 
 <section class="chapter-set">
 
@@ -40,7 +14,7 @@ season: ❄️ winter
 
   <aside class="illo">
     <figure>
-      <img src="../images/dani/dani-and-mrs-toad.jpg" />
+      <img src="/images/dani/dani-and-mrs-toad.jpg" />
       <figcaption>Old Mrs. Toad gave Dani some good advice.</figcaption>
     </figure>
   </aside>
@@ -112,7 +86,7 @@ season: ❄️ winter
 
 <aside class="illo">
   <figure>
-    <img src="images/fox-in-the-tunnel.jpg" />
+    <img src="/images/dani/fox-in-the-tunnel.jpg" />
     <figcaption>Plunge! Granny Fox tries to catch Dani.</figcaption>
   </figure>
 </aside>
@@ -203,7 +177,7 @@ season: ❄️ winter
 
 <aside class="illo">
   <figure>
-    <img src="images/hollow-fence-post.jpg" />
+    <img src="/images/dani/hollow-fence-post.jpg" />
     <figcaption>Safe in the hollow of the old fence-post.</figcaption>
   </figure>
 </aside>
@@ -289,7 +263,7 @@ season: ❄️ winter
 
 <aside class="illo">
   <figure>
-    <img src="images/hooty.jpg" />
+    <img src="/images/dani/hooty.jpg" />
     <figcaption>Dani Meadow Mouse was caught at last!</figcaption>
   </figure>
 </aside>
@@ -387,7 +361,7 @@ season: ❄️ winter
 
 <aside class="illo">
   <figure>
-    <img src="images/peter-trees.jpg" />
+    <img src="/images/dani/peter-trees.jpg" />
     <figcaption>Peter Rabbit hurried along through the moonlight.</figcaption>
   </figure>
 </aside>
@@ -736,3 +710,34 @@ Peter had been caught in a snare! Dani hurried over to Peter and tears stood in 
 </blockquote>
 
 </section>
+
+<nav id="nav" class="shown">
+  <section class="toc">
+    <ol>
+      <li><a href="#ch1">Dani Meadow Mouse Is Worried</a></li>
+      <li><a href="#ch2">Dani Meadow Mouse and Her Short Tail</a></li>
+      <li><a href="#ch3">Dani Meadow Mouse Plays Hide and Seek</a></li>
+      <li><a href="#ch4">Old Granny Fox Tries for Dani Meadow Mouse</a></li>
+      <li><a href="#ch5">What Happened on the Green Meadows</a></li>
+      <li><a href="#ch6">Dani Meadow Mouse Remembers and Reddy Fox Forgets</a></li>
+      <li><a href="#ch7">Old Granny Fox Tries a New Plan</a></li>
+      <li><a href="#ch8">Brother North Wind Proves a Friend</a></li>
+      <li><a href="#ch9">Dani Meadow Mouse Is Caught at Last</a></li>
+      <li><a href="#ch10">A Strange Ride and How It Ended</a></li>
+      <li><a href="#ch11">Peter Rabbit Gets a Fright</a></li>
+      <li><a href="#ch12">The Old Briar-patch Has a New Tenant</a></li>
+      <li><a href="#ch13">Peter Rabbit Visits the Peach Orchard</a></li>
+      <li><a href="#ch14">Farmer Brown Sets a Trap</a></li>
+      <li><a href="#ch15">Peter Rabbit Is Caught in a Snare</a></li>
+      <li><a href="#ch16">Peter Rabbit's Hard Journey</a></li>
+      <li><a href="#ch17">Dani Meadow Mouse Becomes Worried</a></li>
+      <li><a href="#ch18">Dani Meadow Mouse Returns a Kindness</a></li>
+      <li><a href="#ch19">Peter Rabbit and Dani Meadow Mouse Live High</a></li>
+      <li><a href="#ch20">Timid Dani Meadow Mouse</a></li>
+      <li><a href="#ch21">An Exciting Day for Dani Meadow Mouse</a></li>
+      <li><a href="#ch22">What Happened Next to Dani Meadow Mouse</a></li>
+      <li><a href="#ch23">Reddy Fox Grows Curious</a></li>
+      <li><a href="#ch24">Reddy Fox Loses Her Temper</a></li>
+    </ol>
+  </section>
+</nav>

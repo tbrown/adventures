@@ -5,7 +5,7 @@ title: <em>The Adventures of&hellip;</em>
 
 <div id="home">
   <ul class="posts">
-    {%- for post in collections.stories -%}
+    {%- for post in collections.mainStories -%}
       <a class="{{ post.data.slug }}" href="{{ post.url }}">
       <li>
           <img src="/images/thumb-{{post.data.slug}}.png" alt="" width="100%"/>
