@@ -4,8 +4,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width">
 	<title>{{page.title}}</title>
-  
-  <!-- Styles 
+
+  <!-- Styles
 	<link rel="stylesheet" href="{{site.baseurl}}/styles/main.css">-->
     <link rel="stylesheet" href="/bundle.css">
 
@@ -20,4 +20,22 @@
 
 <!-- Fathom website analytics -->
 	<script src="https://cdn.usefathom.com/script.js" data-site="XUORXCNJ" defer></script>
+
+<!-- Level switcher persistence -->
+<script>
+(function() {
+  var defined = {{ storyLevels | json }};
+  var saved = localStorage.getItem('readingLevel');
+  var current = '{{ level }}' || '';
+  var slug = '{{ slug }}' || '';
+
+  // On story pages, redirect if saved level differs from current
+  if (slug && defined[slug] && saved && saved !== current) {
+    var target = saved ? '/' + slug + '-' + saved + '/' : '/' + slug + '/';
+    if (window.location.pathname !== target) {
+      window.location.replace(target);
+    }
+  }
+})();
+</script>
 </head>

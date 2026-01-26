@@ -4,8 +4,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width">
 	<title></title>
-  
-  <!-- Styles 
+
+  <!-- Styles
 	<link rel="stylesheet" href="/styles/main.css">-->
     <link rel="stylesheet" href="/bundle.css">
 
@@ -20,9 +20,35 @@
 
 <!-- Fathom website analytics -->
 	<script src="https://cdn.usefathom.com/script.js" data-site="XUORXCNJ" defer></script>
+
+<!-- Level switcher persistence -->
+<script>
+(function() {
+  var defined = {"dani-meadow-mouse":[16,22]};
+  var saved = localStorage.getItem('readingLevel');
+  var current = '' || '';
+  var slug = '' || '';
+
+  // On story pages, redirect if saved level differs from current
+  if (slug && defined[slug] && saved && saved !== current) {
+    var target = saved ? '/' + slug + '-' + saved + '/' : '/' + slug + '/';
+    if (window.location.pathname !== target) {
+      window.location.replace(target);
+    }
+  }
+})();
+</script>
 </head>
 
 <body class="">
+
+<section class="site-stuff">
+  <select id="level-switcher" onchange="setLevel(this.value)">
+    <option value="">Full Text</option>
+    <option value="22">Level 22</option>
+    <option value="16">Level 16</option>
+  </select>
+</section>
 
 <header class="large">
 	<!--<p><i>The Famous Bedtime Story Books</i></p>
@@ -103,6 +129,21 @@
        else
           e.className = 'hidden';
     }
+
+    function setLevel(level) {
+      if (level) {
+        localStorage.setItem('readingLevel', level);
+      } else {
+        localStorage.removeItem('readingLevel');
+      }
+    }
+
+    // Set dropdown to saved level on load
+    (function() {
+      var saved = localStorage.getItem('readingLevel') || '';
+      var sel = document.getElementById('level-switcher');
+      if (sel) sel.value = saved;
+    })();
 //-->
 </script>
 </body>

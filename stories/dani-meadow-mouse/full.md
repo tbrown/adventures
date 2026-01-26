@@ -659,28 +659,28 @@ Peter had been caught in a snare! Dani hurried over to Peter and tears stood in 
 
 <p>With that Dani curled up in the old tomato can. But it wasn't meant that Dani should have that nap. She had closed her eyes, but her ears were still open, and presently she heard soft footsteps drawing near. Her eyes flew open, and she forgot all about sleep, you may be sure, for those footsteps sounded familiar. They sounded to Dani very, very much like the footsteps of—whom do you think? Why, Reddy Fox! Dani's heart began to beat faster as she listened. Could it be? She didn't dare peep out. Presently a little whiff of scent blew into the old tomato can. Then Dani knew—it <em>was</em> Reddy Fox.</p>
 
-<p class="q">"Oh, dear! I hope she doesn't find that I am in here!" thought Dani. "I wonder what under the sun has brought her up here just now."</p>
+<p class="q">"Oh, dear! I hope he doesn't find that I am in here!" thought Dani. "I wonder what under the sun has brought him up here just now."</p>
 
-<p>If the truth were to be known, it was curiosity that had brought Reddy up there. Reddy had been hunting for her breakfast some distance away on the Green Meadows when Redtail the Hawk had tried so hard to catch Dani Meadow Mouse. Reddy's sharp eyes had seen Redtail the minute she left the tree in pursuit of Dani, and she had known by the way Redtail flew that she saw something she wanted to catch. She had watched Redtail swoop down and had heard her scream of rage when she missed Dani because Dani had dodged into the old tomato can. She had seen Redtail strike and strike again at something on the ground, and finally fly off in disgust with empty claws.</p>
+<p>If the truth were to be known, it was curiosity that had brought Reddy up there. Reddy had been hunting for his breakfast some distance away on the Green Meadows when Redtail the Hawk had tried so hard to catch Dani Meadow Mouse. Reddy's sharp eyes had seen Redtail the minute she left the tree in pursuit of Dani, and he had known by the way Redtail flew that she saw something she wanted to catch. He had watched Redtail swoop down and had heard her scream of rage when she missed Dani because Dani had dodged into the old tomato can. He had seen Redtail strike and strike again at something on the ground, and finally fly off in disgust with empty claws.</p>
 
 <p class="q">"Now, I wonder what it was Redtail was after and why she didn't get it," thought Reddy. "She acts terribly put out and disappointed. I believe I'll go over there and find out."</p>
 
-<p>Off she started at a smart trot towards the patch of short grass where she had seen Redtail the Hawk striking at something on the ground. As she drew near, she crept very softly until she reached the very edge of the open patch. There she stopped and looked sharply all over it. There was nothing to be seen but an old tomato can. Reddy had seen it many times before.</p>
+<p>Off he started at a smart trot towards the patch of short grass where he had seen Redtail the Hawk striking at something on the ground. As he drew near, he crept very softly until he reached the very edge of the open patch. There he stopped and looked sharply all over it. There was nothing to be seen but an old tomato can. Reddy had seen it many times before.</p>
 
 <p class="q">"Now what under the sun could Redtail have been after here?" thought Reddy. "The grass isn't long enough for a grasshopper to hide in, and yet Redtail didn't get what she was after. It's very strange. It certainly is very strange."</p>
 
-<p>She trotted out and began to run back and forth with her nose to the ground, hoping that her nose would tell her what her eyes couldn't. Back and forth, back and forth she ran, and then suddenly she stopped.</p>
+<p>He trotted out and began to run back and forth with his nose to the ground, hoping that his nose would tell him what his eyes couldn't. Back and forth, back and forth he ran, and then suddenly he stopped.</p>
 
-<p class="q">"Ha!" exclaimed Reddy. She had found the scent left by Dani Meadow Mouse when she ran across towards the old tomato can. Right up to the old can Reddy's nose led her. She hopped over the old can, but on the other side she could find no scent of Dani Meadow Mouse. In a flash she understood, and a gleam of satisfaction shone in her yellow eyes as she turned back to the old can. She knew that Dani must be hiding in there.</p>
+<p class="q">"Ha!" exclaimed Reddy. He had found the scent left by Dani Meadow Mouse when she ran across towards the old tomato can. Right up to the old can Reddy's nose led him. He hopped over the old can, but on the other side he could find no scent of Dani Meadow Mouse. In a flash he understood, and a gleam of satisfaction shone in his yellow eyes as he turned back to the old can. He knew that Dani must be hiding in there.</p>
 
-<p class="q">"I've got you this time!" she snarled, as she sniffed at the opening in the end of the can.</p>
-
-
+<p class="q">"I've got you this time!" he snarled, as he sniffed at the opening in the end of the can.</p>
 
 
-<h2 id="ch24"><a href="#ch24"><span>XXIV</span> Reddy Fox Loses Her Temper</a></h2>
 
-<p>Reddy Fox had caught Dani Meadow Mouse, and yet she hadn't caught her. She had found Dani hiding in the old tomato can, and it didn't enter Reddy's head that she couldn't get Dani out when she wanted to. She was in no hurry. She had had a pretty good breakfast of grasshoppers, and so she thought she would torment Dani a while before gobbling her up. She lay down so that she could peep in at the open end of the old can and see Dani trying to make herself as small as possible at the other end. Reddy grinned until she showed all her long teeth. Reddy always is a bully, especially when her victim is a great deal smaller and weaker than herself.</p>
+
+<h2 id="ch24"><a href="#ch24"><span>XXIV</span> Reddy Fox Loses His Temper</a></h2>
+
+<p>Reddy Fox had caught Dani Meadow Mouse, and yet he hadn't caught her. He had found Dani hiding in the old tomato can, and it didn't enter Reddy's head that he couldn't get Dani out when he wanted to. He was in no hurry. He had had a pretty good breakfast of grasshoppers, and so he thought he would torment Dani a while before gobbling her up. He lay down so that he could peep in at the open end of the old can and see Dani trying to make herself as small as possible at the other end. Reddy grinned until he showed all his long teeth. Reddy always is a bully, especially when his victim is a great deal smaller and weaker than himself.</p>
 
 <p class="q">"I've got you this time, Miss Smarty, haven't I?" taunted Reddy.</p>
 
@@ -690,17 +690,17 @@ Peter had been caught in a snare! Dani hurried over to Peter and tears stood in 
 
 <p>Dani didn't answer. The fact is, she was too frightened to answer. Besides, she didn't know what she could do. So she just kept still, but her bright eyes never once left Reddy's cruel face. For all her fright, Dani was doing some hard thinking. She had been in tight places before and had learned never to give up hope. Something might happen to frighten Reddy away. Anyway, Reddy had to get her out of that old can before she would admit that she was really caught.</p>
 
-<p>For a long time Reddy lay there licking her chops and saying all the things she could think of to frighten poor Dani Meadow Mouse. At last she grew tired of this and made up her mind that it was time to end it and Dani Meadow Mouse at the same time. She thrust her sharp nose in at the opening in the end of the old can, but the opening was too small for her to get more than her nose in, and she only scratched it on the sharp edges without so much as touching Dani.</p>
+<p>For a long time Reddy lay there licking his chops and saying all the things he could think of to frighten poor Dani Meadow Mouse. At last he grew tired of this and made up his mind that it was time to end it and Dani Meadow Mouse at the same time. He thrust his sharp nose in at the opening in the end of the old can, but the opening was too small for him to get more than his nose in, and he only scratched it on the sharp edges without so much as touching Dani.</p>
 
 <p class="q">"I'll pull you out," said Reddy and thrust in one black paw.</p>
 
-<p>Dani promptly bit it so hard that Reddy yelped with pain and pulled it out in a hurry. Presently she tried again with the other paw. Dani bit this one harder still, and Reddy danced with pain and anger. Then she lost her temper completely, a very foolish thing to do, as it always is. She hit the old can, and away it rolled with Dani Meadow Mouse inside. This seemed to make Reddy angrier than ever. She sprang after it and hit it again. Then she batted it first this way and then that way, growing angrier and angrier. And all the time Dani Meadow Mouse managed to keep inside, although she got a terrible shaking up.</p>
+<p>Dani promptly bit it so hard that Reddy yelped with pain and pulled it out in a hurry. Presently he tried again with the other paw. Dani bit this one harder still, and Reddy danced with pain and anger. Then he lost his temper completely, a very foolish thing to do, as it always is. He hit the old can, and away it rolled with Dani Meadow Mouse inside. This seemed to make Reddy angrier than ever. He sprang after it and hit it again. Then he batted it first this way and then that way, growing angrier and angrier. And all the time Dani Meadow Mouse managed to keep inside, although she got a terrible shaking up.</p>
 
-<p>Back and forth across the patch of short grass Reddy knocked the old can, and she was in such a rage that she didn't notice where she was knocking it to. Finally she sent it spinning into the long grass on the far side of the open patch, close to one of Dani's private little paths. Like a flash Dani was out and scurrying along the little path. She dodged into another and presently into a third, which brought her to a tangle of barbed wire left there by Farmer Brown when he had built a new fence. Under this she was safe.</p>
+<p>Back and forth across the patch of short grass Reddy knocked the old can, and he was in such a rage that he didn't notice where he was knocking it to. Finally he sent it spinning into the long grass on the far side of the open patch, close to one of Dani's private little paths. Like a flash Dani was out and scurrying along the little path. She dodged into another and presently into a third, which brought her to a tangle of barbed wire left there by Farmer Brown when he had built a new fence. Under this she was safe.</p>
 
 <p class="q">"Phew!" exclaimed Dani, breathing very hard. "That was the narrowest escape yet! But I guess I'll get that special grass seed I started out for, after all."</p>
 
-<p>And she did, while to this day Reddy Fox wonders how Dani got out of the old tomato can without her knowing it.</p>
+<p>And she did, while to this day Reddy Fox wonders how Dani got out of the old tomato can without his knowing it.</p>
 
 <blockquote>
   <p>And so you see what temper does<br>
@@ -737,7 +737,7 @@ Peter had been caught in a snare! Dani hurried over to Peter and tears stood in 
       <li><a href="#ch21">An Exciting Day for Dani Meadow Mouse</a></li>
       <li><a href="#ch22">What Happened Next to Dani Meadow Mouse</a></li>
       <li><a href="#ch23">Reddy Fox Grows Curious</a></li>
-      <li><a href="#ch24">Reddy Fox Loses Her Temper</a></li>
+      <li><a href="#ch24">Reddy Fox Loses His Temper</a></li>
     </ol>
   </section>
 </nav>

@@ -2,6 +2,14 @@
 
 <body class="{{ slug }}">
 
+<section class="site-stuff">
+  <select id="level-switcher" onchange="setLevel(this.value)">
+    <option value="">Full Text</option>
+    <option value="22">Level 22</option>
+    <option value="16">Level 16</option>
+  </select>
+</section>
+
 <header class="large">
 	<!--<p><i>The Famous Bedtime Story Books</i></p>
 	<p>by <b class="credits">Thornton W. Burgess</b><br />
@@ -34,6 +42,21 @@
        else
           e.className = 'hidden';
     }
+
+    function setLevel(level) {
+      if (level) {
+        localStorage.setItem('readingLevel', level);
+      } else {
+        localStorage.removeItem('readingLevel');
+      }
+    }
+
+    // Set dropdown to saved level on load
+    (function() {
+      var saved = localStorage.getItem('readingLevel') || '';
+      var sel = document.getElementById('level-switcher');
+      if (sel) sel.value = saved;
+    })();
 //-->
 </script>
 </body>

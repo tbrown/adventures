@@ -91,7 +91,7 @@ permalink: /dani-meadow-mouse-16/
 
   <p>She ran to the fence-post. Granny Fox stopped before the wires. She knew they were sharp.</p>
 
-  <p>But Reddy forgot about the wires. She jumped in. "OW!" She hurt her paw on a sharp wire.</p>
+  <p>But Reddy forgot about the wires. He jumped in. "OW!" He hurt his paw on a sharp wire.</p>
 
   <p>"That is what you get for forgetting," said Granny.</p>
 
@@ -336,20 +336,20 @@ permalink: /dani-meadow-mouse-16/
 
 <p>Dani stayed in the can. She was going to take a nap. Then she heard footsteps. It was Reddy Fox!</p>
 
-<p>Reddy sniffed around. She found where Dani had run. Her nose led her to the can.</p>
+<p>Reddy sniffed around. He found where Dani had run. His nose led him to the can.</p>
 
 <p>"I know you are in there!" said Reddy.</p>
 
 
-<h2 id="ch24"><a href="#ch24"><span>XXIV</span> Reddy Fox Loses Her Temper</a></h2>
+<h2 id="ch24"><a href="#ch24"><span>XXIV</span> Reddy Fox Loses His Temper</a></h2>
 
-<p>Reddy tried to get Dani out. She stuck her nose in the can. It was too small.</p>
+<p>Reddy tried to get Dani out. He stuck his nose in the can. It was too small.</p>
 
-<p>She put her paw in. Dani bit it! Reddy yelped. She tried the other paw. Dani bit that one too!</p>
+<p>He put his paw in. Dani bit it! Reddy yelped. He tried the other paw. Dani bit that one too!</p>
 
-<p>Reddy got very mad. She hit the can. It rolled away. She hit it again and again.</p>
+<p>Reddy got very mad. He hit the can. It rolled away. He hit it again and again.</p>
 
-<p>She hit it so many times that it rolled into the tall grass. It was right by one of Dani's paths!</p>
+<p>He hit it so many times that it rolled into the tall grass. It was right by one of Dani's paths!</p>
 
 <p>Dani ran out and down her path. She was safe! Reddy never knew how Dani got away.</p>
 
@@ -388,7 +388,7 @@ permalink: /dani-meadow-mouse-16/
       <li><a href="#ch21">An Exciting Day for Dani Meadow Mouse</a></li>
       <li><a href="#ch22">What Happened Next to Dani Meadow Mouse</a></li>
       <li><a href="#ch23">Reddy Fox Grows Curious</a></li>
-      <li><a href="#ch24">Reddy Fox Loses Her Temper</a></li>
+      <li><a href="#ch24">Reddy Fox Loses His Temper</a></li>
     </ol>
   </section>
 </nav>

@@ -56,9 +56,9 @@ permalink: /dani-meadow-mouse-22/
 
   <p>When Brother North Wind shook out the snowflakes until they covered the Green Meadows deep, deep, deep, Dani snuggled down in her snug little house of grass. Dani liked the snow. She loved to dig tunnels in it. Through those tunnels she could go where she pleased without being seen. Every little way she made a round doorway up beside a stiff stalk of grass. Out of this she could peep at the white world.</p>
 
-  <p>Reddy Fox knew all about those doorways. She was hungry most of the time this cold weather. One morning she spied Dani's head popping out of a doorway. Reddy crept forward and got ready to spring. But Dani had disappeared! Reddy jumped anyway and began to dig. All the time Dani was hurrying along one of her tunnels. When Reddy stopped digging, Dani popped her head out of another doorway and laughed at her.</p>
+  <p>Reddy Fox knew all about those doorways. He was hungry most of the time this cold weather. One morning he spied Dani's head popping out of a doorway. Reddy crept forward and got ready to spring. But Dani had disappeared! Reddy jumped anyway and began to dig. All the time Dani was hurrying along one of her tunnels. When Reddy stopped digging, Dani popped her head out of another doorway and laughed at him.</p>
 
-  <p>After a while Reddy tried another plan. She stretched out and pretended to be asleep. Dani watched for a long time, then dropped out of sight. Reddy crept over to the doorway and waited. "She'll stick her head out again to see if I'm asleep," said Reddy. So she waited and waited. By and by she turned her head. There was Dani at another doorway, laughing at her!</p>
+  <p>After a while Reddy tried another plan. He stretched out and pretended to be asleep. Dani watched for a long time, then dropped out of sight. Reddy crept over to the doorway and waited. "She'll stick her head out again to see if I'm asleep," said Reddy. So he waited and waited. By and by he turned his head. There was Dani at another doorway, laughing at him!</p>
 
 </section>
 
@@ -74,7 +74,7 @@ permalink: /dani-meadow-mouse-22/
   </figure>
 </aside>
 
-<p>Dani giggled all afternoon thinking about that game of hide and seek. Reddy had been "it" all the time, for never once had she caught Dani. Finally Reddy had given up in disgust and gone off to find something else for dinner. In her funny little squeaky voice Dani shouted:</p>
+<p>Dani giggled all afternoon thinking about that game of hide and seek. Reddy had been "it" all the time, for never once had he caught Dani. Finally Reddy had given up in disgust and gone off to find something else for dinner. In her funny little squeaky voice Dani shouted:</p>
 
 <blockquote>
   <p class="q">
@@ -104,7 +104,7 @@ permalink: /dani-meadow-mouse-22/
 
 <p class="q">"Ha! I almost got her!" cried Granny. She ran ahead and listened again. <em>Plunge!</em> She just missed again.</p>
 
-<p>Reddy watched and learned. She began plunging too. Now Dani had two foxes diving at her from above. Poor Dani! She didn't know which way to turn. So she sat still. This was the best thing she could do. When she sat still, she made no noise, and the foxes couldn't tell where she was.</p>
+<p>Reddy watched and learned. He began plunging too. Now Dani had two foxes diving at her from above. Poor Dani! She didn't know which way to turn. So she sat still. This was the best thing she could do. When she sat still, she made no noise, and the foxes couldn't tell where she was.</p>
 
 <p class="q">"Pooh!" said Granny after a while. "I'll give her a scare."</p>
 
@@ -121,7 +121,7 @@ permalink: /dani-meadow-mouse-22/
 
 <p>The old fence-post lay on the ground and was hollow. Fastened to it were long wires with sharp barbs. In that hollow Dani had a secret store of seeds. She dodged into the tunnel that led to the fence-post, running faster than ever. Though her heart was full of fear, it was also full of hope.</p>
 
-<p>Old Granny Fox knew about that fence-post and those barbed wires. Just before she reached them, she stopped plunging. Reddy knew about those wires too, but she was so excited that she forgot.</p>
+<p>Old Granny Fox knew about that fence-post and those barbed wires. Just before she reached them, she stopped plunging. Reddy knew about those wires too, but he was so excited that he forgot.</p>
 
 <p class="q">"Stop!" cried Granny sharply.</p>
 
@@ -129,7 +129,7 @@ permalink: /dani-meadow-mouse-22/
 
 <p class="q">"Oh! Oh! Ow! Ow!"</p>
 
-<p>That wasn't Dani. It was Reddy Fox. She had landed with her paw right on a sharp wire barb.</p>
+<p>That wasn't Dani. It was Reddy Fox. He had landed with his paw right on a sharp wire barb.</p>
 
 <p class="q">"It serves you right for forgetting!" snapped Granny as Reddy hobbled behind her on three legs.</p>
 
@@ -153,7 +153,7 @@ permalink: /dani-meadow-mouse-22/
 
 <p class="q">"Dani won't put her nose out for a day or two," Granny said to herself. "Then she'll get tired of staying inside. She'll peep out to see if the way is clear. If nothing frightens her, she'll go a little farther each day. I must see to it that she isn't frightened for a few days."</p>
 
-<p>She told Reddy not to go down on the meadows. Reddy grumbled, but she had a sore foot from the wire barb. She had to run on three legs. So she didn't dare disobey.</p>
+<p>She told Reddy not to go down on the meadows. Reddy grumbled, but he had a sore foot from the wire barb. He had to run on three legs. So he didn't dare disobey.</p>
 
 <p>It all came out just as Granny had planned. Dani <em>did</em> get tired of staying inside. She <em>did</em> peep out first, then run a little way on the snow, then a little farther each day.</p>
 
@@ -497,36 +497,36 @@ permalink: /dani-meadow-mouse-22/
 
 <p>Soon a whiff of scent blew into the can. It <em>was</em> Reddy!</p>
 
-<p class="q">"I hope she doesn't find me," thought Dani.</p>
+<p class="q">"I hope he doesn't find me," thought Dani.</p>
 
-<p>It was curiosity that had brought Reddy. She had seen Redtail strike at something and miss. "I wonder what that was about," Reddy had thought. "I believe I'll go see."</p>
+<p>It was curiosity that had brought Reddy. He had seen Redtail strike at something and miss. "I wonder what that was about," Reddy had thought. "I believe I'll go see."</p>
 
-<p>Now Reddy ran back and forth with her nose to the ground. Suddenly she stopped. "Ha!" She had found where Dani had run across the open place. Her nose led her right to the old can. She hopped over it, but on the other side there was no scent. In a flash she understood. Dani was hiding inside!</p>
+<p>Now Reddy ran back and forth with his nose to the ground. Suddenly he stopped. "Ha!" He had found where Dani had run across the open place. His nose led him right to the old can. He hopped over it, but on the other side there was no scent. In a flash he understood. Dani was hiding inside!</p>
 
-<p class="q">"I've got you this time!" she snarled, sniffing at the opening.</p>
+<p class="q">"I've got you this time!" he snarled, sniffing at the opening.</p>
 
 
-<h2 id="ch24"><a href="#ch24"><span>XXIV</span> Reddy Fox Loses Her Temper</a></h2>
+<h2 id="ch24"><a href="#ch24"><span>XXIV</span> Reddy Fox Loses His Temper</a></h2>
 
-<p>Reddy had found Dani, and she was in no hurry. She lay down to peep into the can.</p>
+<p>Reddy had found Dani, and he was in no hurry. He lay down to peep into the can.</p>
 
-<p class="q">"I've got you this time, Miss Smarty," she taunted. "What are you going to do about it?"</p>
+<p class="q">"I've got you this time, Miss Smarty," he taunted. "What are you going to do about it?"</p>
 
 <p>Dani didn't answer. She was too frightened. But she was thinking hard. She had been in tight places before. Something might happen. Anyway, Reddy still had to get her out of this can.</p>
 
-<p>Reddy spent a long time saying scary things. At last she decided to end it. She thrust her nose into the opening, but it was too small. She only scratched it on the sharp edges.</p>
+<p>Reddy spent a long time saying scary things. At last he decided to end it. He thrust his nose into the opening, but it was too small. He only scratched it on the sharp edges.</p>
 
 <p class="q">"I'll pull you out," said Reddy, thrusting in a paw.</p>
 
-<p>Dani bit it hard! Reddy yelped and pulled it out. She tried the other paw. Dani bit that one even harder! Reddy danced with pain and anger. Then she lost her temper.</p>
+<p>Dani bit it hard! Reddy yelped and pulled it out. He tried the other paw. Dani bit that one even harder! Reddy danced with pain and anger. Then he lost his temper.</p>
 
-<p>She hit the can, and away it rolled with Dani inside. She hit it again and again, batting it this way and that. She was so angry she didn't notice where she was knocking it.</p>
+<p>He hit the can, and away it rolled with Dani inside. He hit it again and again, batting it this way and that. He was so angry he didn't notice where he was knocking it.</p>
 
-<p>Finally she sent it spinning into the long grass on the far side of the open place—right near one of Dani's private paths. Like a flash, Dani was out and running. She dodged into one path, then another, and reached a tangle of barbed wire where she was safe.</p>
+<p>Finally he sent it spinning into the long grass on the far side of the open place—right near one of Dani's private paths. Like a flash, Dani was out and running. She dodged into one path, then another, and reached a tangle of barbed wire where she was safe.</p>
 
 <p class="q">"Whew!" said Dani. "That was the closest yet! But I guess I'll get that special grass seed after all."</p>
 
-<p>And she did. While to this day, Reddy Fox wonders how Dani got out of that can without her knowing it.</p>
+<p>And she did. While to this day, Reddy Fox wonders how Dani got out of that can without his knowing it.</p>
 
 <blockquote>
   <p>And so you see what temper does<br>
@@ -563,7 +563,7 @@ permalink: /dani-meadow-mouse-22/
       <li><a href="#ch21">An Exciting Day for Dani Meadow Mouse</a></li>
       <li><a href="#ch22">What Happened Next to Dani Meadow Mouse</a></li>
       <li><a href="#ch23">Reddy Fox Grows Curious</a></li>
-      <li><a href="#ch24">Reddy Fox Loses Her Temper</a></li>
+      <li><a href="#ch24">Reddy Fox Loses His Temper</a></li>
     </ol>
   </section>
 </nav>

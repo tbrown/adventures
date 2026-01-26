@@ -5,14 +5,11 @@
 <header>
    <section class="site-stuff">
       <p><a href="/"><i>The Adventures of&hellip;</i></a></p>
-      {% assign levels = storyLevels[slug] %}
-      {% if levels %}
-      <select id="level-switcher" onchange="window.location.href = this.value;">
-        <option value="/{{ slug }}/"{% unless level %} selected{% endunless %}>Full Text</option>
-        {% for lvl in levels %}<option value="/{{ slug }}-{{ lvl }}/"{% if level == lvl %} selected{% endif %}>Level {{ lvl }}</option>
-        {% endfor %}
+      <select id="level-switcher" onchange="setLevel(this.value)">
+        <option value=""{% unless level %} selected{% endunless %}>Full Text</option>
+        <option value="22"{% if level == 22 %} selected{% endif %}>Level 22</option>
+        <option value="16"{% if level == 16 %} selected{% endif %}>Level 16</option>
       </select>
-      {% endif %}
    </section>
    <div class="story-stuff-wrap">
    <section id="story-stuff" class="large">
@@ -58,6 +55,21 @@
           e.className = 'large';
        else
           e.className = 'small';
+    }
+    function setLevel(level) {
+      var slug = '{{ slug }}';
+      var defined = {{ storyLevels | json }};
+      if (level) {
+        localStorage.setItem('readingLevel', level);
+        if (defined[slug]) {
+          window.location.href = '/' + slug + '-' + level + '/';
+        }
+      } else {
+        localStorage.removeItem('readingLevel');
+        if (defined[slug]) {
+          window.location.href = '/' + slug + '/';
+        }
+      }
     }
     window.addEventListener('scroll', () => {
     const storyHeader = document.getElementById('story-stuff');
